@@ -8,3 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+
+I'm a Lecturer in Natural Language Processing in the Computer Science Department of the University of Sheffield, co-affiliated with the Machine Learning (ML) group. Previously, I was a Lecturer in Data Science at the Information School, University of Sheffield. I've gained industrial experience working as a scientist at Amazon (Amazon Research Cambridge and Alexa). I was a research associate at UCL, Department of Computer Science, Media Futures Group. I completed a PhD in Natural Language Processing at the University of Sheffield, Department of Computer Science. For more details, see my [CV](http://naletras.github.io/files/nikos_cv.pdf)
+
+My research interests are in NLP, Machine Learning and Data Science. Specifically, I'm interested in NLP for social media analysis and the law, data efficient NLP and topic modelling. For more details, see my recent [publications](_pages/publications.html)
+
+If you are interested in doing a PhD with me drop me an email (n.aletras@sheffield.ac.uk).

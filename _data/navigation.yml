@@ -4,23 +4,16 @@ main:
   - title: "team"
     url: /team/
 
-  - title: "Publications"
-    url: /publications/
+  - title: "publications"
+    url: /publications/    
 
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "teaching"
+    url: /teaching/   
+  
+  - title: "talks"
+    url: /talks/ 
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "press"
+    url: /media/
         
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+  
