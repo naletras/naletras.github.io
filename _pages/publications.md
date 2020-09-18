@@ -55,7 +55,7 @@ author_profile: true
 	[<a href="https://www.aclweb.org/anthology/P19-1424">pdf</a>][<a href="https://www.aclweb.org/anthology/papers/P/P19/P19-1424.bib">bib</a>]
 * D. Preoţiuc-Pietro, M. Gaman and <strong>N. Aletras</strong> (2019). *Automatically  Identifying Complaints in Social Media*. **ACL**\
 	[<a href="https://www.aclweb.org/anthology/P19-1495">pdf</a>][<a href="https://www.aclweb.org/anthology/papers/P/P19/P19-1495.bib">bib</a>]
-* A. Alokaili, <strong>N. Aletras</strong> and M. Stevenson (2019). *Re-Ranking Words to Improve Interpretability of Automatically Generated Topics*. **IWCS**
+* A. Alokaili, <strong>N. Aletras</strong> and M. Stevenson (2019). *Re-Ranking Words to Improve Interpretability of Automatically Generated Topics*. **IWCS**\
 	[<a href="https://arxiv.org/pdf/1903.12542.pdf">pdf</a>][<a href="https://www.aclweb.org/anthology/W19-0404.bib">bib</a>]
 * A. Tsakalidis, <strong>N. Aletras</strong>, M. Liakata and A. Cristea (2018). *Nowcasting the Stance of Social Media Users in a Sudden Vote: The Case of the Greek Referendum*. **ACM CIKM**\
 	[<a href="https://arxiv.org/pdf/1808.08538.pdf">pdf</a>][<a href="https://dl.acm.org/downformats.cfm?id=3271783&amp;parent_id=3269206&amp;expformat=bibtex">bib</a>]
@@ -84,7 +84,7 @@ author_profile: true
 * <b>N. Aletras</b> and M. Stevenson (2013). *Representing Topics Using Images*. **NAACL-HLT**\
 	[<a href="http://www.aclweb.org/anthology/N/N13/N13-1016.pdf">pdf</a>][<a href="http://www.aclweb.org/anthology/N/N13/N13-1016.bib">bib</a>][<a href="http://techtalks.tv/talks/representing-topics-using-images/58444/">video</a>][<a href="">data</a>]
 * <b>N. Aletras</b> and M. Stevenson (2013). *Evaluating Topic Coherence Using Distributional Semantics*. **IWCS**\
-	[<a href="http://www.aclweb.org/anthology/W/W13/W13-0102.pdf">pdf</a>][<a href="http://www.aclweb.org/anthology/W/W13/W13-0102.bib">bib</a>][<a href="http://naletras.github.io/files/TopicCoherence300.tar.gz">data set</a>]
+	[<a href="http://www.aclweb.org/anthology/W/W13/W13-0102.pdf">pdf</a>][<a href="http://www.aclweb.org/anthology/W/W13/W13-0102.bib">bib</a>][<a href="http://naletras.github.io/files/TopicCoherence300.tar.gz">data</a>]
 * E. Agirre, <b>N. Aletras</b>, A. Gonzalez-Agirre, G. Rigau, M. Stevenson (2013). *UBC UOS-TYPED: Regression for typed-similarity*. **\*SEM**\
 	[<a href="http://www.aclweb.org/anthology/S/S13/S13-1018.pdf">pdf</a>][<a href="http://www.aclweb.org/anthology/S/S13/S13-1018.bib">bib</a>]
 * E. Agirre, <b>N. Aletras</b>, P. Clough, S. Fernando, P. Goodale, M. Hall, A. Soroa, M. Stevenson (2013). *PATHS: A System for Accessing Cultural Heritage Collections*. **ACL** (demo)\
