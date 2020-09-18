@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+{% include base_path %}
 
 I'm a Lecturer in Natural Language Processing in the Computer Science Department of the University of Sheffield, co-affiliated with the Machine Learning (ML) group. Previously, I was a Lecturer in Data Science at the Information School, University of Sheffield. I've gained industrial experience working as a scientist at Amazon (Amazon Research Cambridge and Alexa). I was a research associate at UCL, Department of Computer Science, Media Futures Group. I completed a PhD in Natural Language Processing at the University of Sheffield, Department of Computer Science. For more details, see my [CV](http://naletras.github.io/files/nikos_cv.pdf)
 
