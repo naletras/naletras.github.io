@@ -2,9 +2,9 @@
 permalink: /team/
 title: "Team"
 author_profile: true
-redirect_from: 
+<!-- redirect_from: 
   - /team/
-  - /team.html
+  - /team.html -->
 ---
 
 {% include base_path %}
