@@ -1,10 +1,9 @@
 ---
-permalink: /
-title: "About"
-excerpt: "About me"
+permalink: /team/
+title: "Team"
 author_profile: true
 redirect_from: 
-  - /about/
+  - /team/
   - /about.html
 ---
 
