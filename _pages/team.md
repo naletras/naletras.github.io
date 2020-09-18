@@ -4,7 +4,7 @@ title: "Team"
 author_profile: true
 redirect_from: 
   - /team/
-  - /about.html
+  - /team.html
 ---
 
 {% include base_path %}
