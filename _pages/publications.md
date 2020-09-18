@@ -45,13 +45,13 @@ author_profile: true
 	[pdf][<a href="">bib</a>]
 * A. Maronikolakis, D. Sanchez Villegas, D. Preoţiuc-Pietro and <strong>N. Aletras</strong> (2020). *Analyzing Political Parody in Social Media*. **ACL**\
 	[<a href="https://www.aclweb.org/anthology/2020.acl-main.403.pdf">pdf</a>][<a href="https://www.aclweb.org/anthology/2020.acl-main.403.bib">bib</a>][<a href="https://archive.org/details/parody_data_acl20">data</a>]
-* A. Alokaili, <strong>N. Aletras</strong> and M. Stevenson (2020). **Automatic Generation of Topic Labels**. **SIGIR**\
+* A. Alokaili, <strong>N. Aletras</strong> and M. Stevenson (2020). *Automatic Generation of Topic Labels*. **SIGIR**\
 	[<a href="https://arxiv.org/ftp/arxiv/papers/2006/2006.00127.pdf">pdf</a>][<a href="http://naletras.github.io/files/sigir20.bib">bib</a>][<a href=" https://github.com/areejokaili/topic_labelling">data and code</a>]
 * F. Blain, <strong>N. Aletras</strong> and L. Specia (2020). *Quality In, Quality Out: Learning from Actual Mistakes*. **EAMT**\
 	[<a href="https://www.aclweb.org/anthology/2020.eamt-1.16.pdf">pdf</a>][<a href="https://www.aclweb.org/anthology/2020.eamt-1.16.bib">bib</a>]
 * T. Karmakharm, <strong>N. Aletras</strong> and K. Bontcheva (2019). *Journalist-in-the-Loop: Continuous Learning as a Service for Rumour Analysis*. **EMNLP** (demo)\
 	[<a href="https://www.aclweb.org/anthology/D19-3020.pdf">pdf</a>][<a href="https://www.aclweb.org/anthology/D19-3020.bib">bib</a>][<a href="https://tweetveracity.gate.ac.uk/">demo</a>]
-* I. Chalkidis, I. Androutsopoulos and <strong>N. Aletras</strong> (2019). <strong>Neural Legal Judgment Prediction in English</strong>. **ACL**\
+* I. Chalkidis, I. Androutsopoulos and <strong>N. Aletras</strong> (2019). *Neural Legal Judgment Prediction in English*. **ACL**\
 	[<a href="https://www.aclweb.org/anthology/P19-1424">pdf</a>][<a href="https://www.aclweb.org/anthology/papers/P/P19/P19-1424.bib">bib</a>]
 * D. Preoţiuc-Pietro, M. Gaman and <strong>N. Aletras</strong> (2019). *Automatically  Identifying Complaints in Social Media*. **ACL**\
 	[<a href="https://www.aclweb.org/anthology/P19-1495">pdf</a>][<a href="https://www.aclweb.org/anthology/papers/P/P19/P19-1495.bib">bib</a>]
