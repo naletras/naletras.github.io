@@ -23,16 +23,12 @@ author_profile: true
 \[[pdf](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00330)\]\[[html](https://www.mitpressjournals.org/doi/full/10.1162/tacl_a_00330)\]\[[bib]()\]
 * **N. Aletras**, T. Baldwin, J. H. Lau and M. Stevenson (2017). *Evaluating Topic Representations for Exploring Document Collections*. **JASIST**\
 [pdf](http://onlinelibrary.wiley.com/doi/10.1002/asi.23574/epdf)[html](http://onlinelibrary.wiley.com/doi/10.1002/asi.23574/full)[bib](http://naletras.github.io/files/jasist15a.bib)
-
 * <b>N. Aletras</b>, D. Tsarapatsanis, D. Preoţiuc-Pietro and V. Lampos (2016). *Predicting Judicial Decisions of the European Court of Human Rights: A Natural Language Processing Perspective*, **Peer J Computer Science**\
 [<a href="https://peerj.com/articles/cs-93.pdf">pdf</a>][<a href="https://peerj.com/articles/cs-93/">html</a>][<a href="https://peerj.com/articles/cs-93.bib">bib</a>][<a href="https://figshare.com/s/6f7d9e7c375ff0822564">data set</a>]
-
 * A. Gonzalez-Agirre, G. Rigau, E. Agirre, <b>N. Aletras</b> and M. Stevenson (2016). *Why are these similar? Investigating item similarity types in a large Digital Library*. **JASIST**\
 [<a href="http://onlinelibrary.wiley.com/doi/10.1002/asi.23482/epdf">pdf</a>][<a href="http://onlinelibrary.wiley.com/doi/10.1002/asi.23482/full">html</a>][<a href="http://naletras.github.io/files/jasist15b.bib">bib</a>]
-
 * D. Preoţiuc-Pietro, S. Volkova, V. Lampos, Y. Bachrach, <b>N. Aletras</b> (2015). *Studying User Income through Language, Behaviour and Affect in Social Media*. **PLOS ONE**\
 [<a href="http://www.plosone.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0138717&amp;representation=PDF">pdf</a>][<a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0138717">html</a>][<a href="http://www.plosone.org/article/getBibTexCitation.action?articleURI=info%3Adoi%2F10.1371%2Fjournal.pone.0138717">bib</a>][<a href="http://figshare.com/articles/Twitter_User_Income_Dataset/1515997">data set</a>]
-
 * <b>N. Aletras</b>, M. Stevenson and P. Clough (2012). *Computing Similarity between Items in a Digital Library of Cultural Heritage*. **ACM JOCCH**.\
 [<a href="http://dl.acm.org/authorize?6886895">pdf</a>][<a href="http://dl.acm.org/downformats.cfm?id=2399184&amp;parent_id=2399180&amp;expformat=bibtex&amp;CFID=270429833&amp;CFTOKEN=32772545">bib</a>]
 
