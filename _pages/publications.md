@@ -32,3 +32,66 @@ author_profile: true
 * <b>N. Aletras</b>, M. Stevenson and P. Clough (2012). *Computing Similarity between Items in a Digital Library of Cultural Heritage*. **ACM JOCCH**.\
 [<a href="http://dl.acm.org/authorize?6886895">pdf</a>][<a href="http://dl.acm.org/downformats.cfm?id=2399184&amp;parent_id=2399180&amp;expformat=bibtex&amp;CFID=270429833&amp;CFTOKEN=32772545">bib</a>]
 
+
+
+
+### Conference Papers
+
+* I. Chalkidis, M. Fregadiotis, S. Kotitsas, P. Malakatsiotis, <strong>N. Aletras</strong> and I. Androutsopoulos (2020). *An Empirical Study on Large-Scale Multi-Label Text Classification including Few and Zero-Shot Labels*. **EMNLP**\
+	[pdf][<a href="">bib</a>]
+* I. Chalkidis, M. Fregadiotis, P. Malakatsiotis, <strong>N. Aletras</strong> and I. Androutsopoulos (2020). *LEGAL-BERT: &quot;Preparing the Muppets for Court&#39;&quot;*. **EMNLP Findings**\
+	[pdf][<a href="">bib</a>]
+* D. Sanchez Villegas, D. Preoţiuc-Pietro and <strong>N. Aletras</strong> (2020). *Point-of-Interest Type Inference from Social Media Text*. **AACL**\
+	[pdf][<a href="">bib</a>]
+* A. Maronikolakis, D. Sanchez Villegas, D. Preoţiuc-Pietro and <strong>N. Aletras</strong> (2020). *Analyzing Political Parody in Social Media*. **ACL**\
+	[<a href="https://www.aclweb.org/anthology/2020.acl-main.403.pdf">pdf</a>][<a href="https://www.aclweb.org/anthology/2020.acl-main.403.bib">bib</a>][<a href="https://archive.org/details/parody_data_acl20">data</a>]
+* A. Alokaili, <strong>N. Aletras</strong> and M. Stevenson (2020). **Automatic Generation of Topic Labels**. **SIGIR**\
+	[<a href="https://arxiv.org/ftp/arxiv/papers/2006/2006.00127.pdf">pdf</a>][<a href="http://naletras.github.io/files/sigir20.bib">bib</a>][<a href=" https://github.com/areejokaili/topic_labelling">data and code</a>]
+* F. Blain, <strong>N. Aletras</strong> and L. Specia (2020). *Quality In, Quality Out: Learning from Actual Mistakes*. **EAMT**\
+	[<a href="https://www.aclweb.org/anthology/2020.eamt-1.16.pdf">pdf</a>][<a href="https://www.aclweb.org/anthology/2020.eamt-1.16.bib">bib</a>]
+* T. Karmakharm, <strong>N. Aletras</strong> and K. Bontcheva (2019). *Journalist-in-the-Loop: Continuous Learning as a Service for Rumour Analysis*. **EMNLP** (demo)\
+	[<a href="https://www.aclweb.org/anthology/D19-3020.pdf">pdf</a>][<a href="https://www.aclweb.org/anthology/D19-3020.bib">bib</a>][<a href="https://tweetveracity.gate.ac.uk/">demo</a>]
+* I. Chalkidis, I. Androutsopoulos and <strong>N. Aletras</strong> (2019). <strong>Neural Legal Judgment Prediction in English</strong>. **ACL**\
+	[<a href="https://www.aclweb.org/anthology/P19-1424">pdf</a>][<a href="https://www.aclweb.org/anthology/papers/P/P19/P19-1424.bib">bib</a>]
+* D. Preoţiuc-Pietro, M. Gaman and <strong>N. Aletras</strong> (2019). *Automatically  Identifying Complaints in Social Media*. **ACL**\
+	[<a href="https://www.aclweb.org/anthology/P19-1495">pdf</a>][<a href="https://www.aclweb.org/anthology/papers/P/P19/P19-1495.bib">bib</a>]
+* A. Alokaili, <strong>N. Aletras</strong> and M. Stevenson (2019). *Re-Ranking Words to Improve Interpretability of Automatically Generated Topics*. **IWCS**
+	[<a href="https://arxiv.org/pdf/1903.12542.pdf">pdf</a>][<a href="https://www.aclweb.org/anthology/W19-0404.bib">bib</a>]
+* A. Tsakalidis, <strong>N. Aletras</strong>, M. Liakata and A. Cristea (2018). *Nowcasting the Stance of Social Media Users in a Sudden Vote: The Case of the Greek Referendum*. **ACM CIKM**\
+	[<a href="https://arxiv.org/pdf/1808.08538.pdf">pdf</a>][<a href="https://dl.acm.org/downformats.cfm?id=3271783&amp;parent_id=3269206&amp;expformat=bibtex">bib</a>]
+* <strong>N. Aletras</strong>,&nbsp; B. P. Chamberlain (2018). *Predicting Twitter User Socioeconomic Attributes with Network and Language Information* **ACM HT**\
+	[<a href="https://arxiv.org/pdf/1804.04095.pdf">pdf</a>][<a href="https://dl.acm.org/downformats.cfm?id=3209577&amp;parent_id=3209542&amp;expformat=bibtex">bib</a>]
+* I. Soroduc, J.&nbsp;H.&nbsp;Lau,&nbsp;<strong>N. Aletras</strong>,&nbsp; T.&nbsp;Baldwin&nbsp;(2017). *Multimodal Topic Labelling* **EACL**\
+	[<a href="http://aclweb.org/anthology/E/E17/E17-2111.pdf">pdf</a>][<a href="http://aclweb.org/anthology/E/E17/E17-2111.bib">bib</a>]
+* <strong>N. Aletras</strong> and A. Mittal (2017). *Labeling Topics with Images using Neural Networks*. **ECIR**\
+	[<a href="https://arxiv.org/pdf/1608.00470v2.pdf">pdf</a>][<a href="http://dblp.uni-trier.de/rec/bibtex/journals/corr/AletrasM16">bib</a>]
+* V. Lampos, <b>N. Aletras</b>, J. K. Geyti, B. Zou, I. J. Cox (2016). *Inferring the Socioeconomic Status of Social Media Users based on Behaviour and Language*. **ECIR**\
+	[<a href="http://naletras.github.io/files/ecir16.pdf">pdf</a>][<a href="http://naletras.github.io/files/ecir16.bib">bib</a>]
+* D. Preoţiuc-Pietro, V. Lampos and <b>N. Aletras</b> (2015). <b>An Analysis of the User Occupational Class through Twitter Content</b>. In ACL.<br />
+	[<a href="resources/2015_ACL_Jobs.pdf">pdf</a>][<a href="http://aclweb.org/anthology/P/P15/P15-1169.bib">bib</a>]
+* <strong>N.&nbsp;Aletras</strong>, J.&nbsp;H.&nbsp;Lau, T.&nbsp;Baldwin, M.&nbsp;Stevenson (2015). <strong>TM 2015 -- Topic Models: Post-Processing and Applications Workshop</strong>. In CIKM.<br />
+	[<a href="resources/tm_cikm15.pdf">pdf</a>][<a href="resources/tm_cikm15.bib">bib</a>]
+* <b>N. Aletras</b> and M. Stevenson (2015). <b>A Hybrid Distributional and Knowledge-based Model of Lexical Semantics </b>. In *SEM.<br />
+	[<a href="http://aclweb.org/anthology/S/S15/S15-1003.pdf">pdf</a>][<a href="http://aclweb.org/anthology/S/S15/S15-1003.bib">bib</a>]
+* <b>N. Aletras</b>, T. Baldwin, J. H. Lau and M. Stevenson (2014). <b>Representing Topics Labels for Exploring Digital Libraries</b>. In JCDL.<br />
+	[<a href="resources/dl20140_submission_100.pdf">pdf</a>][<a href="resources/jcdl14.bib">bib</a>]
+* <b>N. Aletras</b> and M. Stevenson (2014). <b>Labelling Topics using Unsupervised Graph-based Methods</b>. In ACL (short).<br />
+	[<a href="resources/ACL14_Topic_Labelling.pdf">pdf</a>][<a href="http://www.aclweb.org/anthology/P/P14/P14-2103.bib">bib</a>][<a href="resources/acl2014_poster.pdf">poster</a>]
+* V. Lampos, <b>N. Aletras</b>, D. Preoţiuc-Pietro and T. Cohn (2014). <b>Predicting and Characterising User Impact on Twitter</b>. In EACL.<br />
+	[<a href="http://www.lampos.net/sites/default/files/papers/lampos2014impact.pdf">pdf</a>][<a href="http://www.aclweb.org/anthology/E/E14/E14-1043.bib">bib</a>][<a href="resources/EACL14posterPortrait.pdf">poster</a>]
+* <b>N. Aletras</b> and M. Stevenson (2014). <b>Measuring the Similarity between Automatically Generated Topics</b>. In EACL (short).<br />
+	[<a href="resources/2014_eacl_topicSim_short.pdf">pdf</a>][<a href="http://www.aclweb.org/anthology/E/E14/E14-4005.bib">bib</a>][<a href="resources/topicSim.tar.gz">data set</a>]
+* <b>N. Aletras</b> and M. Stevenson (2013). <b>Representing Topics Using Images</b>. In NAACL-HLT.<br />
+	[<a href="http://www.aclweb.org/anthology/N/N13/N13-1016.pdf">pdf</a>][<a href="http://www.aclweb.org/anthology/N/N13/N13-1016.bib">bib</a>][<a href="http://techtalks.tv/talks/representing-topics-using-images/58444/">video</a>][<a href="resources/datasetNAACL13.tar.gz">data set</a>]
+* <b>N. Aletras</b> and M. Stevenson (2013). <b>Evaluating Topic Coherence Using Distributional Semantics </b>. In IWCS.<br />
+	[<a href="http://www.aclweb.org/anthology/W/W13/W13-0102.pdf">pdf</a>][<a href="http://www.aclweb.org/anthology/W/W13/W13-0102.bib">bib</a>][<a href="resources/TopicCoherence300.tar.gz">data set</a>]
+* E. Agirre, <b>N. Aletras</b>, A. Gonzalez-Agirre, G. Rigau, M. Stevenson (2013). <b>UBC UOS-TYPED: Regression for typed-similarity</b>. In *SEM.<br />
+	[<a href="http://www.aclweb.org/anthology/S/S13/S13-1018.pdf">pdf</a>][<a href="http://www.aclweb.org/anthology/S/S13/S13-1018.bib">bib</a>][<a href="http://clic.cimec.unitn.it/starsem2013-program/58_Presentation.pdf">poster</a>]
+* E. Agirre, <b>N. Aletras</b>, P. Clough, S. Fernando, P. Goodale, M. Hall, A. Soroa, M. Stevenson (2013). <b>PATHS: A System for Accessing Cultural Heritage Collections</b>. In ACL (demo).<br />
+	[<a href="http://www.aclweb.org/anthology/P/P13/P13-4026.pdf">pdf</a>][<a href="http://www.aclweb.org/anthology/P/P13/P13-4026.bib">bib</a>]
+* M. Hall, E. Agirre, <b>N. Aletras</b>, R. Bergheim, K. Chandrinos, P. Clough, S. Fernando, K. Fernie, P. Goodale, J. Griffiths, O. Lopez de Lacalle, A. de Polo, A. Soroa and M. Stevenson (2012). <b>PATHS - Exploring Digital Cultural Heritage Spaces</b>. In TPDL (demo).<br />
+	[<a href="http://link.springer.com/content/pdf/10.1007%2F978-3-642-33290-6_59.pdf">pdf</a>][<a href="resources/echir12.bib">bib</a>]
+
+
+
+
