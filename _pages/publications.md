@@ -19,8 +19,8 @@ author_profile: true
 
 ### Journal Papers
 
-* M. Fomicheva, S.Sun, L. Yankovskaya, F. Blain, F. Guzman, M. Fishel, **N. Aletras**, V. Chaudhary and L. Specia (2020). *Unsupervised Quality Estimation for Neural Machine Translation*. **TACL**
-[pdf](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00330)[html](https://www.mitpressjournals.org/doi/full/10.1162/tacl_a_00330)[bib]()
+* M. Fomicheva, S.Sun, L. Yankovskaya, F. Blain, F. Guzman, M. Fishel, **N. Aletras**, V. Chaudhary and L. Specia (2020). *Unsupervised Quality Estimation for Neural Machine Translation*. **TACL**  
+\[[pdf](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00330)\]\[[html](https://www.mitpressjournals.org/doi/full/10.1162/tacl_a_00330)\]\[[bib]()\]
 
 * **N. Aletras**, T. Baldwin, J. H. Lau and M. Stevenson (2017). *Evaluating Topic Representations for Exploring Document Collections*. **JASIST**
 	[pdf](http://onlinelibrary.wiley.com/doi/10.1002/asi.23574/epdf)[html](http://onlinelibrary.wiley.com/doi/10.1002/asi.23574/full)[bib](http://naletras.github.io/files/jasist15a.bib)
