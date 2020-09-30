@@ -37,6 +37,8 @@ author_profile: true
 
 ### Conference Papers
 
+* M. Jin and **N. Aletras** (2020). *Complaint Identification in Social Media with Transformer Networks*. **COLING**\
+	[pdf][<a href="">bib</a>]
 * I. Chalkidis, M. Fregadiotis, S. Kotitsas, P. Malakatsiotis, <strong>N. Aletras</strong> and I. Androutsopoulos (2020). *An Empirical Study on Large-Scale Multi-Label Text Classification including Few and Zero-Shot Labels*. **EMNLP**\
 	[pdf][<a href="">bib</a>]
 * I. Chalkidis, M. Fregadiotis, P. Malakatsiotis, <strong>N. Aletras</strong> and I. Androutsopoulos (2020). *LEGAL-BERT: &quot;Preparing the Muppets for Court&quot;*. **EMNLP Findings**\
