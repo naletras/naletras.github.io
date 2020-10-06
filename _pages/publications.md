@@ -41,7 +41,7 @@ author_profile: true
 	[pdf][<a href="">bib</a>]
 * I. Chalkidis, M. Fregadiotis, S. Kotitsas, P. Malakatsiotis, <strong>N. Aletras</strong> and I. Androutsopoulos (2020). *An Empirical Study on Large-Scale Multi-Label Text Classification including Few and Zero-Shot Labels*. **EMNLP**\
 	[pdf][<a href="">bib</a>]
-* I. Chalkidis, M. Fregadiotis, P. Malakatsiotis, <strong>N. Aletras</strong> and I. Androutsopoulos (2020). *LEGAL-BERT: &quot;Preparing the Muppets for Court&quot;*. **EMNLP Findings**\
+* I. Chalkidis, M. Fregadiotis, P. Malakatsiotis, <strong>N. Aletras</strong> and I. Androutsopoulos (2020). *LEGAL-BERT: The Muppets straight out of Law School*. **EMNLP Findings**\
 	[pdf][<a href="">bib</a>]
 * D. Sanchez Villegas, D. Preoţiuc-Pietro and <strong>N. Aletras</strong> (2020). *Point-of-Interest Type Inference from Social Media Text*. **AACL**\
 	[[pdf](https://arxiv.org/pdf/2009.14734.pdf)][<a href="">bib</a>]
