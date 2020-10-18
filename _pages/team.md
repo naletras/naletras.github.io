@@ -11,7 +11,7 @@ author_profile: true
 
 ### Research Staff
 
-* Marina Fomicheva, Project: Bergamot, working with [Lucia Specia](http://staffwww.dcs.shef.ac.uk/people/L.Specia)
+* Marina Fomicheva (with [Lucia Specia](http://staffwww.dcs.shef.ac.uk/people/L.Specia))
 
 
 ### PhD Students
@@ -28,10 +28,14 @@ author_profile: true
 * [Ilias Chalkidis](https://iliaschalkidis.github.io/) (at Athens University of Economics and Business, co-supervised with [Ion Androutsopoulos](http://www2.aueb.gr/users/ion//))
 
 
+### Interns
+
+* [Atsuki Yamaguchi](https://gucci-j.github.io/about/)
+
 ### Research Staff Alumni
 
-* [Fred Blain](https://fredblain.org/) (Project: Bergamot, working with [Lucia Specia](http://staffwww.dcs.shef.ac.uk/people/L.Specia))
-* [Twin Karmakharm](https://www.twin.uk.com/) (Project: Journalist-in-the-loop, working with [Kalina Bontcheva](http://staffwww.dcs.shef.ac.uk/people/K.Bontcheva/))
+* [Fred Blain](https://fredblain.org/) (with [Lucia Specia](http://staffwww.dcs.shef.ac.uk/people/L.Specia))
+* [Twin Karmakharm](https://www.twin.uk.com/) (with [Kalina Bontcheva](http://staffwww.dcs.shef.ac.uk/people/K.Bontcheva/))
 
 
 ### Interns Alumni
