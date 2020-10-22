@@ -19,7 +19,7 @@ author_profile: true
 
 ### Journal Papers
 
-* M. Fomicheva, S.Sun, L. Yankovskaya, F. Blain, F. Guzman, M. Fishel, **N. Aletras**, V. Chaudhary and L. Specia (2020). *Unsupervised Quality Estimation for Neural Machine Translation*. **TACL**\
+* M. Fomicheva, S. Sun, L. Yankovskaya, F. Blain, F. Guzman, M. Fishel, **N. Aletras**, V. Chaudhary and L. Specia (2020). *Unsupervised Quality Estimation for Neural Machine Translation*. **TACL**\
 \[[pdf](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00330)\]\[[html](https://www.mitpressjournals.org/doi/full/10.1162/tacl_a_00330)\]\[[bib]()\]
 * **N. Aletras**, T. Baldwin, J. H. Lau and M. Stevenson (2017). *Evaluating Topic Representations for Exploring Document Collections*. **JASIST**\
 \[[pdf](http://onlinelibrary.wiley.com/doi/10.1002/asi.23574/epdf)\]\[[html](http://onlinelibrary.wiley.com/doi/10.1002/asi.23574/full)\]\[[bib](http://naletras.github.io/files/jasist15a.bib)\]
@@ -38,7 +38,7 @@ author_profile: true
 ### Conference Papers
 
 * M. Jin and **N. Aletras** (2020). *Complaint Identification in Social Media with Transformer Networks*. **COLING**\
-	[pdf][<a href="">bib</a>]
+	[[pdf](https://arxiv.org/pdf/2010.10910.pdf)][<a href="">bib</a>]
 * I. Chalkidis, M. Fregadiotis, S. Kotitsas, P. Malakatsiotis, <strong>N. Aletras</strong> and I. Androutsopoulos (2020). *An Empirical Study on Large-Scale Multi-Label Text Classification including Few and Zero-Shot Labels*. **EMNLP**\
 	[[pdf](https://arxiv.org/pdf/2010.01653.pdf)][bib]
 * I. Chalkidis, M. Fregadiotis, P. Malakatsiotis, <strong>N. Aletras</strong> and I. Androutsopoulos (2020). *LEGAL-BERT: The Muppets straight out of Law School*. **EMNLP Findings**\
