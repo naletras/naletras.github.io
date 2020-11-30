@@ -9,6 +9,8 @@ author_profile: true
 
 {% include base_path %}
 
+* Legal Judgement Prediction with NLP, Invited talk at "Ministero della Giustizia - Direzione Generale Sistemi Informativi Automatizzati", Torino, Italy (Dec 2020)
+* Modelling Speech Acts in Social Media Text, DFKI, Berlin, Germany (Dec 2020)
 * Legal Judgement Prediction with NLP, Invited talk at the AI, Law and Ethics Workshop, SETN 2020 (Sep 2020)
 * Legal Judgement Prediction with NLP, Invited talk at PwC, London (Feb 2020)
 * Legal Judgement Prediction with NLP, Invited talk at the University of Liverpool, Computer Science Departmental Seminar (Nov 2019)
