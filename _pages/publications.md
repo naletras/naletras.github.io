@@ -19,6 +19,8 @@ author_profile: true
 
 ### Journal Papers
 
+* Y. Mu and **N. Aletras** (2020). *Identifying Twitter Users who Repost Unreliable News Sources with Linguistic Information*. **Peer J Computer Science**\
+\[[pdf]()\]\[[html](https://doi.org/10.7717/peerj-cs.325)\]\[[bib]()\]
 * M. Fomicheva, S. Sun, L. Yankovskaya, F. Blain, F. Guzman, M. Fishel, **N. Aletras**, V. Chaudhary and L. Specia (2020). *Unsupervised Quality Estimation for Neural Machine Translation*. **TACL**\
 \[[pdf](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00330)\]\[[html](https://www.mitpressjournals.org/doi/full/10.1162/tacl_a_00330)\]\[[bib]()\]
 * **N. Aletras**, T. Baldwin, J. H. Lau and M. Stevenson (2017). *Evaluating Topic Representations for Exploring Document Collections*. **JASIST**\
