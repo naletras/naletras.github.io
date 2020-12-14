@@ -19,13 +19,13 @@ author_profile: true
 
 ### Journal Papers
 
-* Y. Mu and **N. Aletras** (2020). *Identifying Twitter Users who Repost Unreliable News Sources with Linguistic Information*. **Peer J Computer Science**\
+* Y. Mu and **N. Aletras** (2020). *Identifying Twitter Users who Repost Unreliable News Sources with Linguistic Information*. **PeerJ Computer Science**\
 \[[pdf]()\]\[[html](https://doi.org/10.7717/peerj-cs.325)\]\[[bib]()\]
 * M. Fomicheva, S. Sun, L. Yankovskaya, F. Blain, F. Guzman, M. Fishel, **N. Aletras**, V. Chaudhary and L. Specia (2020). *Unsupervised Quality Estimation for Neural Machine Translation*. **TACL**\
 \[[pdf](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00330)\]\[[html](https://www.mitpressjournals.org/doi/full/10.1162/tacl_a_00330)\]\[[bib]()\]
 * **N. Aletras**, T. Baldwin, J. H. Lau and M. Stevenson (2017). *Evaluating Topic Representations for Exploring Document Collections*. **JASIST**\
 \[[pdf](http://onlinelibrary.wiley.com/doi/10.1002/asi.23574/epdf)\]\[[html](http://onlinelibrary.wiley.com/doi/10.1002/asi.23574/full)\]\[[bib](http://naletras.github.io/files/jasist15a.bib)\]
-* <b>N. Aletras</b>, D. Tsarapatsanis, D. Preoţiuc-Pietro and V. Lampos (2016). *Predicting Judicial Decisions of the European Court of Human Rights: A Natural Language Processing Perspective*, **Peer J Computer Science**\
+* <b>N. Aletras</b>, D. Tsarapatsanis, D. Preoţiuc-Pietro and V. Lampos (2016). *Predicting Judicial Decisions of the European Court of Human Rights: A Natural Language Processing Perspective*, **PeerJ Computer Science**\
 [<a href="https://peerj.com/articles/cs-93.pdf">pdf</a>][<a href="https://peerj.com/articles/cs-93/">html</a>][<a href="https://peerj.com/articles/cs-93.bib">bib</a>][<a href="https://figshare.com/s/6f7d9e7c375ff0822564">data</a>]
 * A. Gonzalez-Agirre, G. Rigau, E. Agirre, <b>N. Aletras</b> and M. Stevenson (2016). *Why are these similar? Investigating item similarity types in a large Digital Library*. **JASIST**\
 [<a href="http://onlinelibrary.wiley.com/doi/10.1002/asi.23482/epdf">pdf</a>][<a href="http://onlinelibrary.wiley.com/doi/10.1002/asi.23482/full">html</a>][<a href="http://naletras.github.io/files/jasist15b.bib">bib</a>]
