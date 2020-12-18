@@ -13,6 +13,7 @@ Here is a selection of media coverage of my research and various interviews.
 * [Instant Karma's Gonna Get You On The Social Networks](https://www.forbes.com/sites/enriquedans/2020/12/15/instant-karmas-gonna-get-you-on-the-socialnetworks/), Enrique Dans, Forbes (US) - [In Spanish](https://www.enriquedans.com/2020/12/aplicando-metricas-de-reputacion-a-los-usuarios.html)
 * [How to spot fake news](https://www.telegraph.co.uk/news/2020/12/14/spot-fake-news-trust-tweets-users-talkabout-birthdays-not-religion/), Mason Boycott-Owen, The Telegraph (+printed) (UK)
 * [Esta Inteligencia Artificial puede predecir qué usuario de Twitter difundirá desinformación antes de que lo haga](https://www.lavanguardia.com/tecnologia/20201215/6122272/inteligencia-artificial-predecir-que-usuario-twitter-difundira-desinformacion-haga.html), Judith Vives, La Vanguardia (ES)
+* [Tekoäly voi ennustaa, kuka levittää valeuutisia englanniksi Twitterissä](https://www.hs.fi/tiede/art-2000007687729.html), Timo Paukku, Helsingin Sanomat (FI)  
 * [AI ‘pre-cog’ predicts which Twitter users will spread disinformation](https://thenextweb.com/neural/2020/12/15/ai-pre-cog-predicts-which-twitter-users-will-spread-disinformation/), Thomas Macaulay, The Next Web (NL)
 * [Έλληνας ερευνητής στη Βρετανία δημιούργησε αλγόριθμο πρόβλεψης παραπληροφόρησης στο Twitter](https://www.ert.gr/eidiseis/epistimi/ellinas-ereynitis-sti-vretania-dimioyrgise-algorithmo-provlepsis-parapliroforisis-sto-twitter/), ΕΡΤ (GR)
 
