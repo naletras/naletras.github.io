@@ -11,6 +11,7 @@ author_profile: true
 
 ### Research Staff
 
+* Samuel Mensah 
 * Marina Fomicheva (with [Lucia Specia](http://staffwww.dcs.shef.ac.uk/people/L.Specia))
 
 
