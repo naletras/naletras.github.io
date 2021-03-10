@@ -39,6 +39,10 @@ author_profile: true
 
 ### Conference Papers
 
+* M. Jin and **N. Aletras** (2021). *Modeling the Severity of Complaints in Social Media*. **NAACL**\
+	[[pdf]()][<a href="">bib</a>]
+* I. Chalkidis, M. Fregadiotis, D. Tsarapatsanis, **N. Aletras**, I. Androutsopoulos and P. Malakatsiotis (2021). *Paragraph-level Rationale Extraction through Regularization: A case study on European Court of Human Rights Cases*. **NAACL**\
+	[[pdf]()][bib]
 * M. Jin and **N. Aletras** (2020). *Complaint Identification in Social Media with Transformer Networks*. **COLING**\
 	[[pdf](https://arxiv.org/pdf/2010.10910.pdf)][<a href="">bib</a>]
 * I. Chalkidis, M. Fregadiotis, S. Kotitsas, P. Malakatsiotis, <strong>N. Aletras</strong> and I. Androutsopoulos (2020). *An Empirical Study on Large-Scale Multi-Label Text Classification including Few and Zero-Shot Labels*. **EMNLP**\
