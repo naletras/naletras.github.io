@@ -17,6 +17,7 @@ author_profile: true
 
 ### PhD Students
 
+* Ahmed Alajrami
 * George Chrysostomou
 * Mali Jin
 * Wenzhe Li 
@@ -26,19 +27,20 @@ author_profile: true
 * Areej Alokaili (co-supervised with [Mark Stevenson](https://staffwww.dcs.shef.ac.uk/people/M.Stevenson/bio.html))
 * Hardy (co-supervised with [Andreas Vlachos](https://andreasvlachos.github.io/))
 * Peter Vickers (co-supervised with [Loic Barrault](https://loicbarrault.github.io/))
-* [Ilias Chalkidis](https://iliaschalkidis.github.io/) (at Athens University of Economics and Business, co-supervised with [Ion Androutsopoulos](http://www2.aueb.gr/users/ion//))
 
 
 ### Interns
 
 * [Atsuki Yamaguchi](https://gucci-j.github.io/about/)
 
-### Research Staff Alumni
 
-* [Fred Blain](https://fredblain.org/) (with [Lucia Specia](http://staffwww.dcs.shef.ac.uk/people/L.Specia))
-* [Twin Karmakharm](https://www.twin.uk.com/) (with [Kalina Bontcheva](http://staffwww.dcs.shef.ac.uk/people/K.Bontcheva/))
+### Alumni
+
+* [Ilias Chalkidis](https://iliaschalkidis.github.io/) (PhD student, co-supervised with [Ion Androutsopoulos](http://www2.aueb.gr/users/ion//), 2019-21)
+* [Fred Blain](https://fredblain.org/) (Research Associate, 2019-20)
+* [Twin Karmakharm](https://www.twin.uk.com/) (Research Engineer, 2019)
+* [Antonis Maronikolakis](https://antmarakis.github.io/)  (Intern, 2019)
 
 
-### Interns Alumni
 
-* [Antonis Maronikolakis](https://antmarakis.github.io/) 
+
