@@ -39,6 +39,10 @@ author_profile: true
 
 ### Conference Papers
 
+* G. Chrysostomou and **N. Aletras** (2021). *Improving the Faithfulness of Attention-based Explanations with Task-specific Information for Text Classification*. **ACL**\
+	[[pdf]()][[bib]()]
+* P. Vickers, **N. Aletras**, E. Monti and Loic Barrault (2021). In Factuality: Efficient Integration of Relevant Facts for Visual Question Answering*. **ACL**\
+	[[pdf]()][[bib]()]
 * M. Jin and **N. Aletras** (2021). *Modeling the Severity of Complaints in Social Media*. **NAACL**\
 	[[pdf](https://arxiv.org/pdf/2103.12428.pdf)][[bib]()]
 * I. Chalkidis, M. Fregadiotis, D. Tsarapatsanis, **N. Aletras**, I. Androutsopoulos and P. Malakatsiotis (2021). *Paragraph-level Rationale Extraction through Regularization: A case study on European Court of Human Rights Cases*. **NAACL**\
