@@ -43,6 +43,12 @@ author_profile: true
 	[[pdf]()][[bib]()]
 * P. Vickers, **N. Aletras**, E. Monti and Loic Barrault (2021). *In Factuality: Efficient Integration of Relevant Facts for Visual Question Answering*. **ACL**\
 	[[pdf]()][[bib]()]
+* D. Tsarapatsanis and **N. Aletras** (2021). *On the Ethical Limits of Natural Language Processing on Legal Text*. **ACL Findings **\
+	[[pdf]()][[bib]()]
+* D. Sanchez Villegas, S. Mokaram and **N. Aletras** (2021). *Analyzing Online Political Advertisements*. **ACL Findings **\
+	[[pdf]()][[bib]()]
+* A. Gajbhiye, M. Fomicheva, F. Alva-Manchego, F. Blain, A. Obamuyide, **N. Aletras** and L. Specia (2021). *Knowledge Distillation for Quality Estimation*. **ACL Findings **\
+	[[pdf]()][[bib]()]
 * M. Jin and **N. Aletras** (2021). *Modeling the Severity of Complaints in Social Media*. **NAACL**\
 	[[pdf](https://arxiv.org/pdf/2103.12428.pdf)][[bib]()]
 * I. Chalkidis, M. Fregadiotis, D. Tsarapatsanis, **N. Aletras**, I. Androutsopoulos and P. Malakatsiotis (2021). *Paragraph-level Rationale Extraction through Regularization: A case study on European Court of Human Rights Cases*. **NAACL**\
