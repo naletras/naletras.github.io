@@ -41,7 +41,7 @@ author_profile: true
 
 * G. Chrysostomou and **N. Aletras** (2021). *Improving the Faithfulness of Attention-based Explanations with Task-specific Information for Text Classification*. **ACL**\
 	[[pdf]()][[bib]()]
-* P. Vickers, **N. Aletras**, E. Monti and Loic Barrault (2021). In Factuality: Efficient Integration of Relevant Facts for Visual Question Answering*. **ACL**\
+* P. Vickers, **N. Aletras**, E. Monti and Loic Barrault (2021). *In Factuality: Efficient Integration of Relevant Facts for Visual Question Answering*. **ACL**\
 	[[pdf]()][[bib]()]
 * M. Jin and **N. Aletras** (2021). *Modeling the Severity of Complaints in Social Media*. **NAACL**\
 	[[pdf](https://arxiv.org/pdf/2103.12428.pdf)][[bib]()]
