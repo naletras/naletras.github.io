@@ -24,7 +24,6 @@ author_profile: true
 * Katerina Margatina (co-supervised with [Loic Barrault](https://loicbarrault.github.io/))
 * Yida Mu
 * Danae Sanchez Villegas
-* Areej Alokaili (co-supervised with [Mark Stevenson](https://staffwww.dcs.shef.ac.uk/people/M.Stevenson/bio.html))
 * Hardy (co-supervised with [Andreas Vlachos](https://andreasvlachos.github.io/))
 * Peter Vickers (co-supervised with [Loic Barrault](https://loicbarrault.github.io/))
 
@@ -36,6 +35,7 @@ author_profile: true
 
 ### Alumni
 
+* Areej Alokaili (PhD student, co-supervised with [Mark Stevenson](https://staffwww.dcs.shef.ac.uk/people/M.Stevenson/bio.html), 2018-21)
 * [Ilias Chalkidis](https://iliaschalkidis.github.io/) (PhD student, co-supervised with [Ion Androutsopoulos](http://www2.aueb.gr/users/ion//), 2019-21)
 * [Fred Blain](https://fredblain.org/) (Research Associate, 2019-20)
 * [Twin Karmakharm](https://www.twin.uk.com/) (Research Engineer, 2019)
