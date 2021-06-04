@@ -26,6 +26,7 @@ author_profile: true
 * Danae Sanchez Villegas
 * Hardy (co-supervised with [Andreas Vlachos](https://andreasvlachos.github.io/))
 * Peter Vickers (co-supervised with [Loic Barrault](https://loicbarrault.github.io/))
+* Tulika Bose (Visiting)
 
 
 ### Interns
