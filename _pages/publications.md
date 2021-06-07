@@ -20,9 +20,9 @@ author_profile: true
 ### Journal Papers
 
 * Y. Mu and **N. Aletras** (2020). *Identifying Twitter Users who Repost Unreliable News Sources with Linguistic Information*. **PeerJ Computer Science**\
-\[[pdf]()\]\[[html](https://doi.org/10.7717/peerj-cs.325)\]\[[bib]()\]
+\[[pdf](https://peerj.com/articles/cs-325.pdf)\]\[[html](https://doi.org/10.7717/peerj-cs.325)\]\[[bib](https://peerj.com/articles/cs-325.bib)\]
 * M. Fomicheva, S. Sun, L. Yankovskaya, F. Blain, F. Guzman, M. Fishel, **N. Aletras**, V. Chaudhary and L. Specia (2020). *Unsupervised Quality Estimation for Neural Machine Translation*. **TACL**\
-\[[pdf](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00330)\]\[[html](https://www.mitpressjournals.org/doi/full/10.1162/tacl_a_00330)\]\[[bib]()\]
+\[[pdf](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00330)\]\[[html](https://www.mitpressjournals.org/doi/full/10.1162/tacl_a_00330)\]\[[bib](https://www.aclweb.org/anthology/2020.tacl-1.35.bib)\]
 * **N. Aletras**, T. Baldwin, J. H. Lau and M. Stevenson (2017). *Evaluating Topic Representations for Exploring Document Collections*. **JASIST**\
 \[[pdf](http://onlinelibrary.wiley.com/doi/10.1002/asi.23574/epdf)\]\[[html](http://onlinelibrary.wiley.com/doi/10.1002/asi.23574/full)\]\[[bib](http://naletras.github.io/files/jasist15a.bib)\]
 * <b>N. Aletras</b>, D. Tsarapatsanis, D. Preoţiuc-Pietro and V. Lampos (2016). *Predicting Judicial Decisions of the European Court of Human Rights: A Natural Language Processing Perspective*, **PeerJ Computer Science**\
@@ -40,27 +40,27 @@ author_profile: true
 ### Conference Papers
 
 * G. Chrysostomou and **N. Aletras** (2021). *Improving the Faithfulness of Attention-based Explanations with Task-specific Information for Text Classification*. **ACL**\
-	[[pdf]()][[bib]()]
+	[[pdf](https://arxiv.org/pdf/2105.02657.pdf)][[bib]()]
 * P. Vickers, **N. Aletras**, E. Monti and Loic Barrault (2021). *In Factuality: Efficient Integration of Relevant Facts for Visual Question Answering*. **ACL**\
 	[[pdf]()][[bib]()]
 * D. Tsarapatsanis and **N. Aletras** (2021). *On the Ethical Limits of Natural Language Processing on Legal Text*. **ACL Findings**\
-	[[pdf]()][[bib]()]
+	[[pdf](https://arxiv.org/pdf/2105.02751.pdf)][[bib]()]
 * D. Sanchez Villegas, S. Mokaram and **N. Aletras** (2021). *Analyzing Online Political Advertisements*. **ACL Findings**\
-	[[pdf]()][[bib]()]
+	[[pdf](https://arxiv.org/pdf/2105.04047.pdf)][[bib]()]
 * A. Gajbhiye, M. Fomicheva, F. Alva-Manchego, F. Blain, A. Obamuyide, **N. Aletras** and L. Specia (2021). *Knowledge Distillation for Quality Estimation*. **ACL Findings**\
 	[[pdf]()][[bib]()]
 * M. Jin and **N. Aletras** (2021). *Modeling the Severity of Complaints in Social Media*. **NAACL**\
-	[[pdf](https://arxiv.org/pdf/2103.12428.pdf)][[bib]()]
+	[[pdf](https://www.aclweb.org/anthology/2021.naacl-main.180.pdf)][[bib](https://www.aclweb.org/anthology/2021.naacl-main.180.bib)]
 * I. Chalkidis, M. Fregadiotis, D. Tsarapatsanis, **N. Aletras**, I. Androutsopoulos and P. Malakatsiotis (2021). *Paragraph-level Rationale Extraction through Regularization: A case study on European Court of Human Rights Cases*. **NAACL**\
-	[[pdf]()][bib]
+	[[pdf](https://www.aclweb.org/anthology/2021.naacl-main.22.pdf)][[bib](https://www.aclweb.org/anthology/2021.naacl-main.22.bib)]
 * M. Jin and **N. Aletras** (2020). *Complaint Identification in Social Media with Transformer Networks*. **COLING**\
-	[[pdf](https://arxiv.org/pdf/2010.10910.pdf)][<a href="">bib</a>]
+	[[pdf](https://www.aclweb.org/anthology/2020.coling-main.157.pdf)][[bib](https://www.aclweb.org/anthology/2020.coling-main.157.bib)]
 * I. Chalkidis, M. Fregadiotis, S. Kotitsas, P. Malakatsiotis, <strong>N. Aletras</strong> and I. Androutsopoulos (2020). *An Empirical Study on Large-Scale Multi-Label Text Classification including Few and Zero-Shot Labels*. **EMNLP**\
-	[[pdf](https://arxiv.org/pdf/2010.01653.pdf)][bib]
+	[[pdf](https://www.aclweb.org/anthology/2020.emnlp-main.607.pdf)][[bib](https://www.aclweb.org/anthology/2020.emnlp-main.607.bib)]
 * I. Chalkidis, M. Fregadiotis, P. Malakatsiotis, <strong>N. Aletras</strong> and I. Androutsopoulos (2020). *LEGAL-BERT: The Muppets straight out of Law School*. **EMNLP Findings**\
-	[[pdf](https://arxiv.org/pdf/2010.02559.pdf)][bib][[pre-trained models](https://huggingface.co/nlpaueb)]
+	[[pdf](https://www.aclweb.org/anthology/2020.findings-emnlp.261.pdf)][[bib](https://www.aclweb.org/anthology/2020.findings-emnlp.261.bib)][[pre-trained models](https://huggingface.co/nlpaueb)]
 * D. Sanchez Villegas, D. Preoţiuc-Pietro and <strong>N. Aletras</strong> (2020). *Point-of-Interest Type Inference from Social Media Text*. **AACL**\
-	[[pdf](https://arxiv.org/pdf/2009.14734.pdf)][<a href="">bib</a>]
+	[[pdf](https://www.aclweb.org/anthology/2020.aacl-main.80.pdf)][[bib](https://www.aclweb.org/anthology/2020.aacl-main.80.bib)]
 * A. Maronikolakis, D. Sanchez Villegas, D. Preoţiuc-Pietro and <strong>N. Aletras</strong> (2020). *Analyzing Political Parody in Social Media*. **ACL**\
 	[<a href="https://www.aclweb.org/anthology/2020.acl-main.403.pdf">pdf</a>][<a href="https://www.aclweb.org/anthology/2020.acl-main.403.bib">bib</a>][<a href="https://archive.org/details/parody_data_acl20">data</a>]
 * A. Alokaili, <strong>N. Aletras</strong> and M. Stevenson (2020). *Automatic Generation of Topic Labels*. **SIGIR**\
