@@ -8,6 +8,10 @@ author_profile: true
 
 Here is a selection of media coverage of my research and various interviews.
 
+### 2021
+
+* [Η καταπολέμηση των Fake News περνά μέσα από τη ρύθμιση](https://www.philenews.com/eidiseis/kosmos/article/1171982/-i-katapolemisi-ton-fake-news-perna-mesa-apo-ti-rythmisi), Ο Φιλελεύθερος (CY)
+
 ### 2020
 
 * [Instant Karma's Gonna Get You On The Social Networks](https://www.forbes.com/sites/enriquedans/2020/12/15/instant-karmas-gonna-get-you-on-the-socialnetworks/), Enrique Dans, Forbes (US) - [In Spanish](https://www.enriquedans.com/2020/12/aplicando-metricas-de-reputacion-a-los-usuarios.html)
