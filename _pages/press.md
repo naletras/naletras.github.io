@@ -10,7 +10,7 @@ Here is a selection of media coverage of my research and various interviews.
 
 ### 2021
 
-* [Η καταπολέμηση των Fake News περνά μέσα από τη ρύθμιση](https://www.philenews.com/eidiseis/kosmos/article/1171982/-i-katapolemisi-ton-fake-news-perna-mesa-apo-ti-rythmisi), Ο Φιλελεύθερος (CY)
+* [Η καταπολέμηση των Fake News περνά μέσα από τη ρύθμιση](https://www.philenews.com/eidiseis/kosmos/article/1171982/-i-katapolemisi-ton-fake-news-perna-mesa-apo-ti-rythmisi), Ξένια Τούρκη, Ο Φιλελεύθερος (CY)
 
 ### 2020
 
