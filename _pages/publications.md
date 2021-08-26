@@ -39,6 +39,16 @@ author_profile: true
 
 ### Conference Papers
 
+* K. Margatina, G. Vernikos, L. Barrault and **N. Aletras** (2021). *Active Learning by Acquiring Contrastive Examples*. **EMNLP**\
+	[[pdf]()][[bib]()]
+* D. Sanchez Villegas and **N. Aletras** (2021). *Point-of-Interest Type Prediction using Text and Images*. **EMNLP**\
+	[[pdf]()][[bib]()]
+* G. Chrysostomou and **N. Aletras** (2021). *Enjoy the Salience: Towards Better Transformer-based Faithful Explanations with Word Salience*. **EMNLP**\
+	[[pdf]()][[bib]()]
+* S. Mensah, K. Sun  and **N. Aletras** (2021). *An Empirical Study on Leveraging Position Embeddings for Target-oriented Opinion Words Extraction*. **EMNLP**\
+	[[pdf]()][[bib]()]
+* A. Yamaguchi, G. Chrysostomou, K. Margatina and **N. Aletras** (2021). *Frustratingly Simple Pretraining Alternatives to Masked Language Modeling*. **EMNLP**\
+	[[pdf]()][[bib]()]
 * G. Chrysostomou and **N. Aletras** (2021). *Improving the Faithfulness of Attention-based Explanations with Task-specific Information for Text Classification*. **ACL**\
 	[[pdf](https://arxiv.org/pdf/2105.02657.pdf)][[bib]()]
 * P. Vickers, **N. Aletras**, E. Monti and Loic Barrault (2021). *In Factuality: Efficient Integration of Relevant Facts for Visual Question Answering*. **ACL**\
