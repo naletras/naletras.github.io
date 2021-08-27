@@ -17,11 +17,10 @@ author_profile: true
 
 <p></p>
 
+\[[Journal](#Journal)\] \[[Conference](#Conference)\] \[[Workshop](#Workshop)\] \[[Thesis](#Thesis)\]
 
-\[[Journal](#Journal Papers)\]
 
-
-### Journal Papers
+### Journal
 
 * Y. Mu and **N. Aletras** (2020). *Identifying Twitter Users who Repost Unreliable News Sources with Linguistic Information*. **PeerJ Computer Science**\
 \[[pdf](https://peerj.com/articles/cs-325.pdf)\]\[[html](https://doi.org/10.7717/peerj-cs.325)\]\[[bib](https://peerj.com/articles/cs-325.bib)\]
@@ -41,7 +40,7 @@ author_profile: true
 
 
 
-### Conference Papers
+### Conference
 
 * K. Margatina, G. Vernikos, L. Barrault and **N. Aletras** (2021). *Active Learning by Acquiring Contrastive Examples*. **EMNLP**\
 	[[pdf]()][[bib]()]
@@ -126,7 +125,7 @@ author_profile: true
 	[<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:NodJY3SdwZgJ:scholar.google.com/&output=citation&scisdr=CgXRlNLAEMHpzZ-yOSo:AAGBfm0AAAAAX2S3ISrLlac_Q9ih6bVXY9bnN5NGJLY5&scisig=AAGBfm0AAAAAX2S3Icvzy3dnR_V_YMo3pUQvgMMqB_uB&scisf=4&ct=citation&cd=-1&hl=en">bib</a>]
 
 
-### Workshop Papers
+### Workshop
 
 * I. Chalkidis, M. Fregadiotis, P. Malakatsiotis, <strong>N. Aletras</strong> and I. Androutsopoulos (2019). *Extreme Multi-Label Legal Text Classification: A case study in EU Legislation*. **Natural Legal Language Processing** (NAACL)\
 	[<a href="https://www.aclweb.org/anthology/W19-2209">pdf</a>][<a href="https://aclweb.org/anthology/papers/W/W19/W19-2209.bib">bib</a>]
@@ -136,7 +135,7 @@ author_profile: true
 	[<a href="http://naletras.github.io/files/goodaleetal2012.pdf">pdf</a>][<a href="http://naletras.github.io/files/echir12.bib">bib</a>]
 
 
-### PhD Thesis
+### Thesis
 
 * <b>N. Aletras</b> (2014). *Interpreting Document Collections with Topic Models*. PhD Thesis, University of Sheffield
 	[<a href="http://etheses.whiterose.ac.uk/7484/1/Thesis.pdf">pdf</a>][<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:KmfXGR9VSbEJ:scholar.google.com/&output=citation&scisdr=CgXRlNLAEMHpzZ-9K_E:AAGBfm0AAAAAX2S4M_G5kSmdfYeiKqqboVOdINot6zRz&scisig=AAGBfm0AAAAAX2S4M1MffGL8P6m4ojtnz5_3FH7i73zK&scisf=4&ct=citation&cd=-1&hl=en">bib</a>]
