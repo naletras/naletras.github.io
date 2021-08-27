@@ -17,7 +17,11 @@ author_profile: true
 
 <p></p>
 
-### Journal Papers
+
+\[[Journal](#Journal)\]
+
+
+### Journal
 
 * Y. Mu and **N. Aletras** (2020). *Identifying Twitter Users who Repost Unreliable News Sources with Linguistic Information*. **PeerJ Computer Science**\
 \[[pdf](https://peerj.com/articles/cs-325.pdf)\]\[[html](https://doi.org/10.7717/peerj-cs.325)\]\[[bib](https://peerj.com/articles/cs-325.bib)\]
