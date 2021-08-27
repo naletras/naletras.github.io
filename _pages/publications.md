@@ -18,7 +18,7 @@ author_profile: true
 <p></p>
 
 
-\[[Journal](#Journal\_Papers)\]
+\[[Journal](#Journal Papers)\]
 
 
 ### Journal Papers
