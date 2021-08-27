@@ -14,4 +14,6 @@ I'm a Lecturer in [Natural Language Processing](https://www.sheffield.ac.uk/dcs/
 
 My research interests are in NLP, Machine Learning and Data Science. Specifically, I'm interested in developing computational methods for social media analysis and the law, ML for NLP and information retrieval methods for improving access to large document collections. For more details, see my [publications](publications.md). My research has been funded by the EPSRC, ESRC, Leverhulme Trust, Amazon and Google. 
 
-If you are interested in doing a PhD with me drop me an email (n.aletras@sheffield.ac.uk).
+<!-- If you are interested in doing a PhD with me drop me an email (n.aletras@sheffield.ac.uk). -->
+
+Currently not accepting any new PhD students. 
