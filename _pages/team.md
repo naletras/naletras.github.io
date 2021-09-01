@@ -26,7 +26,7 @@ author_profile: true
 * Danae Sanchez Villegas
 * Hardy (co-supervised with [Andreas Vlachos](https://andreasvlachos.github.io/))
 * Peter Vickers (co-supervised with [Loic Barrault](https://loicbarrault.github.io/))
-* Tulika Bose (Visiting)
+
 
 
 ### Interns
@@ -36,6 +36,7 @@ author_profile: true
 
 ### Alumni
 
+* Tulika Bose (Visiting PhD student, 2020)
 * [Atsuki Yamaguchi](https://gucci-j.github.io/about/) (Intern, 2020-21)
 * Areej Alokaili (PhD student, co-supervised with [Mark Stevenson](https://staffwww.dcs.shef.ac.uk/people/M.Stevenson/bio.html), 2018-21)
 * [Ilias Chalkidis](https://iliaschalkidis.github.io/) (PhD student, co-supervised with [Ion Androutsopoulos](http://www2.aueb.gr/users/ion//), 2019-21)
