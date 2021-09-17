@@ -43,25 +43,25 @@ author_profile: true
 ### Conference
 
 * K. Margatina, G. Vernikos, L. Barrault and **N. Aletras** (2021). *Active Learning by Acquiring Contrastive Examples*. **EMNLP**\
-	[[pdf]()][[bib]()]
+	[[pdf](https://arxiv.org/pdf/2109.03764.pdf)][[bib]()]
 * D. Sanchez Villegas and **N. Aletras** (2021). *Point-of-Interest Type Prediction using Text and Images*. **EMNLP**\
-	[[pdf]()][[bib]()]
+	[[pdf](https://arxiv.org/pdf/2109.00602.pdf)][[bib]()]
 * G. Chrysostomou and **N. Aletras** (2021). *Enjoy the Salience: Towards Better Transformer-based Faithful Explanations with Word Salience*. **EMNLP**\
-	[[pdf]()][[bib]()]
+	[[pdf](https://arxiv.org/pdf/2108.13759.pdf)][[bib]()]
 * S. Mensah, K. Sun  and **N. Aletras** (2021). *An Empirical Study on Leveraging Position Embeddings for Target-oriented Opinion Words Extraction*. **EMNLP**\
-	[[pdf]()][[bib]()]
+	[[pdf](https://arxiv.org/pdf/2109.01238.pdf)][[bib]()]
 * A. Yamaguchi, G. Chrysostomou, K. Margatina and **N. Aletras** (2021). *Frustratingly Simple Pretraining Alternatives to Masked Language Modeling*. **EMNLP**\
-	[[pdf]()][[bib]()]
+	[[pdf](https://arxiv.org/pdf/2109.01819.pdf)][[bib]()]
 * G. Chrysostomou and **N. Aletras** (2021). *Improving the Faithfulness of Attention-based Explanations with Task-specific Information for Text Classification*. **ACL**\
-	[[pdf](https://arxiv.org/pdf/2105.02657.pdf)][[bib]()]
+	[[pdf](https://aclanthology.org/2021.acl-long.40.pdf)][[bib](https://aclanthology.org/2021.acl-long.40.bib)]
 * P. Vickers, **N. Aletras**, E. Monti and Loic Barrault (2021). *In Factuality: Efficient Integration of Relevant Facts for Visual Question Answering*. **ACL**\
-	[[pdf]()][[bib]()]
+	[[pdf](https://aclanthology.org/2021.acl-short.60.pdf)][[bib](https://aclanthology.org/2021.acl-short.60.bib)]
 * D. Tsarapatsanis and **N. Aletras** (2021). *On the Ethical Limits of Natural Language Processing on Legal Text*. **ACL Findings**\
-	[[pdf](https://arxiv.org/pdf/2105.02751.pdf)][[bib]()]
+	[[pdf](https://aclanthology.org/2021.findings-acl.314.pdf)][[bib](https://aclanthology.org/2021.findings-acl.314.bib)]
 * D. Sanchez Villegas, S. Mokaram and **N. Aletras** (2021). *Analyzing Online Political Advertisements*. **ACL Findings**\
-	[[pdf](https://arxiv.org/pdf/2105.04047.pdf)][[bib]()]
+	[[pdf](https://aclanthology.org/2021.findings-acl.321.pdf)][[bib](https://aclanthology.org/2021.findings-acl.321.bib)]
 * A. Gajbhiye, M. Fomicheva, F. Alva-Manchego, F. Blain, A. Obamuyide, **N. Aletras** and L. Specia (2021). *Knowledge Distillation for Quality Estimation*. **ACL Findings**\
-	[[pdf]()][[bib]()]
+	[[pdf](https://aclanthology.org/2021.findings-acl.452.pdf)][[bib](https://aclanthology.org/2021.findings-acl.452.bib)]
 * M. Jin and **N. Aletras** (2021). *Modeling the Severity of Complaints in Social Media*. **NAACL**\
 	[[pdf](https://www.aclweb.org/anthology/2021.naacl-main.180.pdf)][[bib](https://www.aclweb.org/anthology/2021.naacl-main.180.bib)]
 * I. Chalkidis, M. Fregadiotis, D. Tsarapatsanis, **N. Aletras**, I. Androutsopoulos and P. Malakatsiotis (2021). *Paragraph-level Rationale Extraction through Regularization: A case study on European Court of Human Rights Cases*. **NAACL**\
