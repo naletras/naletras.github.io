@@ -21,10 +21,9 @@ author_profile: true
 * George Chrysostomou
 * Mali Jin
 * Wenzhe Li 
-* Katerina Margatina (co-supervised with [Loic Barrault](https://loicbarrault.github.io/))
+* [Katerina Margatina](https://katerinamargatina.github.io/) (co-supervised with [Loic Barrault](https://loicbarrault.github.io/))
 * Yida Mu
-* Danae Sanchez Villegas
-* Hardy (co-supervised with [Andreas Vlachos](https://andreasvlachos.github.io/))
+* [Danae Sanchez Villegas](https://staffwww.dcs.shef.ac.uk/people/D.Sanchez_Villegas/)
 * Peter Vickers (co-supervised with [Loic Barrault](https://loicbarrault.github.io/))
 
 
@@ -33,13 +32,13 @@ author_profile: true
 
 
 
-
 ### Alumni
 
+* Hardy (PhD student, co-supervised with [Andreas Vlachos](https://andreasvlachos.github.io/), 2019-21)
 * Tulika Bose (Visiting PhD student, 2020)
 * [Atsuki Yamaguchi](https://gucci-j.github.io/about/) (Intern, 2020-21)
 * Areej Alokaili (PhD student, co-supervised with [Mark Stevenson](https://staffwww.dcs.shef.ac.uk/people/M.Stevenson/bio.html), 2018-21)
-* [Ilias Chalkidis](https://iliaschalkidis.github.io/) (PhD student, co-supervised with [Ion Androutsopoulos](http://www2.aueb.gr/users/ion//), 2019-21)
+* [Ilias Chalkidis](https://iliaschalkidis.github.io/) (PhD student, co-supervised with [Ion Androutsopoulos](http://www2.aueb.gr/users/ion//), 2018-21)
 * [Fred Blain](https://fredblain.org/) (Research Associate, 2019-20)
 * [Twin Karmakharm](https://www.twin.uk.com/) (Research Engineer, 2019)
 * [Antonis Maronikolakis](https://antmarakis.github.io/)  (Intern, 2019)
