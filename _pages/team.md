@@ -24,7 +24,9 @@ author_profile: true
 * [Katerina Margatina](https://katerinamargatina.github.io/) (co-supervised with [Loic Barrault](https://loicbarrault.github.io/))
 * Yida Mu
 * [Danae Sanchez Villegas](https://staffwww.dcs.shef.ac.uk/people/D.Sanchez_Villegas/)
+* Huiyin Xue
 * Peter Vickers (co-supervised with [Loic Barrault](https://loicbarrault.github.io/))
+
 
 
 
