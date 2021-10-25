@@ -17,10 +17,12 @@ author_profile: true
 
 <p></p>
 
-\[[Journal](#Journal)\] \[[Conference](#Conference)\] \[[Workshop](#Workshop)\] \[[Thesis](#Thesis)\]
+<a href="#Journal">Journal</a> <a href="#Conference">Conference</a> <a href="#Workshop">Workshop</a> <a href="#Thesis">Thesis</a>
+
+<br/>
 
 
-### Journal
+### <div id="#Journal"> Journal</div>
 
 * Y. Mu and **N. Aletras** (2020). *Identifying Twitter Users who Repost Unreliable News Sources with Linguistic Information*. **PeerJ Computer Science**\
 \[[pdf](https://peerj.com/articles/cs-325.pdf)\]\[[html](https://doi.org/10.7717/peerj-cs.325)\]\[[bib](https://peerj.com/articles/cs-325.bib)\]
