@@ -42,7 +42,7 @@ author_profile: true
 
 
 
-### Conference
+### <div id="#Conference"> Conference</div>
 
 * K. Margatina, G. Vernikos, L. Barrault and **N. Aletras** (2021). *Active Learning by Acquiring Contrastive Examples*. **EMNLP**\
 	[[pdf](https://arxiv.org/pdf/2109.03764.pdf)][[bib]()]
