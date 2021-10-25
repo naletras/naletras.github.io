@@ -17,12 +17,10 @@ author_profile: true
 
 <p></p>
 
-<a href="#Journal">Journal</a> <a href="#Conference">Conference</a> <a href="#Workshop">Workshop</a> <a href="#Thesis">Thesis</a>
-
-<br/>
+<!-- <a href="#Journal">Journal</a> <a href="#Conference">Conference</a> <a href="#Workshop">Workshop</a> <a href="#Thesis">Thesis</a> -->
 
 
-### <div id="#Journal"> Journal</div>
+### Journal
 
 * Y. Mu and **N. Aletras** (2020). *Identifying Twitter Users who Repost Unreliable News Sources with Linguistic Information*. **PeerJ Computer Science**\
 \[[pdf](https://peerj.com/articles/cs-325.pdf)\]\[[html](https://doi.org/10.7717/peerj-cs.325)\]\[[bib](https://peerj.com/articles/cs-325.bib)\]
@@ -42,7 +40,7 @@ author_profile: true
 
 
 
-### <div id="#Conference"> Conference</div>
+### Conference
 
 * K. Margatina, G. Vernikos, L. Barrault and **N. Aletras** (2021). *Active Learning by Acquiring Contrastive Examples*. **EMNLP**\
 	[[pdf](https://arxiv.org/pdf/2109.03764.pdf)][[bib]()]
