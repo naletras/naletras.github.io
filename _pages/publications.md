@@ -20,7 +20,7 @@ author_profile: true
 <!-- <a href="#Journal">Journal</a> <a href="#Conference">Conference</a> <a href="#Workshop">Workshop</a> <a href="#Thesis">Thesis</a> -->
 
 
-### Journal
+### Journal Papers
 
 * Y. Mu and **N. Aletras** (2020). *Identifying Twitter Users who Repost Unreliable News Sources with Linguistic Information*. **PeerJ Computer Science**\
 \[[pdf](https://peerj.com/articles/cs-325.pdf)\]\[[html](https://doi.org/10.7717/peerj-cs.325)\]\[[bib](https://peerj.com/articles/cs-325.bib)\]
@@ -40,18 +40,18 @@ author_profile: true
 
 
 
-### Conference
+### Conference Papers
 
 * K. Margatina, G. Vernikos, L. Barrault and **N. Aletras** (2021). *Active Learning by Acquiring Contrastive Examples*. **EMNLP**\
-	[[pdf](https://arxiv.org/pdf/2109.03764.pdf)][[bib]()]
+	[[pdf](https://aclanthology.org/2021.emnlp-main.51.pdf)][[bib](https://aclanthology.org/2021.emnlp-main.51.bib)]
 * D. Sanchez Villegas and **N. Aletras** (2021). *Point-of-Interest Type Prediction using Text and Images*. **EMNLP**\
-	[[pdf](https://arxiv.org/pdf/2109.00602.pdf)][[bib]()]
+	[[pdf](https://aclanthology.org/2021.emnlp-main.614.pdf)][[bib](https://aclanthology.org/2021.emnlp-main.614.bib)]
 * G. Chrysostomou and **N. Aletras** (2021). *Enjoy the Salience: Towards Better Transformer-based Faithful Explanations with Word Salience*. **EMNLP**\
-	[[pdf](https://arxiv.org/pdf/2108.13759.pdf)][[bib]()]
+	[[pdf](https://aclanthology.org/2021.emnlp-main.645.pdf)][[bib](https://aclanthology.org/2021.emnlp-main.645.bib)]
 * S. Mensah, K. Sun  and **N. Aletras** (2021). *An Empirical Study on Leveraging Position Embeddings for Target-oriented Opinion Words Extraction*. **EMNLP**\
-	[[pdf](https://arxiv.org/pdf/2109.01238.pdf)][[bib]()]
+	[[pdf](https://aclanthology.org/2021.emnlp-main.722.pdf)][[bib](https://aclanthology.org/2021.emnlp-main.722.bib)]
 * A. Yamaguchi, G. Chrysostomou, K. Margatina and **N. Aletras** (2021). *Frustratingly Simple Pretraining Alternatives to Masked Language Modeling*. **EMNLP**\
-	[[pdf](https://arxiv.org/pdf/2109.01819.pdf)][[bib]()]
+	[[pdf](https://aclanthology.org/2021.emnlp-main.249.pdf)][[bib](https://aclanthology.org/2021.emnlp-main.249.bib)]
 * G. Chrysostomou and **N. Aletras** (2021). *Improving the Faithfulness of Attention-based Explanations with Task-specific Information for Text Classification*. **ACL**\
 	[[pdf](https://aclanthology.org/2021.acl-long.40.pdf)][[bib](https://aclanthology.org/2021.acl-long.40.bib)]
 * P. Vickers, **N. Aletras**, E. Monti and Loic Barrault (2021). *In Factuality: Efficient Integration of Relevant Facts for Visual Question Answering*. **ACL**\
@@ -125,7 +125,7 @@ author_profile: true
 	[<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:NodJY3SdwZgJ:scholar.google.com/&output=citation&scisdr=CgXRlNLAEMHpzZ-yOSo:AAGBfm0AAAAAX2S3ISrLlac_Q9ih6bVXY9bnN5NGJLY5&scisig=AAGBfm0AAAAAX2S3Icvzy3dnR_V_YMo3pUQvgMMqB_uB&scisf=4&ct=citation&cd=-1&hl=en">bib</a>]
 
 
-### Workshop
+### Workshop Papers
 
 * I. Chalkidis, M. Fregadiotis, P. Malakatsiotis, <strong>N. Aletras</strong> and I. Androutsopoulos (2019). *Extreme Multi-Label Legal Text Classification: A case study in EU Legislation*. **Natural Legal Language Processing** (NAACL)\
 	[<a href="https://www.aclweb.org/anthology/W19-2209">pdf</a>][<a href="https://aclweb.org/anthology/papers/W/W19/W19-2209.bib">bib</a>]
