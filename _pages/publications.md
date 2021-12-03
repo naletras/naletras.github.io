@@ -42,6 +42,8 @@ author_profile: true
 
 ### Conference Papers
 
+* G. Chrysostomou and **N. Aletras** (2022). *Flexible Instance-specific Rationalization of NLP Models*. **AAAI**\
+	[[pdf from an earlier version](https://arxiv.org/pdf/2104.08219.pdf)][[bib]()]
 * K. Margatina, G. Vernikos, L. Barrault and **N. Aletras** (2021). *Active Learning by Acquiring Contrastive Examples*. **EMNLP**\
 	[[pdf](https://aclanthology.org/2021.emnlp-main.51.pdf)][[bib](https://aclanthology.org/2021.emnlp-main.51.bib)]
 * D. Sanchez Villegas and **N. Aletras** (2021). *Point-of-Interest Type Prediction using Text and Images*. **EMNLP**\
