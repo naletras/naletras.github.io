@@ -12,8 +12,12 @@ author_profile: true
 {% include base_path %}
 
 
-<p><a href="http://scholar.google.co.uk/citations?user=uxRWFhoAAAAJ"><b>Google Scholar Profile</b></a><br />
-<a href="http://www.informatik.uni-trier.de/%7Eley/pers/hd/a/Aletras:Nikolaos.html"><b>DBLP</b></a></p>
+<p>
+<a href="http://scholar.google.co.uk/citations?user=uxRWFhoAAAAJ"><b>Google Scholar</b></a><br/>
+<a href="https://aclanthology.org/people/n/nikolaos-aletras/"><b>ACL Anthology</b></a><br/>
+<a href="http://www.informatik.uni-trier.de/%7Eley/pers/hd/a/Aletras:Nikolaos.html"><b>DBLP</b></a>	
+</p>
+
 
 <p></p>
 
