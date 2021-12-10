@@ -16,4 +16,4 @@ My research interests are in NLP, Machine Learning and Data Science. Specificall
 
 <!-- If you are interested in doing a PhD with me drop me an email (n.aletras@sheffield.ac.uk). -->
 
-Currently not accepting any new PhD students. 
+<!-- Currently not accepting any new PhD students.  -->
