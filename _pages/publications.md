@@ -93,7 +93,7 @@ author_profile: true
 	[<a href="https://www.aclweb.org/anthology/P19-1495">pdf</a>][<a href="https://www.aclweb.org/anthology/papers/P/P19/P19-1495.bib">bib</a>]
 * A. Alokaili, <strong>N. Aletras</strong> and M. Stevenson (2019). *Re-Ranking Words to Improve Interpretability of Automatically Generated Topics*. **IWCS**\
 	[<a href="https://arxiv.org/pdf/1903.12542.pdf">pdf</a>][<a href="https://www.aclweb.org/anthology/W19-0404.bib">bib</a>]
-* I. Chalkidis, M. Fregadiotis, P. Malakatsiotis, <strong>N. Aletras</strong> and I. Androutsopoulos (2019). *Extreme Multi-Label Legal Text Classification: A case study in EU Legislation*. **Natural Legal Language Processing** (NAACL)\
+* I. Chalkidis, M. Fregadiotis, P. Malakatsiotis, <strong>N. Aletras</strong> and I. Androutsopoulos (2019). *Extreme Multi-Label Legal Text Classification: A case study in EU Legislation*. **Natural Legal Language Processing Workshop** (NAACL)\
 	[<a href="https://www.aclweb.org/anthology/W19-2209">pdf</a>][<a href="https://aclweb.org/anthology/papers/W/W19/W19-2209.bib">bib</a>]
 
 
@@ -101,7 +101,7 @@ author_profile: true
 
 * A. Tsakalidis, <strong>N. Aletras</strong>, M. Liakata and A. Cristea (2018). *Nowcasting the Stance of Social Media Users in a Sudden Vote: The Case of the Greek Referendum*. **ACM CIKM**\
 	[<a href="https://arxiv.org/pdf/1808.08538.pdf">pdf</a>][<a href="https://dl.acm.org/downformats.cfm?id=3271783&amp;parent_id=3269206&amp;expformat=bibtex">bib</a>]
-* <strong>N. Aletras</strong>,&nbsp; B. P. Chamberlain (2018). *Predicting Twitter User Socioeconomic Attributes with Network and Language Information* **ACM HT**\
+* <strong>N. Aletras</strong>,&nbsp; B. P. Chamberlain (2018). *Predicting Twitter User Socioeconomic Attributes with Network and Language Information* **ACM HyperText**\
 	[<a href="https://arxiv.org/pdf/1804.04095.pdf">pdf</a>][<a href="https://dl.acm.org/downformats.cfm?id=3209577&amp;parent_id=3209542&amp;expformat=bibtex">bib</a>]
 
 
@@ -168,13 +168,13 @@ author_profile: true
 
 
 * <b>N. Aletras</b>, M. Stevenson and P. Clough (2012). *Computing Similarity between Items in a Digital Library of Cultural Heritage*. **ACM JOCCH**.\
-[<a href="http://dl.acm.org/authorize?6886895">pdf</a>][<a href="http://dl.acm.org/downformats.cfm?id=2399184&amp;parent_id=2399180&amp;expformat=bibtex&amp;CFID=270429833&amp;CFTOKEN=32772545">bib</a>]\
+[<a href="http://dl.acm.org/authorize?6886895">pdf</a>][<a href="http://dl.acm.org/downformats.cfm?id=2399184&amp;parent_id=2399180&amp;expformat=bibtex&amp;CFID=270429833&amp;CFTOKEN=32772545">bib</a>]
 * M. Hall, E. Agirre, <b>N. Aletras</b>, R. Bergheim, K. Chandrinos, P. Clough, S. Fernando, K. Fernie, P. Goodale, J. Griffiths, O. Lopez de Lacalle, A. de Polo, A. Soroa and M. Stevenson (2012). *PATHS - Exploring Digital Cultural Heritage Spaces*. **TPDL** (demo)\
 	[<a href="http://link.springer.com/content/pdf/10.1007%2F978-3-642-33290-6_59.pdf">pdf</a>]
 	[<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:NodJY3SdwZgJ:scholar.google.com/&output=citation&scisdr=CgXRlNLAEMHpzZ-yOSo:AAGBfm0AAAAAX2S3ISrLlac_Q9ih6bVXY9bnN5NGJLY5&scisig=AAGBfm0AAAAAX2S3Icvzy3dnR_V_YMo3pUQvgMMqB_uB&scisf=4&ct=citation&cd=-1&hl=en">bib</a>]
 * <b>N. Aletras</b> and M. Stevenson (2012). *Computing similarity between cultural heritage items using multimodal features*. **LaTeCH** (ACL)\
 	[<a href="http://aclweb.org/anthology/W/W12/W12-1012.pdf">pdf</a>][<a href="http://aclweb.org/anthology-new/W/W12/W12-1012.bib">bib</a>]
-* P. Goodale, P. Clough, N. Ford, M. Hall, M. Stevenson, S. Fernando, <b>N. Aletras</b>, K. Fernie, P. Archer and A. de Polo (2012). *User-Centred Design to Support Exploration and Path Creation in Cultural Heritage Collections*. **EuroHCIR2012**
+* P. Goodale, P. Clough, N. Ford, M. Hall, M. Stevenson, S. Fernando, <b>N. Aletras</b>, K. Fernie, P. Archer and A. de Polo (2012). *User-Centred Design to Support Exploration and Path Creation in Cultural Heritage Collections*. **EuroHCIR2012 Workshop**
 	[<a href="http://naletras.github.io/files/goodaleetal2012.pdf">pdf</a>][<a href="http://naletras.github.io/files/echir12.bib">bib</a>]
 
 
