@@ -12,7 +12,7 @@ author_profile: true
 ### Research Staff
 
 * Samuel Mensah 
-* Marina Fomicheva (with [Lucia Specia](http://staffwww.dcs.shef.ac.uk/people/L.Specia))
+* Cass Zhao
 
 
 ### PhD Students
@@ -36,6 +36,7 @@ author_profile: true
 
 ### Alumni
 
+* Marina Fomicheva (Research Associate, 2019-21)
 * Hardy (PhD student, co-supervised with [Andreas Vlachos](https://andreasvlachos.github.io/), 2019-21)
 * Tulika Bose (Visiting PhD student, 2021)
 * [Atsuki Yamaguchi](https://gucci-j.github.io/about/) (Intern, 2020-21)
