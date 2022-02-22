@@ -10,7 +10,7 @@ author_profile: true
 {% include base_path %}
 
 
-![Team photo 22/02/2022](files/group_20220202.jpg)
+![Team photo 22/02/2022](../files/group_20220202.jpg)
 
 ### Research Staff
 
