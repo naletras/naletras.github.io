@@ -10,7 +10,7 @@ author_profile: true
 {% include base_path %}
 
 
-<img src="../files/group_20220202.jpg" alt="Team" width="200"/>
+<img src="../files/group_20220202.jpg" alt="Team" width="600"/>
 
 ### Research Staff
 
