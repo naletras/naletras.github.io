@@ -172,7 +172,7 @@ author_profile: true
 * M. Hall, E. Agirre, <b>N. Aletras</b>, R. Bergheim, K. Chandrinos, P. Clough, S. Fernando, K. Fernie, P. Goodale, J. Griffiths, O. Lopez de Lacalle, A. de Polo, A. Soroa and M. Stevenson (2012). *PATHS - Exploring Digital Cultural Heritage Spaces*. **TPDL** (demo)\
 	[<a href="http://link.springer.com/content/pdf/10.1007%2F978-3-642-33290-6_59.pdf">pdf</a>]
 	[<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:NodJY3SdwZgJ:scholar.google.com/&output=citation&scisdr=CgXRlNLAEMHpzZ-yOSo:AAGBfm0AAAAAX2S3ISrLlac_Q9ih6bVXY9bnN5NGJLY5&scisig=AAGBfm0AAAAAX2S3Icvzy3dnR_V_YMo3pUQvgMMqB_uB&scisf=4&ct=citation&cd=-1&hl=en">bib</a>]
-* <b>N. Aletras</b> and M. Stevenson (2012). *Computing similarity between cultural heritage items using multimodal features*. **LaTeCH** (ACL)\
+* <b>N. Aletras</b> and M. Stevenson (2012). *Computing similarity between cultural heritage items using multimodal features*. **LaTeCH Workshop** (ACL)\
 	[<a href="http://aclweb.org/anthology/W/W12/W12-1012.pdf">pdf</a>][<a href="http://aclweb.org/anthology-new/W/W12/W12-1012.bib">bib</a>]
 * P. Goodale, P. Clough, N. Ford, M. Hall, M. Stevenson, S. Fernando, <b>N. Aletras</b>, K. Fernie, P. Archer and A. de Polo (2012). *User-Centred Design to Support Exploration and Path Creation in Cultural Heritage Collections*. **EuroHCIR2012 Workshop**
 	[<a href="http://naletras.github.io/files/goodaleetal2012.pdf">pdf</a>][<a href="http://naletras.github.io/files/echir12.bib">bib</a>]
