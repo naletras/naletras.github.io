@@ -38,6 +38,8 @@ author_profile: true
 	[[pdf]()][[bib]()]
 * I. Chalkidis, A. Jana, D. Hartung, M. Bommarito, I. Androutsopoulos, D. M. Katz, and **N. Aletras** (2022). *LexGLUE: A Benchmark Dataset for Legal Language Understanding in English*. **ACL**\
 	[[pdf](https://arxiv.org/pdf/2110.00976.pdf)][[bib]()]
+* M. Fomicheva, L. Specia and **N. Aletras** (2022). *Translation Error Detection as Rationale Extraction*. **ACL Findings**\
+	[[pdf](https://arxiv.org/pdf/2108.12197.pdf)][[bib]()]
 * G. Chrysostomou and **N. Aletras** (2022). *Flexible Instance-specific Rationalization of NLP Models*. **AAAI**\
 	[[pdf](https://arxiv.org/pdf/2104.08219.pdf)][[bib]()]
 
