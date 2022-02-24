@@ -28,6 +28,16 @@ author_profile: true
 
 ### 2022
 
+* M. Jin, D. Preoţiuc-Pietro, A. S. Doğruöz and **N. Aletras** (2022). *Automatic Identification and Classification of Bragging in Social Media*. **ACL**\
+	[[pdf]()][[bib]()]
+* G. Chrysostomou and **N. Aletras** (2022). *An Empirical Study on Explanations in Out-of-Domain Settings*. **ACL**\
+	[[pdf]()][[bib]()]
+* K. Margatina, L. Barrault and **N. Aletras** (2022). *On the Importance of Effectively Adapting Pretrained Language Models for Active Learning*. **ACL**\
+	[[pdf]()][[bib]()]
+* A. Alajrami and **N. Aletras** (2022). *How does the pre-training objective affect what large language models learn about linguistic properties?*. **ACL**\
+	[[pdf]()][[bib]()]
+* I. Chalkidis, A. Jana, D. Hartung, M. Bommarito, I. Androutsopoulos, D. M. Katz, and **N. Aletras** (2022). *LexGLUE: A Benchmark Dataset for Legal Language Understanding in English*. **ACL**\
+	[[pdf](https://arxiv.org/pdf/2110.00976.pdf)][[bib]()]
 * G. Chrysostomou and **N. Aletras** (2022). *Flexible Instance-specific Rationalization of NLP Models*. **AAAI**\
 	[[pdf](https://arxiv.org/pdf/2104.08219.pdf)][[bib]()]
 
