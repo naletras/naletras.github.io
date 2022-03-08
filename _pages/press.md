@@ -8,9 +8,15 @@ author_profile: true
 
 Here is a selection of media coverage of my research and various interviews.
 
+### 2022
+
+* [Fake News στο διαδίκτυο και πόλεμος στην Ουκρανία](https://www.youtube.com/watch?v=3PE0eEgMkEU), Νίκος Παναγιωτόπουλος, ΚΡΗΤΗ TV (GR)
+
 ### 2021
 
+* [Ο Έλληνας ερευνητής που ανακαλύπτει ποιοι διασπείρουν fake news](https://www.youtube.com/watch?v=Eon9veFRJJU), Νίκος Παναγιωτόπουλος, ΚΡΗΤΗ TV (GR)
 * [Η καταπολέμηση των Fake News περνά μέσα από τη ρύθμιση](https://www.philenews.com/eidiseis/kosmos/article/1171982/-i-katapolemisi-ton-fake-news-perna-mesa-apo-ti-rythmisi), Ξένια Τούρκη, Ο Φιλελεύθερος (CY)
+* [Συνέντευξη στα Νέα](https://www.in.gr/2021/01/30/plus/interviews/o-ellinas-pou-diaprepei-sto-eksoteriko-os-kynigos-ton-fake-news/), Μάρνυ Παπαματθαίου, Τα Νέα (GR)
 
 ### 2020
 
