@@ -14,18 +14,18 @@ author_profile: true
 
 ### Research Staff
 
-* Samuel Mensah 
-* Cass Zhao
+* [Samuel Mensah](https://scholar.google.com/citations?user=tqChiOoAAAAJ&hl) 
+* [Cass Zhao](https://www.sheffield.ac.uk/is/people/phd-researchers/cass-zhixue-zhao)
 
 
 ### PhD Students
 
-* Ahmed Alajrami
-* George Chrysostomou
-* Mali Jin
-* Wenzhe Li 
+* [Ahmed Alajrami](https://twitter.com/aajrami)
+* [George Chrysostomou](https://scholar.google.com/citations?user=t3eShIkAAAAJ&hl)
+* [Mali Jin](https://scholar.google.com/citations?user=Br8h1WIAAAAJ)
+* [Wenzhe Li](https://scholar.google.com/citations?user=ixVc4s8AAAAJ) 
 * [Katerina Margatina](https://katerinamargatina.github.io/) (co-supervised with [Loic Barrault](https://loicbarrault.github.io/))
-* Yida Mu
+* [Yida Mu](https://www.sheffield.ac.uk/dcs/people/research-staff/yida-mu-0)
 * [Danae Sanchez Villegas](https://staffwww.dcs.shef.ac.uk/people/D.Sanchez_Villegas/)
 * Huiyin Xue
 * Peter Vickers (co-supervised with [Loic Barrault](https://loicbarrault.github.io/))
@@ -37,7 +37,7 @@ author_profile: true
 
 
 
-### Alumni
+### Past Members
 
 * Marina Fomicheva (Research Associate, 2019-21)
 * Hardy (PhD student, co-supervised with [Andreas Vlachos](https://andreasvlachos.github.io/), 2019-21)
