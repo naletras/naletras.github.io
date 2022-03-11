@@ -26,7 +26,7 @@ author_profile: true
 * [Wenzhe Li](https://scholar.google.com/citations?user=ixVc4s8AAAAJ) 
 * [Katerina Margatina](https://katerinamargatina.github.io/) (co-supervised with [Loic Barrault](https://loicbarrault.github.io/))
 * [Yida Mu](https://www.sheffield.ac.uk/dcs/people/research-staff/yida-mu-0)
-* [Danae Sanchez Villegas](https://staffwww.dcs.shef.ac.uk/people/D.Sanchez_Villegas/)
+* [Danae Sanchez Villegas](https://danaesavi.github.io/)
 * [Huiyin Xue](https://twitter.com/HuiyinXue)
 * Peter Vickers (co-supervised with [Loic Barrault](https://loicbarrault.github.io/))
 
