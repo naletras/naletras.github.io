@@ -29,7 +29,7 @@ author_profile: true
 ### 2022
 
 * M. Jin, D. Preoţiuc-Pietro, A. S. Doğruöz and **N. Aletras** (2022). *Automatic Identification and Classification of Bragging in Social Media*. **ACL**\
-	[[pdf]()][[bib]()]
+	[[pdf](https://arxiv.org/pdf/2203.05840.pdf)][[bib]()]
 * G. Chrysostomou and **N. Aletras** (2022). *An Empirical Study on Explanations in Out-of-Domain Settings*. **ACL**\
 	[[pdf](https://arxiv.org/pdf/2203.00056.pdf)][[bib]()]
 * K. Margatina, L. Barrault and **N. Aletras** (2022). *On the Importance of Effectively Adapting Pretrained Language Models for Active Learning*. **ACL**\
