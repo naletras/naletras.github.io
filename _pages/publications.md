@@ -35,7 +35,7 @@ author_profile: true
 * K. Margatina, L. Barrault and **N. Aletras** (2022). *On the Importance of Effectively Adapting Pretrained Language Models for Active Learning*. **ACL**\
 	[[pdf](https://arxiv.org/pdf/2104.08320.pdf)][[bib]()]
 * A. Alajrami and **N. Aletras** (2022). *How does the pre-training objective affect what large language models learn about linguistic properties?*. **ACL**\
-	[[pdf]()][[bib]()]
+	[[pdf](https://arxiv.org/pdf/2203.10415.pdf)][[bib]()]
 * I. Chalkidis, A. Jana, D. Hartung, M. Bommarito, I. Androutsopoulos, D. M. Katz and **N. Aletras** (2022). *LexGLUE: A Benchmark Dataset for Legal Language Understanding in English*. **ACL**\
 	[[pdf](https://arxiv.org/pdf/2110.00976.pdf)][[bib]()]
 * M. Fomicheva, L. Specia and **N. Aletras** (2022). *Translation Error Detection as Rationale Extraction*. **ACL Findings**\
