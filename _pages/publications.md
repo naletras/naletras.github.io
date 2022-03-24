@@ -41,7 +41,7 @@ author_profile: true
 * M. Fomicheva, L. Specia and **N. Aletras** (2022). *Translation Error Detection as Rationale Extraction*. **ACL Findings**\
 	[[pdf](https://arxiv.org/pdf/2108.12197.pdf)][[bib]()]
 * T. Bose, **N. Aletras**, I. Illina and D. Fohr  (2022). *Dynamically Refined Regularization for Improving Cross-corpora Hate Speech Detection*. **ACL Findings**\
-	[[pdf]()][[bib]()]
+	[[pdf](https://arxiv.org/abs/2203.12536)][[bib]()]
 * G. Chrysostomou and **N. Aletras** (2022). *Flexible Instance-specific Rationalization of NLP Models*. **AAAI**\
 	[[pdf](https://arxiv.org/pdf/2104.08219.pdf)][[bib]()]
 
