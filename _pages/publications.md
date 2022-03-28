@@ -29,7 +29,7 @@ author_profile: true
 ### 2022
 
 * L. Zhang, H. Song, **N. Aletras** and H. Lu (2022). *Node-Feature Convolution for Graph Convolutional Networks*. **Pattern Recognition**\
-	[[pdf]()][[bib]()]
+	[[pdf](https://www.sciencedirect.com/science/article/pii/S003132032200142X/pdfft?md5=cc24aa8dd2af220793071c55cfcb125a&pid=1-s2.0-S003132032200142X-main.pdf)][[bib]()]
 * M. Jin, D. Preoţiuc-Pietro, A. S. Doğruöz and **N. Aletras** (2022). *Automatic Identification and Classification of Bragging in Social Media*. **ACL**\
 	[[pdf](https://arxiv.org/pdf/2203.05840.pdf)][[bib]()]
 * G. Chrysostomou and **N. Aletras** (2022). *An Empirical Study on Explanations in Out-of-Domain Settings*. **ACL**\
