@@ -28,6 +28,8 @@ author_profile: true
 
 ### 2022
 
+* R. Sawhney, S. Agarwal, A. T. Neerkaje, **N. Aletras**, P. Nakov and L. Flek (2022). *Towards Suicide Ideation Detection Through Online Conversational Context*. **SIGIR**\
+	[[pdf]()][[bib]()]
 * Y. Mu, P. Niu and **N. Aletras** (2022). *Identifying and Characterizing Active Citizens who Refute Misinformation in Social Media*. **ACM WebSci**\
 	[[pdf]()][[bib]()]
 * L. Zhang, H. Song, **N. Aletras** and H. Lu (2022). *Node-Feature Convolution for Graph Convolutional Networks*. **Pattern Recognition**\
