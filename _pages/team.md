@@ -9,8 +9,10 @@ author_profile: true
 
 {% include base_path %}
 
-
-<img style="border:1px solid gray;" src="../files/group_20220202.jpg" alt="Team" width="500"/>
+<figure>
+  <img style="border:1px solid gray;" src="../files/group_20220202.jpg" alt="Team" width="500"/>
+  <figcaption>Feb 2022</figcaption>
+</figure>
 
 ### Research Staff
 
