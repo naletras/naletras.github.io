@@ -27,6 +27,7 @@ author_profile: true
 * [Katerina Margatina](https://katerinamargatina.github.io/) (co-supervised with [Loic Barrault](https://loicbarrault.github.io/))
 * [Yida Mu](https://www.sheffield.ac.uk/dcs/people/research-staff/yida-mu-0)
 * [Danae Sanchez Villegas](https://danaesavi.github.io/)
+* Miles Williams
 * [Huiyin Xue](https://twitter.com/HuiyinXue)
 * Peter Vickers (co-supervised with [Loic Barrault](https://loicbarrault.github.io/))
 
