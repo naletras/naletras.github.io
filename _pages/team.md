@@ -8,17 +8,7 @@ author_profile: true
 ---
 
 {% include base_path %}
-<head>
-<style>
-figcaption {
-  background-color: black;
-  color: white;
-  font-style: italic;
-  padding: 2px;
-  text-align: center;
-}
-</style> 
-</head>
+
  
 <figure>
   <img style="border:1px solid gray;" src="../files/group_20220202.jpg" alt="Team" width="500"/>
