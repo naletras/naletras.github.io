@@ -43,6 +43,7 @@ author_profile: true
 
 ### Past Members
 
+* Xiao Ao (MSc student, 2021)
 * Marina Fomicheva (Research Associate, 2019-21)
 * Hardy (PhD student, co-supervised with [Andreas Vlachos](https://andreasvlachos.github.io/), 2019-21)
 * Tulika Bose (Visiting PhD student, 2021)
