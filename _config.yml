@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Nikos Aletras (Νίκος Αλετράς)"
+  name             : # "Nikos Aletras (Νίκος Αλετράς)"
   avatar           : "me.jpg"
-  bio              : "Senior Lecturer in NLP"
+  bio              : # "Senior Lecturer in NLP"
   location         : #"Location"
-  employer         : University of Sheffield
+  employer         : #University of Sheffield
   pubmed           : 
   googlescholar    : "https://scholar.google.co.uk/citations?user=uxRWFhoAAAAJ&hl=en"
   email            :
