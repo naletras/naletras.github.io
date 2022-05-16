@@ -44,15 +44,15 @@ author_profile: true
 ### Past Members
 
 * Xiao Ao (MSc student - intern, 2021)
-* Marina Fomicheva (Research Associate, 2019-21)
+* Marina Fomicheva (Research Associate, 2019-21) -> Director of Research, context.ai
 * Hardy (PhD student, co-supervised with [Andreas Vlachos](https://andreasvlachos.github.io/), 2019-21)
 * Tulika Bose (Visiting PhD student, 2021)
-* [Atsuki Yamaguchi](https://gucci-j.github.io/about/) (Intern, 2020-21)
-* Areej Alokaili (PhD student, co-supervised with [Mark Stevenson](https://staffwww.dcs.shef.ac.uk/people/M.Stevenson/bio.html), 2018-21)
-* [Ilias Chalkidis](https://iliaschalkidis.github.io/) (PhD student, co-supervised with [Ion Androutsopoulos](http://www2.aueb.gr/users/ion//), 2018-21)
-* [Fred Blain](https://fredblain.org/) (Research Associate, 2019-20)
+* [Atsuki Yamaguchi](https://gucci-j.github.io/about/) (Intern, 2020-21) -> Software developer, Hitachi
+* Areej Alokaili (PhD student, co-supervised with [Mark Stevenson](https://staffwww.dcs.shef.ac.uk/people/M.Stevenson/bio.html), 2018-21) 
+* [Ilias Chalkidis](https://iliaschalkidis.github.io/) (PhD student, co-supervised with [Ion Androutsopoulos](http://www2.aueb.gr/users/ion//), 2018-21) -> Research Associate, Coastal NLP, University of Copenhagen
+* [Fred Blain](https://fredblain.org/) (Research Associate, 2019-20) -> Lecturer, University of Wolverhampton
 * [Twin Karmakharm](https://www.twin.uk.com/) (Research Engineer, 2019)
-* [Antonis Maronikolakis](https://antmarakis.github.io/)  (Intern, 2019)
+* [Antonis Maronikolakis](https://antmarakis.github.io/)  (Intern, 2019) -> PhD student, Schütze Lab, LMU Munich
 
 
 
