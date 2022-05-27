@@ -37,19 +37,19 @@ author_profile: true
 * L. Zhang, H. Song, **N. Aletras** and H. Lu (2022). *Node-Feature Convolution for Graph Convolutional Networks*. **Pattern Recognition**\
 	[[pdf](https://www.sciencedirect.com/science/article/pii/S003132032200142X/pdfft?md5=cc24aa8dd2af220793071c55cfcb125a&pid=1-s2.0-S003132032200142X-main.pdf)][[bib]()]
 * M. Jin, D. Preoţiuc-Pietro, A. S. Doğruöz and **N. Aletras** (2022). *Automatic Identification and Classification of Bragging in Social Media*. **ACL**\
-	[[pdf](https://arxiv.org/pdf/2203.05840.pdf)][[bib]()]
+	[[pdf](https://aclanthology.org/2022.acl-long.273.pdf)][[bib](https://aclanthology.org/2022.acl-long.273.bib)]
 * G. Chrysostomou and **N. Aletras** (2022). *An Empirical Study on Explanations in Out-of-Domain Settings*. **ACL**\
-	[[pdf](https://arxiv.org/pdf/2203.00056.pdf)][[bib]()]
+	[[pdf](https://aclanthology.org/2022.acl-long.477.pdf)][[bib](https://aclanthology.org/2022.acl-long.477.bib)]
 * K. Margatina, L. Barrault and **N. Aletras** (2022). *On the Importance of Effectively Adapting Pretrained Language Models for Active Learning*. **ACL**\
-	[[pdf](https://arxiv.org/pdf/2104.08320.pdf)][[bib]()]
+	[[pdf](https://aclanthology.org/2022.acl-short.93.pdf)][[bib](https://aclanthology.org/2022.acl-short.93.bib)]
 * A. Alajrami and **N. Aletras** (2022). *How does the pre-training objective affect what large language models learn about linguistic properties?*. **ACL**\
-	[[pdf](https://arxiv.org/pdf/2203.10415.pdf)][[bib]()]
+	[[pdf](https://aclanthology.org/2022.acl-short.16.pdf)][[bib](https://aclanthology.org/2022.acl-short.16.bib)]
 * I. Chalkidis, A. Jana, D. Hartung, M. Bommarito, I. Androutsopoulos, D. M. Katz and **N. Aletras** (2022). *LexGLUE: A Benchmark Dataset for Legal Language Understanding in English*. **ACL**\
-	[[pdf](https://arxiv.org/pdf/2110.00976.pdf)][[bib]()]
+	[[pdf](https://aclanthology.org/2022.acl-long.297.pdf)][[bib](https://aclanthology.org/2022.acl-long.297.bib)]
 * M. Fomicheva, L. Specia and **N. Aletras** (2022). *Translation Error Detection as Rationale Extraction*. **ACL Findings**\
-	[[pdf](https://arxiv.org/pdf/2108.12197.pdf)][[bib]()]
+	[[pdf](https://aclanthology.org/2022.findings-acl.327.pdf)][[bib](https://aclanthology.org/2022.findings-acl.327.bib)]
 * T. Bose, **N. Aletras**, I. Illina and D. Fohr  (2022). *Dynamically Refined Regularization for Improving Cross-corpora Hate Speech Detection*. **ACL Findings**\
-	[[pdf](https://arxiv.org/pdf/2203.12536.pdf)][[bib]()]
+	[[pdf](https://aclanthology.org/2022.findings-acl.32.pdf)][[bib](https://aclanthology.org/2022.findings-acl.32.bib)]
 * G. Chrysostomou and **N. Aletras** (2022). *Flexible Instance-specific Rationalization of NLP Models*. **AAAI**\
 	[[pdf](https://arxiv.org/pdf/2104.08219.pdf)][[bib]()]
 
