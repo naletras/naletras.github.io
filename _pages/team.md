@@ -41,7 +41,7 @@ author_profile: true
 
 ### Past Members and Visitors
 
-* [George Chrysostomou](https://scholar.google.com/citations?user=t3eShIkAAAAJ&hl) (2019-22) -> Research Scientist, AstraZeneca
+* [George Chrysostomou](https://scholar.google.com/citations?user=t3eShIkAAAAJ&hl) (PhD student, 2019-22) -> Research Scientist, AstraZeneca
 * Xiao Ao (MSc student - intern, 2021)
 * Marina Fomicheva (Research Associate, 2019-21) -> Director of Research, context.ai
 * Hardy (PhD student, co-supervised with [Andreas Vlachos](https://andreasvlachos.github.io/), 2019-21)
