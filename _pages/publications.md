@@ -31,7 +31,7 @@ author_profile: true
 * X. Ao, D. Sanchez Villegas, D. Preoţiuc-Pietro and **N. Aletras** (2022). *Combining Humor and Sarcasm for Improving Political Parody Detection*. **NAACL**\
 	[[pdf](https://arxiv.org/pdf/2205.03313.pdf)][[bib]()]
 * R. Sawhney, S. Agarwal, A. T. Neerkaje, **N. Aletras**, P. Nakov and L. Flek (2022). *Towards Suicide Ideation Detection Through Online Conversational Context*. **SIGIR**\
-	[[pdf]()][[bib]()]
+	[[pdf](https://dl.acm.org/doi/pdf/10.1145/3477495.3532068)][[bib]()]
 * Y. Mu, P. Niu and **N. Aletras** (2022). *Identifying and Characterizing Active Citizens who Refute Misinformation in Social Media*. **ACM WebSci**\
 	[[pdf](https://arxiv.org/pdf/2204.10080v1.pdf)][[bib]()]
 * L. Zhang, H. Song, **N. Aletras** and H. Lu (2022). *Node-Feature Convolution for Graph Convolutional Networks*. **Pattern Recognition**\
