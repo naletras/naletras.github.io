@@ -9,6 +9,7 @@ author_profile: true
 
 {% include base_path %}
 
+* How can we improve explanation faithfulness in NLP, Invited talk at the Faculty of Law, University of Copenhagen (Sep 2022)
 * How can we improve explanation faithfulness in NLP, Invited talk at the Advances in Data Science and AI Conference, University of Manchester (Jun 2022)
 * DERC 2022 seminar series on responsible data science, RMIT University, Melbourne (Mar 2022)
 * Natural Language Processing on Legal Text, Invited talk at the 4th International Forum on Computational Law: Data Governance and Legal Tech, Tsinghua University, China (Sep 2021)
