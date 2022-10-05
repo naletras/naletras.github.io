@@ -9,6 +9,7 @@ author_profile: true
 
 {% include base_path %}
 
+* How can we improve explanation faithfulness in NLP, Invited talk at the Computer Science Colloquium, University of Warwick (Oct 2022)
 * How can we improve explanation faithfulness in NLP, Invited talk at the Faculty of Law, University of Copenhagen (Sep 2022)
 * How can we improve explanation faithfulness in NLP, Invited talk at the Advances in Data Science and AI Conference, University of Manchester (Jun 2022)
 * DERC 2022 seminar series on responsible data science, RMIT University, Melbourne (Mar 2022)
