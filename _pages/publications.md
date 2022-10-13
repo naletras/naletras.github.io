@@ -34,6 +34,8 @@ author_profile: true
 	[[pdf]()][[bib]()]
 * M. Li, J. Chen, S. Mensah, **N. Aletras**,  X. Yang and Y. Ye (2022). *A Hierarchical N-Gram Framework for Zero-Shot Link Prediction*. **EMNLP Findings**\
 	[[pdf]()][[bib]()]
+* W. Li and **N. Aletras** (2022). *Improving Graph-Based Text Representations with Character and Word Level N-grams*. **AACL**\
+	[[pdf](https://arxiv.org/pdf/2210.05999.pdf)][[bib]()]
 * T. Bose, **N. Aletras**, I. Illina and D. Fohr  (2022). *Domain Classification-based Source-specific Term Penalization for Domain Adaptation in Hate-speech Detection*. **COLING**\
 	[[pdf](https://arxiv.org/pdf/2209.08681.pdf)][[bib]()]
 * X. Ao, D. Sanchez Villegas, D. Preoţiuc-Pietro and **N. Aletras** (2022). *Combining Humor and Sarcasm for Improving Political Parody Detection*. **NAACL**\
