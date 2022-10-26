@@ -29,17 +29,17 @@ author_profile: true
 ### 2022
 
 * H. Xue and **N. Aletras** (2022). *HashFormers: Towards Vocabulary-independent Pre-trained Transformers*. **EMNLP**\
-	[[pdf]()][[bib]()]
+	[[pdf](https://arxiv.org/pdf/2210.07904.pdf)][[bib]()]
 * Z. Zhao, G. Chrysostomou, K. Bontcheva and **N. Aletras** (2022). *On the Impact of Temporal Concept Drift on Model Explanations*. **EMNLP Findings**\
-	[[pdf]()][[bib]()]
+	[[pdf](https://arxiv.org/pdf/2210.09197.pdf)][[bib]()]
 * M. Li, J. Chen, S. Mensah, **N. Aletras**,  X. Yang and Y. Ye (2022). *A Hierarchical N-Gram Framework for Zero-Shot Link Prediction*. **EMNLP Findings**\
-	[[pdf]()][[bib]()]
+	[[pdf](https://arxiv.org/pdf/2204.10293.pdf)][[bib]()]
 * W. Li and **N. Aletras** (2022). *Improving Graph-Based Text Representations with Character and Word Level N-grams*. **AACL**\
 	[[pdf](https://arxiv.org/pdf/2210.05999.pdf)][[bib]()]
 * T. Bose, **N. Aletras**, I. Illina and D. Fohr  (2022). *Domain Classification-based Source-specific Term Penalization for Domain Adaptation in Hate-speech Detection*. **COLING**\
-	[[pdf](https://arxiv.org/pdf/2209.08681.pdf)][[bib]()]
+	[[pdf](https://aclanthology.org/2022.coling-1.578.pdf)][[bib](https://aclanthology.org/2022.coling-1.578.bib)]
 * X. Ao, D. Sanchez Villegas, D. Preoţiuc-Pietro and **N. Aletras** (2022). *Combining Humor and Sarcasm for Improving Political Parody Detection*. **NAACL**\
-	[[pdf](https://arxiv.org/pdf/2205.03313.pdf)][[bib]()]
+	[[pdf](https://aclanthology.org/2022.naacl-main.131.pdf)][[bib](https://aclanthology.org/2022.naacl-main.131.bib)]
 * R. Sawhney, S. Agarwal, A. T. Neerkaje, **N. Aletras**, P. Nakov and L. Flek (2022). *Towards Suicide Ideation Detection Through Online Conversational Context*. **SIGIR**\
 	[[pdf](https://dl.acm.org/doi/pdf/10.1145/3477495.3532068)][[bib]()]
 * Y. Mu, P. Niu and **N. Aletras** (2022). *Identifying and Characterizing Active Citizens who Refute Misinformation in Social Media*. **ACM WebSci**\
