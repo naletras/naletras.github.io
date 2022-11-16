@@ -23,7 +23,7 @@ author_profile: true
 
 ### PhD Students
 
-* [Ahmed Alajrami](https://twitter.com/aajrami)
+* [Ahmed Alajrami]([https://twitter.com/aajrami](https://aajrami.github.io/))
 * [Mali Jin](https://scholar.google.com/citations?user=Br8h1WIAAAAJ)
 * [Wenzhe Li](https://scholar.google.com/citations?user=ixVc4s8AAAAJ) 
 * [Katerina Margatina](https://katerinamargatina.github.io/) (co-supervised with [Loic Barrault](https://loicbarrault.github.io/))
