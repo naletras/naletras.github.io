@@ -24,6 +24,11 @@ author_profile: true
 <!-- <a href="#Journal">Journal</a> <a href="#Conference">Conference</a> <a href="#Workshop">Workshop</a> <a href="#Thesis">Thesis</a> -->
 
 
+### 2023
+
+* Y. Mu, K. Bontcheva and **N. Aletras** (2023). *It's about Time: Rethinking Evaluation on Rumor Detection Benchmarks using Chronological Splits*. **EACL Findings**\
+	[[pdf]()][[bib]()]
+
 
 
 ### 2022
