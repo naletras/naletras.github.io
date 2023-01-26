@@ -26,6 +26,8 @@ author_profile: true
 
 ### 2023
 
+* K. Sun, R. Zhang, S. Mensah, **N. Aletras**, Y. Mao and X. Liu (2023). *Self-training through Classifier Disagreement for Cross-Domain Opinion Target Extraction*. **The Web Conference (WWW)**\
+	[[pdf]()][[bib]()]
 * Y. Mu, K. Bontcheva and **N. Aletras** (2023). *It's about Time: Rethinking Evaluation on Rumor Detection Benchmarks using Chronological Splits*. **EACL Findings**\
 	[[pdf]()][[bib]()]
 
