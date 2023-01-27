@@ -26,6 +26,8 @@ author_profile: true
 
 ### 2023
 
+* J. Zhu, S. Mensah, **N. Aletras**, T. Stafford and K. Dommett (2023). *Is there a permanent campaign for online political advertising? Investigating partisan and non-party campaign activity in the UK between 2018-2021*. **Journal of Political Marketing**\
+	[[pdf]()][[bib]()]
 * K. Sun, R. Zhang, S. Mensah, **N. Aletras**, Y. Mao and X. Liu (2023). *Self-training through Classifier Disagreement for Cross-Domain Opinion Target Extraction*. **The Web Conference (WWW)**\
 	[[pdf]()][[bib]()]
 * Y. Mu, K. Bontcheva and **N. Aletras** (2023). *It's about Time: Rethinking Evaluation on Rumor Detection Benchmarks using Chronological Splits*. **EACL Findings**\
