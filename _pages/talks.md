@@ -9,6 +9,7 @@ author_profile: true
 
 {% include base_path %}
 
+* Towards compute efficient language models, Invited talk at Cardiff University (Feb 2023)
 * How can we improve explanation faithfulness in NLP, Invited talk at Huawei Development Centre, Helsinki, Finland (Dec 2022)
 * How can we improve explanation faithfulness in NLP, Invited talk at the Computer Science Colloquium, University of Warwick (Oct 2022)
 * How can we improve explanation faithfulness in NLP, Invited talk at the Faculty of Law, University of Copenhagen (Sep 2022)
