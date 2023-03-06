@@ -32,6 +32,7 @@ author_profile: true
 * Peter Vickers (co-supervised with [Loic Barrault](https://loicbarrault.github.io/))
 * Miles Williams
 * [Huiyin Xue](https://twitter.com/HuiyinXue)
+* Shakshi Sarma (Visiting PhD student from University of Tartu, Estonia)
 
 
 
