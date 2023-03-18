@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-I am a Professor in [Natural Language Processing](https://www.sheffield.ac.uk/dcs/research/groups/natural-language-processing) at the Computer Science Department of the University of Sheffield, co-affiliated with the Machine Learning (ML) group and an Amazon Visiting Academic. Previously, I was a Lecturer in Data Science at the Information School, University of Sheffield. I've gained industrial experience working as a scientist at Amazon (Amazon ML and Alexa). I was a research associate at UCL, Department of Computer Science and I completed a PhD in Natural Language Processing at the University of Sheffield, Department of Computer Science. I obtained a Bachelor's degree in Computer Science at the [University of Crete](https://www.csd.uoc.gr/). 
+I am a Professor of [Natural Language Processing](https://www.sheffield.ac.uk/dcs/research/groups/natural-language-processing) at the Computer Science Department of the University of Sheffield, co-affiliated with the Machine Learning (ML) group and an Amazon Visiting Academic. Previously, I was a Lecturer in Data Science at the Information School, University of Sheffield. I've gained industrial experience working as a scientist at Amazon (Amazon ML and Alexa). I was a research associate at UCL, Department of Computer Science and I completed a PhD in Natural Language Processing at the University of Sheffield, Department of Computer Science. I obtained a Bachelor's degree in Computer Science at the [University of Crete](https://www.csd.uoc.gr/). 
 
 <!-- For more details, see my [CV](http://naletras.github.io/files/nikos_cv.pdf). -->
 
