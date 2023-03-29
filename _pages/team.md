@@ -11,9 +11,12 @@ author_profile: true
 
  
 <figure>
-  <img style="border:1px solid gray;" src="../files/group_20220202.jpg" alt="Team" width="500"/>
-  <figcaption>Feb 2022</figcaption>
+  <img style="border:1px solid gray;" src="../files/IMG_2488.jpg" alt="Team" width="500"/>
+  <figcaption>Mar 2023</figcaption>
 </figure>
+
+![Feb 2022]("../files/group_20220202.jpg")
+
 
 ### Research Staff
 
