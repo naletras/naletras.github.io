@@ -15,9 +15,6 @@ author_profile: true
   <figcaption>Mar 2023</figcaption>
 </figure>
 
-<span style="border:1px solid gray;">
-[Feb 2022](../files/group_20220202.jpg)
-</span>
 
 
 ### Research Staff
@@ -59,6 +56,9 @@ author_profile: true
 * [Twin Karmakharm](https://www.twin.uk.com/) (Research Engineer, 2019)
 * [Antonis Maronikolakis](https://antmarakis.github.io/)  (Intern, 2019) -> PhD student, Schütze Lab, LMU Munich, Germany
 
+### Past Group Photos
+
+[Feb 2022](../files/group_20220202.jpg)
 
 
 
