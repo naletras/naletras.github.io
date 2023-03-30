@@ -16,7 +16,7 @@ author_profile: true
 </figure>
 <br>
 
-![Feb 2022](../files/group_20220202.jpg)
+[Feb 2022](../files/group_20220202.jpg)
 
 
 ### Research Staff
