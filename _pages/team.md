@@ -36,7 +36,7 @@ author_profile: true
 * Miles Williams
 * [Huiyin Xue](https://twitter.com/HuiyinXue)
 * Manos Zaranis (co-supervised with [Nafise Sadat Moosavi](https://ns-moosavi.github.io/))
-* * Shakshi Sarma (Visiting PhD student from University of Tartu, Estonia)
+* Shakshi Sarma (Visiting PhD student from University of Tartu, Estonia)
 
 
 
