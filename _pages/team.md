@@ -25,7 +25,7 @@ author_profile: true
 
 ### PhD Students
 
-* [Ahmed Alajrami]([https://twitter.com/aajrami](https://aajrami.github.io/))
+* [Ahmed Alajrami](https://aajrami.github.io/)
 * [Mali Jin](https://scholar.google.com/citations?user=Br8h1WIAAAAJ)
 * [Constantinos Karouzos](https://ckarouzos.github.io/)
 * [Wenzhe Li](https://scholar.google.com/citations?user=ixVc4s8AAAAJ) 
