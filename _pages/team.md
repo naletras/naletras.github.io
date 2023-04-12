@@ -36,7 +36,7 @@ author_profile: true
 * Miles Williams
 * [Huiyin Xue](https://twitter.com/HuiyinXue)
 * Manos Zaranis (co-supervised with [Nafise Sadat Moosavi](https://ns-moosavi.github.io/))
-* Shakshi Sarma (Visiting PhD student from University of Tartu, Estonia)
+
 
 
 
@@ -46,6 +46,7 @@ author_profile: true
 
 ### Past Members and Visitors
 
+* Shakshi Sarma (Visiting PhD student from University of Tartu, Estonia, 2023)
 * [George Chrysostomou](https://scholar.google.com/citations?user=t3eShIkAAAAJ&hl) (PhD student, 2019-22) -> Research Scientist, AstraZeneca
 * Xiao Ao (MSc student - intern, 2021)
 * Marina Fomicheva (Research Associate, 2019-21) -> Director of Research, context.ai
