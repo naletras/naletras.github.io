@@ -26,6 +26,16 @@ author_profile: true
 
 ### 2023
 
+*  Z. Zhao and **N. Aletras** (2023). *Incorporating Attribution Importance for Improving Faithfulness Metrics*. **ACL**\
+	[[pdf]()][[bib]()]
+*  S. Mensah, K. Sun and **N. Aletras**  (2023). *Trading Syntax Trees for Wordpieces: Target-oriented Opinion Words Extraction with Wordpieces and Aspect Enhancement*. **ACL**\
+	[[pdf]()][[bib]()]
+*  Y. Feng, Y. Jiao, A. Prasad, **N. Aletras**, E. Yilmaz and G. Kazai (2023). *Schema-guided User Satisfaction Modeling for Task-oriented Dialogues*. **ACL**\
+	[[pdf]()][[bib]()]
+*  K. Margatina and **N. Aletras** (2023). *On the Limitations of Simulating Active Learning*. **ACL Findings**\
+	[[pdf]()][[bib]()]
+*  Z. Shi, F. Tonolini, **N. Aletras**, E. Yilmaz, G. Kazai and Y. Jiao  (2023). *Rethinking Semi-supervised Learning with Language Models*. **ACL Findings**\
+	[[pdf]()][[bib]()]
 * F. Tonolini, **N. Aletras**, Y. Jiao and G. Kazai  (2023). *Robust Weak Supervision with Variational Auto-Encoders*. **ICML**\
 	[[pdf]()][[bib]()]
 * K. Dommett, S. Mensah, J. Zhu, T. Stafford and **N. Aletras** (2023). *Is there a permanent campaign for online political advertising? Investigating partisan and non-party campaign activity in the UK between 2018-2021*. **Journal of Political Marketing**\
