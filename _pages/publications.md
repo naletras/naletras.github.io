@@ -86,6 +86,7 @@ author_profile: true
 
 
 
+
 ### 2021
 
 * K. Margatina, G. Vernikos, L. Barrault and **N. Aletras** (2021). *Active Learning by Acquiring Contrastive Examples*. **EMNLP**\
