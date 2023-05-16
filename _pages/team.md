@@ -28,7 +28,7 @@ author_profile: true
 * [Ahmed Alajrami](https://aajrami.github.io/)
 * [Constantinos Karouzos](https://ckarouzos.github.io/)
 * [Wenzhe Li](https://scholar.google.com/citations?user=ixVc4s8AAAAJ) 
-* [Katerina Margatina](https://katerinamargatina.github.io/) (co-supervised with [Loic Barrault](https://loicbarrault.github.io/))
+* [Katerina Margatina](https://katerinamargatina.github.io/) 
 * [Danae Sanchez Villegas](https://danaesavi.github.io/)
 * Peter Vickers (co-supervised with [Loic Barrault](https://loicbarrault.github.io/))
 * Miles Williams
