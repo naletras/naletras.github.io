@@ -33,7 +33,6 @@ author_profile: true
 * Peter Vickers (co-supervised with [Loic Barrault](https://loicbarrault.github.io/))
 * Miles Williams
 * [Huiyin Xue](https://twitter.com/HuiyinXue)
-* Manos Zaranis (co-supervised with [Nafise Sadat Moosavi](https://ns-moosavi.github.io/))
 
 
 
