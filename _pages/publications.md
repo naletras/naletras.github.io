@@ -27,7 +27,7 @@ author_profile: true
 ### 2023
 
 *  Z. Zhao and **N. Aletras** (2023). *Incorporating Attribution Importance for Improving Faithfulness Metrics*. **ACL**\
-	[[pdf]()][[bib]()]
+	[[pdf](https://arxiv.org/pdf/2305.10496.pdf)][[bib]()]
 *  S. Mensah, K. Sun and **N. Aletras**  (2023). *Trading Syntax Trees for Wordpieces: Target-oriented Opinion Words Extraction with Wordpieces and Aspect Enhancement*. **ACL**\
 	[[pdf]()][[bib]()]
 *  Y. Feng, Y. Jiao, A. Prasad, **N. Aletras**, E. Yilmaz and G. Kazai (2023). *Schema-guided User Satisfaction Modeling for Task-oriented Dialogues*. **ACL**\
