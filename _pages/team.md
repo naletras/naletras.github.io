@@ -18,8 +18,7 @@ author_profile: true
 
 
 ### Research Staff
-
-* [Samuel Mensah](https://scholar.google.com/citations?user=tqChiOoAAAAJ&hl) 
+ 
 * [Cass Zhao](https://www.sheffield.ac.uk/is/people/phd-researchers/cass-zhixue-zhao)
 
 
@@ -43,6 +42,8 @@ author_profile: true
 
 ### Past Members and Visitors
 
+
+* [Samuel Mensah](https://scholar.google.com/citations?user=tqChiOoAAAAJ&hl) (Research Associate, 2021-23) -> Research Scientist, JP Morgan
 * [Mali Jin](https://scholar.google.com/citations?user=Br8h1WIAAAAJ) (PhD student, 2019-23) -> Research Associate, University of Sheffield
 * [Yida Mu](https://www.sheffield.ac.uk/dcs/people/research-staff/yida-mu-0) (PhD student, 2019-23) -> Research Associate, University of Sheffield
 * Shakshi Sarma (Visiting PhD student from University of Tartu, Estonia, 2023)
