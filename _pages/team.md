@@ -19,6 +19,7 @@ author_profile: true
 
 ### Research Staff
  
+* [Danae Sanchez Villegas](https://danaesavi.github.io/)
 * [Cass Zhao](https://www.sheffield.ac.uk/is/people/phd-researchers/cass-zhixue-zhao)
 
 
@@ -28,8 +29,7 @@ author_profile: true
 * [Constantinos Karouzos](https://ckarouzos.github.io/)
 * [Wenzhe Li](https://scholar.google.com/citations?user=ixVc4s8AAAAJ) 
 * [Katerina Margatina](https://katerinamargatina.github.io/) 
-* [Danae Sanchez Villegas](https://danaesavi.github.io/)
-* Peter Vickers (co-supervised with [Loic Barrault](https://loicbarrault.github.io/))
+* Peter Vickers 
 * Miles Williams
 * [Huiyin Xue](https://twitter.com/HuiyinXue)
 
