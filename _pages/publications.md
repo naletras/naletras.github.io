@@ -24,7 +24,10 @@ author_profile: true
 <!-- <a href="#Journal">Journal</a> <a href="#Conference">Conference</a> <a href="#Workshop">Workshop</a> <a href="#Thesis">Thesis</a> -->
 
 
-
+1.  D. Sanchez Villegas, C. Goanta and **N. Aletras** (2023). *A Multimodal Analysis of Influencer Content on Twitter*. **AACL**\
+	[[pdf]()][[bib]()]
+1.  P. Vickers, L. Barrault, E. Monti and **N. Aletras** (2023). *We Need to Talk About Classification Evaluation Metrics in NLP*. **AACL**\
+	[[pdf]()][[bib]()]
 1.  Z. Zhao and **N. Aletras** (2023). *Incorporating Attribution Importance for Improving Faithfulness Metrics*. **ACL**\
 	[[pdf](https://arxiv.org/pdf/2305.10496.pdf)][[bib]()]
 1.  S. Mensah, K. Sun and **N. Aletras**  (2023). *Trading Syntax Trees for Wordpieces: Target-oriented Opinion Words Extraction with Wordpieces and Aspect Enhancement*. **ACL**\
@@ -89,7 +92,7 @@ author_profile: true
 	[[pdf](https://aclanthology.org/2021.emnlp-main.249.pdf)][[bib](https://aclanthology.org/2021.emnlp-main.249.bib)]
 1. G. Chrysostomou and **N. Aletras** (2021). *Improving the Faithfulness of Attention-based Explanations with Task-specific Information for Text Classification*. **ACL**\
 	[[pdf](https://aclanthology.org/2021.acl-long.40.pdf)][[bib](https://aclanthology.org/2021.acl-long.40.bib)]
-1. P. Vickers, **N. Aletras**, E. Monti and Loic Barrault (2021). *In Factuality: Efficient Integration of Relevant Facts for Visual Question Answering*. **ACL**\
+1. P. Vickers, **N. Aletras**, E. Monti and L. Barrault (2021). *In Factuality: Efficient Integration of Relevant Facts for Visual Question Answering*. **ACL**\
 	[[pdf](https://aclanthology.org/2021.acl-short.60.pdf)][[bib](https://aclanthology.org/2021.acl-short.60.bib)]
 1. D. Tsarapatsanis and **N. Aletras** (2021). *On the Ethical Limits of Natural Language Processing on Legal Text*. **ACL Findings**\
 	[[pdf](https://aclanthology.org/2021.findings-acl.314.pdf)][[bib](https://aclanthology.org/2021.findings-acl.314.bib)]
