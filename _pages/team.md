@@ -52,8 +52,7 @@ author_profile: true
 * Xiao Ao (MSc student - intern, 2021)
 * Marina Fomicheva (Research Associate, 2019-21) -> Director of Research, context.ai
 * Hardy (PhD student, co-supervised with [Andreas Vlachos](https://andreasvlachos.github.io/), 2019-21)
-* Tulika Bose (Visiting PhD student from LORIA-INRIA, 2021)
-<!-- * [Atsuki Yamaguchi](https://gucci-j.github.io/about/) (Intern, 2020-21) -> Research Engineer, Hitachi -->
+* Tulika Bose (Visiting PhD student from LORIA-INRIA, 2021) <!-- * [Atsuki Yamaguchi](https://gucci-j.github.io/about/) (Intern, 2020-21) -> Research Engineer, Hitachi -->
 * Areej Alokaili (PhD student, co-supervised with [Mark Stevenson](https://staffwww.dcs.shef.ac.uk/people/M.Stevenson/bio.html), 2018-21) -> Assistant Professor, King Saud University, Saudi Arabia
 * [Ilias Chalkidis](https://iliaschalkidis.github.io/) (PhD student, co-supervised with [Ion Androutsopoulos](http://www2.aueb.gr/users/ion//), 2018-21) -> Research Associate, Coastal NLP, University of Copenhagen, Denmark
 * [Fred Blain](https://fredblain.org/) (Research Associate, 2019-20) -> Lecturer, University of Wolverhampton, UK
