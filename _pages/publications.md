@@ -24,6 +24,14 @@ author_profile: true
 <!-- <a href="#Journal">Journal</a> <a href="#Conference">Conference</a> <a href="#Workshop">Workshop</a> <a href="#Thesis">Thesis</a> -->
 
 
+1.  A. Alajrami, K. Margatina and **N. Aletras** (2023). *Understanding the Role of Input Token Characters in Language Models: How Does Information Loss Affect Performance?*. **EMNLP**\
+	[[pdf]()][[bib]()]
+1.  C. Goanta, **N. Aletras**, I. Chalkidis, S. Ranchordás, G. Spanakis (2023). *Regulation and NLP (RegNLP): Taming Large Language Models*. **EMNLP**\
+	[[pdf]()][[bib]()]
+1.  H. Xue and **N. Aletras** (2023). *Pit One Against Many: Leveraging Attention-head Embeddings for Parameter-efficient Multi-head Attention*. **EMNLP Findings**\
+	[[pdf]()][[bib]()]
+1.  K. Margatina, T. Schick, **N. Aletras**, J. Dwivedi-Yu (2023). *Active Learning Principles for In-Context Learning with Large Language Models*. **EMNLP Findings**\
+	[[pdf]()][[bib]()]
 1.  D. Sanchez Villegas, C. Goanta and **N. Aletras** (2023). *A Multimodal Analysis of Influencer Content on Twitter*. **AACL**\
 	[[pdf]()][[bib]()]
 1.  P. Vickers, L. Barrault, E. Monti and **N. Aletras** (2023). *We Need to Talk About Classification Evaluation Metrics in NLP*. **AACL**\
