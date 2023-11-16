@@ -33,7 +33,7 @@ author_profile: true
 1.  K. Margatina, T. Schick, **N. Aletras**, J. Dwivedi-Yu (2023). *Active Learning Principles for In-Context Learning with Large Language Models*. **EMNLP Findings**\
 	[[pdf]()][[bib]()]
 1.  D. Sanchez Villegas, C. Goanta and **N. Aletras** (2023). *A Multimodal Analysis of Influencer Content on Twitter*. **AACL**\
-   :trophy:: **Area Chair Award: Society and NLP**\
+   🏆 **Area Chair Award: Society and NLP**\
 	[[pdf]()][[bib]()]
 1.  P. Vickers, L. Barrault, E. Monti and **N. Aletras** (2023). *We Need to Talk About Classification Evaluation Metrics in NLP*. **AACL**\
 	[[pdf]()][[bib]()]
