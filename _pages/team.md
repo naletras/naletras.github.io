@@ -42,21 +42,21 @@ author_profile: true
 
 ### Past Members and Visitors
 
-* [Cass Zhao](https://www.sheffield.ac.uk/is/people/phd-researchers/cass-zhixue-zhao) (Research Associate, 2021-23) -> Lecturer, University of Sheffield
-* [Samuel Mensah](https://scholar.google.com/citations?user=tqChiOoAAAAJ&hl) (Research Associate, 2021-23) -> Research Scientist, JP Morgan
-* [Mali Jin](https://scholar.google.com/citations?user=Br8h1WIAAAAJ) (PhD student, 2019-23) -> Research Associate, University of Sheffield
-* [Yida Mu](https://www.sheffield.ac.uk/dcs/people/research-staff/yida-mu-0) (PhD student, 2019-23) -> Research Associate, University of Sheffield
+* [Cass Zhao](https://www.sheffield.ac.uk/is/people/phd-researchers/cass-zhixue-zhao) (Research Associate, 2021-23) $\rightarrow$ Lecturer, University of Sheffield
+* [Samuel Mensah](https://scholar.google.com/citations?user=tqChiOoAAAAJ&hl) (Research Associate, 2021-23) $\rightarrow$ Research Scientist, JP Morgan
+* [Mali Jin](https://scholar.google.com/citations?user=Br8h1WIAAAAJ) (PhD student, 2019-23) $\rightarrow$ Research Associate, University of Sheffield
+* [Yida Mu](https://www.sheffield.ac.uk/dcs/people/research-staff/yida-mu-0) (PhD student, 2019-23) $\rightarrow$ Research Associate, University of Sheffield
 * Shakshi Sarma (Visiting PhD student from University of Tartu, Estonia, 2023)
-* [George Chrysostomou](https://scholar.google.com/citations?user=t3eShIkAAAAJ&hl) (PhD student, 2019-22) -> Research Scientist, AstraZeneca
+* [George Chrysostomou](https://scholar.google.com/citations?user=t3eShIkAAAAJ&hl) (PhD student, 2019-22) $\rightarrow$ Research Scientist, AstraZeneca
 * Xiao Ao (MSc student - intern, 2021)
-* Marina Fomicheva (Research Associate, 2019-21) -> Director of Research, context.ai
+* Marina Fomicheva (Research Associate, 2019-21) $\rightarrow$ Director of Research, context.ai
 * Hardy (PhD student, co-supervised with [Andreas Vlachos](https://andreasvlachos.github.io/), 2019-21)
 * Tulika Bose (Visiting PhD student from LORIA-INRIA, 2021) <!-- * [Atsuki Yamaguchi](https://gucci-j.github.io/about/) (Intern, 2020-21) -> Research Engineer, Hitachi -->
-* Areej Alokaili (PhD student, co-supervised with [Mark Stevenson](https://staffwww.dcs.shef.ac.uk/people/M.Stevenson/bio.html), 2018-21) -> Assistant Professor, King Saud University, Saudi Arabia
-* [Ilias Chalkidis](https://iliaschalkidis.github.io/) (PhD student, co-supervised with [Ion Androutsopoulos](http://www2.aueb.gr/users/ion//), 2018-21) -> Research Associate, Coastal NLP, University of Copenhagen, Denmark
-* [Fred Blain](https://fredblain.org/) (Research Associate, 2019-20) -> Lecturer, University of Wolverhampton, UK
+* Areej Alokaili (PhD student, co-supervised with [Mark Stevenson](https://staffwww.dcs.shef.ac.uk/people/M.Stevenson/bio.html), 2018-21) $\rightarrow$ Assistant Professor, King Saud University, Saudi Arabia
+* [Ilias Chalkidis](https://iliaschalkidis.github.io/) (PhD student, co-supervised with [Ion Androutsopoulos](http://www2.aueb.gr/users/ion//), 2018-21) $\rightarrow$ Research Associate, Coastal NLP, University of Copenhagen, Denmark
+* [Fred Blain](https://fredblain.org/) (Research Associate, 2019-20) $\rightarrow$ Lecturer, University of Wolverhampton, UK
 * [Twin Karmakharm](https://www.twin.uk.com/) (Research Engineer, 2019)
-* [Antonis Maronikolakis](https://antmarakis.github.io/)  (Intern, 2019) -> PhD student, Schütze Lab, LMU Munich, Germany
+* [Antonis Maronikolakis](https://antmarakis.github.io/)  (Intern, 2019) $\rightarrow$ PhD student, Schütze Lab, LMU Munich, Germany
 
 ### Past Group Photos
 
