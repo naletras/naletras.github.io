@@ -42,7 +42,7 @@ author_profile: true
 
 ### Past Members and Visitors
 
-* [Cass Zhao](https://www.sheffield.ac.uk/is/people/phd-researchers/cass-zhixue-zhao) (Research Associate, 2021-23) Lecturer, University of Sheffield
+* [Cass Zhao](https://www.sheffield.ac.uk/is/people/phd-researchers/cass-zhixue-zhao) (Research Associate, 2021-23) -> Lecturer, University of Sheffield
 * [Samuel Mensah](https://scholar.google.com/citations?user=tqChiOoAAAAJ&hl) (Research Associate, 2021-23) -> Research Scientist, JP Morgan
 * [Mali Jin](https://scholar.google.com/citations?user=Br8h1WIAAAAJ) (PhD student, 2019-23) -> Research Associate, University of Sheffield
 * [Yida Mu](https://www.sheffield.ac.uk/dcs/people/research-staff/yida-mu-0) (PhD student, 2019-23) -> Research Associate, University of Sheffield
