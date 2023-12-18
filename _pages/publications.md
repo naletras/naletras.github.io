@@ -24,46 +24,46 @@ author_profile: true
 <!-- <a href="#Journal">Journal</a> <a href="#Conference">Conference</a> <a href="#Workshop">Workshop</a> <a href="#Thesis">Thesis</a> -->
 
 1.  Y. Mu, P. Niu, K. Bontcheva and **N. Aletras** (2023). *Predicting and Analyzing the Popularity of False Rumors in Weibo*. **Expert Systems with Applications**\
-	[[pdf]()]
+	[[pdf](https://www.sciencedirect.com/science/article/pii/S0957417423032931/pdfft?md5=e64ee6f9c440aa94b8f800c9bf692b43&pid=1-s2.0-S0957417423032931-main.pdf)]
 1.  A. Alajrami, K. Margatina and **N. Aletras** (2023). *Understanding the Role of Input Token Characters in Language Models: How Does Information Loss Affect Performance?*. **EMNLP**\
-	[[pdf]()]
+	[[pdf](https://aclanthology.org/2023.emnlp-main.563.pdf)]
 1.  C. Goanta, **N. Aletras**, I. Chalkidis, S. Ranchordás, G. Spanakis (2023). *Regulation and NLP (RegNLP): Taming Large Language Models*. **EMNLP**\
-	[[pdf]()]
+	[[pdf](https://aclanthology.org/2023.emnlp-main.539.pdf)]
 1.  H. Xue and **N. Aletras** (2023). *Pit One Against Many: Leveraging Attention-head Embeddings for Parameter-efficient Multi-head Attention*. **EMNLP Findings**\
-	[[pdf]()]
+	[[pdf](https://aclanthology.org/2023.findings-emnlp.695.pdf)]
 1.  K. Margatina, T. Schick, **N. Aletras**, J. Dwivedi-Yu (2023). *Active Learning Principles for In-Context Learning with Large Language Models*. **EMNLP Findings**\
-	[[pdf]()]
+	[[pdf](https://aclanthology.org/2023.findings-emnlp.334.pdf)]
 1.  D. Sanchez Villegas, C. Goanta and **N. Aletras** (2023). *A Multimodal Analysis of Influencer Content on Twitter*. **AACL**\
    🏆 **Area Chair Award: Society and NLP**\
 	[[pdf]()]
 1.  P. Vickers, L. Barrault, E. Monti and **N. Aletras** (2023). *We Need to Talk About Classification Evaluation Metrics in NLP*. **AACL**\
 	[[pdf]()]
 1.  Z. Zhao and **N. Aletras** (2023). *Incorporating Attribution Importance for Improving Faithfulness Metrics*. **ACL**\
-	[[pdf](https://arxiv.org/pdf/2305.10496.pdf)]
+	[[pdf](https://aclanthology.org/2023.acl-long.261.pdf)]
 1.  S. Mensah, K. Sun and **N. Aletras**  (2023). *Trading Syntax Trees for Wordpieces: Target-oriented Opinion Words Extraction with Wordpieces and Aspect Enhancement*. **ACL**\
-	[[pdf](https://arxiv.org/pdf/2305.11034v1.pdf)]
+	[[pdf](https://aclanthology.org/2023.acl-short.86.pdf)]
 1.  Y. Feng, Y. Jiao, A. Prasad, **N. Aletras**, E. Yilmaz and G. Kazai (2023). *Schema-guided User Satisfaction Modeling for Task-oriented Dialogues*. **ACL**\
-	[[pdf]()]
+	[[pdf](https://aclanthology.org/2023.acl-long.116.pdf)]
 1.  K. Margatina and **N. Aletras** (2023). *On the Limitations of Simulating Active Learning*. **ACL Findings**\
-	[[pdf]()]
+	[[pdf](https://aclanthology.org/2023.findings-acl.269.pdf)]
 1.  Z. Shi, F. Tonolini, **N. Aletras**, E. Yilmaz, G. Kazai and Y. Jiao  (2023). *Rethinking Semi-supervised Learning with Language Models*. **ACL Findings**\
-	[[pdf]()]
+	[[pdf](https://aclanthology.org/2023.findings-acl.347.pdf)]
 1. F. Tonolini, **N. Aletras**, Y. Jiao and G. Kazai  (2023). *Robust Weak Supervision with Variational Auto-Encoders*. **ICML**\
-	[[pdf]()]
+	[[pdf](https://proceedings.mlr.press/v202/tonolini23a/tonolini23a.pdf)]
 1. K. Dommett, S. Mensah, J. Zhu, T. Stafford and **N. Aletras** (2023). *Is there a permanent campaign for online political advertising? Investigating partisan and non-party campaign activity in the UK between 2018-2021*. **Journal of Political Marketing**\
 	[[pdf](https://www.tandfonline.com/doi/epdf/10.1080/15377857.2023.2175102?needAccess=true&role=button)]
 1. K. Sun, R. Zhang, S. Mensah, **N. Aletras**, Y. Mao and X. Liu (2023). *Self-training through Classifier Disagreement for Cross-Domain Opinion Target Extraction*. **WWW**\
 	[[pdf](https://arxiv.org/pdf/2302.14719.pdf)]
 1. Y. Mu, K. Bontcheva and **N. Aletras** (2023). *It's about Time: Rethinking Evaluation on Rumor Detection Benchmarks using Chronological Splits*. **EACL Findings**\
-	[[pdf](https://arxiv.org/pdf/2302.03147.pdf)]
+	[[pdf](https://aclanthology.org/2023.findings-eacl.55.pdf)]
 1. H. Xue and **N. Aletras** (2022). *HashFormers: Towards Vocabulary-independent Pre-trained Transformers*. **EMNLP**\
-	[[pdf](https://arxiv.org/pdf/2210.07904.pdf)]
+	[[pdf](https://aclanthology.org/2022.emnlp-main.536.pdf)]
 1. Z. Zhao, G. Chrysostomou, K. Bontcheva and **N. Aletras** (2022). *On the Impact of Temporal Concept Drift on Model Explanations*. **EMNLP Findings**\
-	[[pdf](https://arxiv.org/pdf/2210.09197.pdf)]
+	[[pdf](https://aclanthology.org/2022.findings-emnlp.298.pdf)]
 1. M. Li, J. Chen, S. Mensah, **N. Aletras**,  X. Yang and Y. Ye (2022). *A Hierarchical N-Gram Framework for Zero-Shot Link Prediction*. **EMNLP Findings**\
-	[[pdf](https://arxiv.org/pdf/2204.10293.pdf)]
+	[[pdf](https://aclanthology.org/2022.findings-emnlp.184.pdf)]
 1. W. Li and **N. Aletras** (2022). *Improving Graph-Based Text Representations with Character and Word Level N-grams*. **AACL**\
-	[[pdf](https://arxiv.org/pdf/2210.05999.pdf)][[bib]()]
+	[[pdf](https://aclanthology.org/2022.aacl-short.29.pdf)]
 1. T. Bose, **N. Aletras**, I. Illina and D. Fohr  (2022). *Domain Classification-based Source-specific Term Penalization for Domain Adaptation in Hate-speech Detection*. **COLING**\
 	[[pdf](https://aclanthology.org/2022.coling-1.578.pdf)]
 1. X. Ao, D. Sanchez Villegas, D. Preoţiuc-Pietro and **N. Aletras** (2022). *Combining Humor and Sarcasm for Improving Political Parody Detection*. **NAACL**\
