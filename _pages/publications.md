@@ -35,9 +35,9 @@ author_profile: true
 	[[pdf](https://aclanthology.org/2023.findings-emnlp.334.pdf)]
 1.  D. Sanchez Villegas, C. Goanta and **N. Aletras** (2023). *A Multimodal Analysis of Influencer Content on Twitter*. **AACL**\
    🏆 **Area Chair Award: Society and NLP**\
-	[[pdf]()]
+	[[pdf](https://arxiv.org/pdf/2309.03064.pdf)]
 1.  P. Vickers, L. Barrault, E. Monti and **N. Aletras** (2023). *We Need to Talk About Classification Evaluation Metrics in NLP*. **AACL**\
-	[[pdf]()]
+	[[pdf](https://arxiv.org/pdf/2401.03831.pdf)]
 1.  Z. Zhao and **N. Aletras** (2023). *Incorporating Attribution Importance for Improving Faithfulness Metrics*. **ACL**\
 	[[pdf](https://aclanthology.org/2023.acl-long.261.pdf)]
 1.  S. Mensah, K. Sun and **N. Aletras**  (2023). *Trading Syntax Trees for Wordpieces: Target-oriented Opinion Words Extraction with Wordpieces and Aspect Enhancement*. **ACL**\
