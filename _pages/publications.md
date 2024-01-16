@@ -23,7 +23,7 @@ author_profile: true
 
 <!-- <a href="#Journal">Journal</a> <a href="#Conference">Conference</a> <a href="#Workshop">Workshop</a> <a href="#Thesis">Thesis</a> -->
 
-1.  Y. Mu, P. Niu, K. Bontcheva and **N. Aletras** (2023). *Predicting and Analyzing the Popularity of False Rumors in Weibo*. **Expert Systems with Applications**\
+1.  Y. Mu, P. Niu, K. Bontcheva and **N. Aletras** (2024). *Predicting and Analyzing the Popularity of False Rumors in Weibo*. **Expert Systems with Applications**\
 	[[pdf](https://www.sciencedirect.com/science/article/pii/S0957417423032931/pdfft?md5=e64ee6f9c440aa94b8f800c9bf692b43&pid=1-s2.0-S0957417423032931-main.pdf)]
 1.  A. Alajrami, K. Margatina and **N. Aletras** (2023). *Understanding the Role of Input Token Characters in Language Models: How Does Information Loss Affect Performance?*. **EMNLP**\
 	[[pdf](https://aclanthology.org/2023.emnlp-main.563.pdf)]
