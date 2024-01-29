@@ -17,9 +17,7 @@ author_profile: true
 
 
 
-### Research Staff
- 
-* [Danae Sanchez Villegas](https://danaesavi.github.io/)
+<!-- ### Research Staff -->
 
 
 ### PhD Students
@@ -42,6 +40,7 @@ author_profile: true
 
 ### Past Members and Visitors
 
+* [Danae Sanchez Villegas](https://danaesavi.github.io/) (PhD student, 2019-23; Research Associate, 2023-24) $\rightarrow$ Research Associate, Coastal NLP, University of Copenhagen, Denmark
 * [Cass Zhao](https://www.sheffield.ac.uk/is/people/phd-researchers/cass-zhixue-zhao) (Research Associate, 2021-23) $\rightarrow$ Lecturer, University of Sheffield
 * [Samuel Mensah](https://scholar.google.com/citations?user=tqChiOoAAAAJ&hl) (Research Associate, 2021-23) $\rightarrow$ Research Scientist, JP Morgan
 * [Mali Jin](https://scholar.google.com/citations?user=Br8h1WIAAAAJ) (PhD student, 2019-23) $\rightarrow$ Research Associate, University of Sheffield
