@@ -26,9 +26,9 @@ author_profile: true
 1. M. Jin, D. Preoţiuc-Pietro, A. S. Doğruöz and **N. Aletras** (2024). *Who is bragging more online? A large scale analysis of bragging in social media*. **LREC-COLING**\
 	[[pdf]()]
 1.  Y. Mu, X. Song K. Bontcheva and **N. Aletras** (2024). *Examining the Limitations of Computational Rumor Detection Models Trained on Static Datasets*. **LREC-COLING**\
-	[[pdf](https://arxiv.org/pdf/2305.14310.pdf)]
-1.  Y. Mu, B. P. Wu, W. Thorne, A. Robinson, **N. Aletras**, C. Scarton, K. Bontcheva and X. Song (2024). *Navigating Prompt Complexity for Zero-Shot Classification: A Study of Large Language Models in Computational Social Science*. **LREC-COLING**\
 	[[pdf](https://arxiv.org/pdf/2309.11576.pdf)]
+1.  Y. Mu, B. P. Wu, W. Thorne, A. Robinson, **N. Aletras**, C. Scarton, K. Bontcheva and X. Song (2024). *Navigating Prompt Complexity for Zero-Shot Classification: A Study of Large Language Models in Computational Social Science*. **LREC-COLING**\
+	[[pdf](https://arxiv.org/pdf/2305.14310.pdf)]
 1.  R. Soun, A. Neerkaje, R. Sawhney, **N. Aletras** and P. Nakov (2024). *RISE: Robust Early-exiting Internal Classifiers for Suicide Risk Evaluation*. **LREC-COLING**\
 	[[pdf]()]
 1.  D. Sanchez Villegas, D. Preoţiuc-Pietro and **N. Aletras** (2024). *Improving Multimodal Classification of Social Media Posts by Leveraging Image-Text Auxiliary tasks*. **EACL Findings**\
