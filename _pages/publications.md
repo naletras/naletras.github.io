@@ -23,6 +23,8 @@ author_profile: true
 
 <!-- <a href="#Journal">Journal</a> <a href="#Conference">Conference</a> <a href="#Workshop">Workshop</a> <a href="#Thesis">Thesis</a> -->
 
+1.  Z. Zhao and **N. Aletras** (2023). *Comparing Explanation Faithfulness between Multilingual and Monolingual Fine-tuned Language Models*. **NAACL**\
+	[[pdf]()]
 1. M. Jin, D. Preoţiuc-Pietro, A. S. Doğruöz and **N. Aletras** (2024). *Who is bragging more online? A large scale analysis of bragging in social media*. **LREC-COLING**\
 	[[pdf]()]
 1.  Y. Mu, X. Song K. Bontcheva and **N. Aletras** (2024). *Examining the Limitations of Computational Rumor Detection Models Trained on Static Datasets*. **LREC-COLING**\
