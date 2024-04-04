@@ -23,6 +23,8 @@ author_profile: true
 ### PhD Students
 
 * [Ahmed Alajrami](https://aajrami.github.io/)
+* Mingzi Cao
+* Thomas Clark (co-supervised w/ Nafise Moosavi)
 * [Constantinos Karouzos](https://ckarouzos.github.io/)
 * [Wenzhe Li](https://scholar.google.com/citations?user=ixVc4s8AAAAJ) 
 * [Katerina Margatina](https://katerinamargatina.github.io/) 
