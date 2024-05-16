@@ -23,6 +23,10 @@ author_profile: true
 
 <!-- <a href="#Journal">Journal</a> <a href="#Conference">Conference</a> <a href="#Workshop">Workshop</a> <a href="#Thesis">Thesis</a> -->
 
+1. M. Williams and **N. Aletras** (2024). *On the Impact of Calibration Data in Post-training Quantization and Pruning*. **ACL**\
+	[[pdf](https://arxiv.org/pdf/2311.09755)]
+1. F. Tonolini, **N. Aletras**, J. Massiah and G. Kazai  (2024). *Bayesian Prompt Ensembles: Model Uncertainty Estimation for Black-Box Large Language Models*. **ACL Findings**\
+	[[pdf]()]
 1.  Z. Zhao and **N. Aletras** (2024). *Comparing Explanation Faithfulness between Multilingual and Monolingual Fine-tuned Language Models*. **NAACL**\
 	[[pdf](https://arxiv.org/pdf/2403.12809.pdf)]
 1. M. Jin, D. Preoţiuc-Pietro, A. S. Doğruöz and **N. Aletras** (2024). *Who is bragging more online? A large scale analysis of bragging in social media*. **LREC-COLING**\
