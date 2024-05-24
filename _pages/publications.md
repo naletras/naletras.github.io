@@ -23,6 +23,8 @@ author_profile: true
 
 <!-- <a href="#Journal">Journal</a> <a href="#Conference">Conference</a> <a href="#Workshop">Workshop</a> <a href="#Thesis">Thesis</a> -->
 
+1. G. Chrysostomou, Z. Zhao, M. Williams and **N. Aletras** (2024). *Investigating Hallucinations in Pruned Large Language Models for Abstractive Summarization*. **TACL**\
+	[[pdf](https://arxiv.org/pdf/2311.09335)]
 1. M. Williams and **N. Aletras** (2024). *On the Impact of Calibration Data in Post-training Quantization and Pruning*. **ACL**\
 	[[pdf](https://arxiv.org/pdf/2311.09755)]
 1. F. Tonolini, **N. Aletras**, J. Massiah and G. Kazai  (2024). *Bayesian Prompt Ensembles: Model Uncertainty Estimation for Black-Box Large Language Models*. **ACL Findings**\
