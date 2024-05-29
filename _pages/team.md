@@ -11,8 +11,8 @@ author_profile: true
 
  
 <figure>
-  <img style="border:1px solid gray;" src="../files/IMG_2488.jpg" alt="Team" width="500"/>
-  <figcaption>Mar 2023</figcaption>
+  <img style="border:1px solid gray;" src="../files/IMG_6083.jpg" alt="Team" width="500"/>
+  <figcaption>May 2024</figcaption>
 </figure>
 
 
@@ -62,6 +62,7 @@ author_profile: true
 
 ### Past Group Photos
 
+[Mar 2023](../files/IMG_2488.jpg)
 [Feb 2022](../files/group_20220202.jpg)
 
 
