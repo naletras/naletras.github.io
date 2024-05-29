@@ -9,6 +9,8 @@ author_profile: true
 
 {% include base_path %}
 
+* Multimodal Analysis of Influencer Content, Competition and Markets Authority, UK (May 2024)
+* Language modelling for the sake of language modelling, Invited talk at University of Glasgow (May 2024)
 * Language modelling for the sake of language modelling, Invited talk at University of Cambridge (May 2024)
 * Language modelling for the sake of language modelling, Inaugural Lecture, University of Sheffield (Apr 2024)
 * Towards compute efficient language models, Invited talk at MBZUAI (May 2023)
