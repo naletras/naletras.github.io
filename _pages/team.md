@@ -42,7 +42,7 @@ author_profile: true
 
 ### Past Members and Visitors
 
-* [Peter Vickers](https://scholar.google.com/citations?user=bhXFbr0AAAAJ&hl=en) (PhD student, 2019-24, co-supervised with Loic Barrault) $\rightarrow$ Research associatel, Northeastern University, US
+* [Peter Vickers](https://scholar.google.com/citations?user=bhXFbr0AAAAJ&hl=en) (PhD student, 2019-24, co-supervised with Loic Barrault) $\rightarrow$ Research associate, Northeastern University, US
 * [Danae Sanchez Villegas](https://danaesavi.github.io/) (PhD student, 2019-23; Research Associate, 2023-24) $\rightarrow$ Research Associate, Coastal NLP, University of Copenhagen, Denmark
 * [Cass Zhao](https://www.sheffield.ac.uk/is/people/phd-researchers/cass-zhixue-zhao) (Research Associate, 2021-23) $\rightarrow$ Lecturer, University of Sheffield
 * [Samuel Mensah](https://scholar.google.com/citations?user=tqChiOoAAAAJ&hl) (Research Associate, 2021-23) $\rightarrow$ Research Scientist, JP Morgan
