@@ -28,7 +28,7 @@ author_profile: true
 * Anthony Hughes (co-supervised w/ Ning Ma)
 * [Constantinos Karouzos](https://ckarouzos.github.io/)
 * [Wenzhe Li](https://scholar.google.com/citations?user=ixVc4s8AAAAJ) 
-* Miles Williams
+* [Miles Williams](https://github.com/mlsw)
 * [Huiyin Xue](https://twitter.com/HuiyinXue)
 * [Atsuki Yamaguchi](https://gucci-j.github.io/about/)
 
