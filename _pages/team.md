@@ -17,8 +17,9 @@ author_profile: true
 
 
 
-<!-- ### Research Staff -->
+### Research Staff
 
+* [Xiangwei Tan](https://scholar.google.com/citations?user=GAUKDsYAAAAJ&hl=en)
 
 ### PhD Students
 
