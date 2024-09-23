@@ -23,24 +23,28 @@ author_profile: true
 
 <!-- <a href="#Journal">Journal</a> <a href="#Conference">Conference</a> <a href="#Workshop">Workshop</a> <a href="#Thesis">Thesis</a> -->
 
+1. Y. Mu, M. Jin, X. Song and **N. Aletras** (2024). *Enhancing Data Quality through Simple De-duplication: Navigating Responsible Computational Social Science Research*. **EMNLP**\
+	[[pdf]()]
+1. A. Yamaguchi, A. Villavicencio and **N. Aletras** (2024). *An Empirical Study on Cross-lingual Vocabulary Adaptation for Efficient Language Model Inference*. **EMNLP Findings**\
+	[[pdf](https://arxiv.org/pdf/2402.10712)]
 1. G. Chrysostomou, Z. Zhao, M. Williams and **N. Aletras** (2024). *Investigating Hallucinations in Pruned Large Language Models for Abstractive Summarization*. **TACL**\
 	[[pdf](https://arxiv.org/pdf/2311.09335)]
 1. M. Williams and **N. Aletras** (2024). *On the Impact of Calibration Data in Post-training Quantization and Pruning*. **ACL**\
-	[[pdf](https://arxiv.org/pdf/2311.09755)]
+	[[pdf](https://aclanthology.org/2024.acl-long.544.pdf)]
 1. F. Tonolini, **N. Aletras**, J. Massiah and G. Kazai  (2024). *Bayesian Prompt Ensembles: Model Uncertainty Estimation for Black-Box Large Language Models*. **ACL Findings**\
-	[[pdf]()]
+	[[pdf](https://aclanthology.org/2024.findings-acl.728.pdf)]
 1.  Z. Zhao and **N. Aletras** (2024). *Comparing Explanation Faithfulness between Multilingual and Monolingual Fine-tuned Language Models*. **NAACL**\
-	[[pdf](https://arxiv.org/pdf/2403.12809.pdf)]
+	[[pdf](https://aclanthology.org/2024.naacl-long.178.pdf)]
 1. M. Jin, D. Preoţiuc-Pietro, A. S. Doğruöz and **N. Aletras** (2024). *Who is bragging more online? A large scale analysis of bragging in social media*. **LREC-COLING**\
-	[[pdf](https://arxiv.org/pdf/2403.16668.pdf)]
+	[[pdf](https://aclanthology.org/2024.lrec-main.1529.pdf)]
 1.  Y. Mu, X. Song K. Bontcheva and **N. Aletras** (2024). *Examining the Limitations of Computational Rumor Detection Models Trained on Static Datasets*. **LREC-COLING**\
-	[[pdf](https://arxiv.org/pdf/2309.11576.pdf)]
+	[[pdf](https://aclanthology.org/2024.lrec-main.595.pdf)]
 1.  Y. Mu, B. P. Wu, W. Thorne, A. Robinson, **N. Aletras**, C. Scarton, K. Bontcheva and X. Song (2024). *Navigating Prompt Complexity for Zero-Shot Classification: A Study of Large Language Models in Computational Social Science*. **LREC-COLING**\
-	[[pdf](https://arxiv.org/pdf/2305.14310.pdf)]
+	[[pdf](https://aclanthology.org/2024.lrec-main.1055.pdf)]
 1.  R. Soun, A. Neerkaje, R. Sawhney, **N. Aletras** and P. Nakov (2024). *RISE: Robust Early-exiting Internal Classifiers for Suicide Risk Evaluation*. **LREC-COLING**\
-	[[pdf]()]
+	[[pdf](https://aclanthology.org/2024.lrec-main.1232.pdf)]
 1.  D. Sanchez Villegas, D. Preoţiuc-Pietro and **N. Aletras** (2024). *Improving Multimodal Classification of Social Media Posts by Leveraging Image-Text Auxiliary tasks*. **EACL Findings**\
-	[[pdf](https://arxiv.org/pdf/2309.07794.pdf)]
+	[[pdf](https://aclanthology.org/2024.findings-eacl.76.pdf)]
 1.  Y. Mu, P. Niu, K. Bontcheva and **N. Aletras** (2024). *Predicting and Analyzing the Popularity of False Rumors in Weibo*. **Expert Systems with Applications**\
 	[[pdf](https://www.sciencedirect.com/science/article/pii/S0957417423032931/pdfft?md5=e64ee6f9c440aa94b8f800c9bf692b43&pid=1-s2.0-S0957417423032931-main.pdf)]
 1.  A. Alajrami, K. Margatina and **N. Aletras** (2023). *Understanding the Role of Input Token Characters in Language Models: How Does Information Loss Affect Performance?*. **EMNLP**\
