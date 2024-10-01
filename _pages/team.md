@@ -28,7 +28,9 @@ author_profile: true
 * Thomas Clark (co-supervised w/ Nafise Moosavi)
 * Anthony Hughes (co-supervised w/ Ning Ma)
 * [Constantinos Karouzos](https://ckarouzos.github.io/)
-* [Wenzhe Li](https://scholar.google.com/citations?user=ixVc4s8AAAAJ) 
+* Sam Lewis-Lim
+* [Wenzhe Li](https://scholar.google.com/citations?user=ixVc4s8AAAAJ)
+* Vynska Permandi
 * [Miles Williams](https://github.com/mlsw)
 * [Huiyin Xue](https://twitter.com/HuiyinXue)
 * [Atsuki Yamaguchi](https://gucci-j.github.io/about/)
