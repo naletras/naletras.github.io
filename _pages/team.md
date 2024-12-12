@@ -30,6 +30,7 @@ author_profile: true
 * [Constantinos Karouzos](https://ckarouzos.github.io/)
 * Sam Lewis-Lim
 * [Wenzhe Li](https://scholar.google.com/citations?user=ixVc4s8AAAAJ)
+* Yanwen Peng
 * Vynska Permandi
 * [Miles Williams](https://github.com/mlsw)
 * [Huiyin Xue](https://twitter.com/HuiyinXue)
