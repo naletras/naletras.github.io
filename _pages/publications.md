@@ -23,7 +23,7 @@ author_profile: true
 
 <!-- <a href="#Journal">Journal</a> <a href="#Conference">Conference</a> <a href="#Workshop">Workshop</a> <a href="#Thesis">Thesis</a> -->
 
-1. M. Williams, G. Chrysostomou and **N. Aletras** (2024). *On the Impact of Calibration Data in Post-training Quantization and Pruning*. **NAACL**\
+1. M. Williams, G. Chrysostomou and **N. Aletras** (2025). *On the Impact of Calibration Data in Post-training Quantization and Pruning*. **NAACL**\
 	[[pdf](https://arxiv.org/pdf/2410.17170)]
 1. Y. Mu, M. Jin, X. Song and **N. Aletras** (2024). *Enhancing Data Quality through Simple De-duplication: Navigating Responsible Computational Social Science Research*. **EMNLP**\
 	[[pdf](https://aclanthology.org/2024.emnlp-main.694.pdf)]
