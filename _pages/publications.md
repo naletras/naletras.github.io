@@ -23,12 +23,14 @@ author_profile: true
 
 <!-- <a href="#Journal">Journal</a> <a href="#Conference">Conference</a> <a href="#Workshop">Workshop</a> <a href="#Thesis">Thesis</a> -->
 
+1. M. Williams, G. Chrysostomou and **N. Aletras** (2024). *On the Impact of Calibration Data in Post-training Quantization and Pruning*. **NAACL**\
+	[[pdf](https://arxiv.org/pdf/2410.17170)]
 1. Y. Mu, M. Jin, X. Song and **N. Aletras** (2024). *Enhancing Data Quality through Simple De-duplication: Navigating Responsible Computational Social Science Research*. **EMNLP**\
-	[[pdf]()]
+	[[pdf](https://aclanthology.org/2024.emnlp-main.694.pdf)]
 1. A. Yamaguchi, A. Villavicencio and **N. Aletras** (2024). *An Empirical Study on Cross-lingual Vocabulary Adaptation for Efficient Language Model Inference*. **EMNLP Findings**\
-	[[pdf](https://arxiv.org/pdf/2402.10712)]
+	[[pdf](https://aclanthology.org/2024.findings-emnlp.396.pdf)]
 1. G. Chrysostomou, Z. Zhao, M. Williams and **N. Aletras** (2024). *Investigating Hallucinations in Pruned Large Language Models for Abstractive Summarization*. **TACL**\
-	[[pdf](https://arxiv.org/pdf/2311.09335)]
+	[[pdf](https://aclanthology.org/2024.tacl-1.64.pdf)]
 1. M. Williams and **N. Aletras** (2024). *On the Impact of Calibration Data in Post-training Quantization and Pruning*. **ACL**\
 	[[pdf](https://aclanthology.org/2024.acl-long.544.pdf)]
 1. F. Tonolini, **N. Aletras**, J. Massiah and G. Kazai  (2024). *Bayesian Prompt Ensembles: Model Uncertainty Estimation for Black-Box Large Language Models*. **ACL Findings**\
