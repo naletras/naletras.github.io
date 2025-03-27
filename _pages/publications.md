@@ -25,7 +25,7 @@ author_profile: true
 
 1. M. Williams, G. Chrysostomou and **N. Aletras** (2025). *Self-calibration for Language Model Quantization and Pruning*. **NAACL**\
 	[[pdf](https://arxiv.org/pdf/2410.17170)]
-1. M. Williams, G. Chrysostomou and **N. Aletras** (2025). *Vocabulary-level Memory Efficiency for Language Model Fine-tuning*. **Representation Learning for NLP Workshop (NAACL)**\
+1. M. Williams and **N. Aletras** (2025). *Vocabulary-level Memory Efficiency for Language Model Fine-tuning*. **Representation Learning for NLP Workshop (NAACL)**\
 	[[pdf](https://arxiv.org/pdf/2309.08708)]
 1. Y. Mu, M. Jin, X. Song and **N. Aletras** (2024). *Enhancing Data Quality through Simple De-duplication: Navigating Responsible Computational Social Science Research*. **EMNLP**\
 	[[pdf](https://aclanthology.org/2024.emnlp-main.694.pdf)]
