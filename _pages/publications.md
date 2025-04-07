@@ -23,6 +23,8 @@ author_profile: true
 
 <!-- <a href="#Journal">Journal</a> <a href="#Conference">Conference</a> <a href="#Workshop">Workshop</a> <a href="#Thesis">Thesis</a> -->
 
+1. C. Meng, F. Tonolini, F. Mo, **N. Aletras**, E. Yilmaz and G. Kazai (2025). *Bridging the Gap: From Ad-hoc to Proactive Search in Conversations*. **SIGIR**\
+	[[pdf]()]
 1. M. Williams, G. Chrysostomou and **N. Aletras** (2025). *Self-calibration for Language Model Quantization and Pruning*. **NAACL**\
 	[[pdf](https://arxiv.org/pdf/2410.17170)]
 1. M. Williams and **N. Aletras** (2025). *Vocabulary-level Memory Efficiency for Language Model Fine-tuning*. **Representation Learning for NLP Workshop (NAACL)**\
