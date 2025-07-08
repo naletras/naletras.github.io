@@ -25,7 +25,6 @@ author_profile: true
 
 * [Ahmed Alajrami](https://aajrami.github.io/)
 * Mingzi Cao
-* Thomas Clark (co-supervised w/ Nafise Moosavi)
 * Anthony Hughes (co-supervised w/ Ning Ma)
 * [Constantinos Karouzos](https://ckarouzos.github.io/)
 * Sam Lewis-Lim
