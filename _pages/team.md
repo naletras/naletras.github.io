@@ -47,10 +47,10 @@ author_profile: true
 * [Katerina Margatina](https://katerinamargatina.github.io/) (PhD student, 2019-24) $\rightarrow$ Applied Scientist, Amazon, USA
 * [Peter Vickers](https://petervickers.github.io/cv/) (PhD student, 2019-24, co-supervised with Loic Barrault) $\rightarrow$ Research Associate, Northeastern University, USA
 * [Danae Sanchez Villegas](https://danaesavi.github.io/) (PhD student, 2019-23; Research Associate, 2023-24) $\rightarrow$ Research Associate, Coastal NLP, University of Copenhagen, Denmark
-* [Cass Zhao](https://www.sheffield.ac.uk/is/people/phd-researchers/cass-zhixue-zhao) (Research Associate, 2021-23) $\rightarrow$ Lecturer, University of Sheffield
+* [Cass Zhao](https://casszhao.github.io/cass/) (Research Associate, 2021-23) $\rightarrow$ Lecturer, University of Sheffield
 * [Samuel Mensah](https://scholar.google.com/citations?user=tqChiOoAAAAJ&hl) (Research Associate, 2021-23) $\rightarrow$ Research Scientist, JP Morgan, UK
 * [Mali Jin](https://scholar.google.com/citations?user=Br8h1WIAAAAJ) (PhD student, 2019-23) $\rightarrow$ Research Associate, University of Sheffield
-* [Yida Mu](https://www.sheffield.ac.uk/dcs/people/research-staff/yida-mu-0) (PhD student, 2019-23) $\rightarrow$ Research Associate, University of Sheffield
+* [Yida Mu](https://scholar.google.com/citations?user=WuS2yawAAAAJ&hl=en) (PhD student, 2019-23) $\rightarrow$ Research Associate, University of Sheffield
 * Shakshi Sarma (Visiting PhD student from University of Tartu, Estonia, 2023)
 * [George Chrysostomou](https://scholar.google.com/citations?user=t3eShIkAAAAJ&hl) (PhD student, 2019-22) $\rightarrow$ Research Scientist, AstraZeneca, UK
 * Xiao Ao (MSc student - intern, 2021)
