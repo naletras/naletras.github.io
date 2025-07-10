@@ -46,7 +46,7 @@ author_profile: true
 
 * [Katerina Margatina](https://katerinamargatina.github.io/) (PhD student, 2019-24) $\rightarrow$ Applied Scientist, Amazon, USA
 * [Peter Vickers](https://petervickers.github.io/cv/) (PhD student, 2019-24, co-supervised with Loic Barrault) $\rightarrow$ Research Associate, Northeastern University, USA
-* [Danae Sanchez Villegas](https://danaesavi.github.io/) (PhD student, 2019-23; Research Associate, 2023-24) $\rightarrow$ Research Associate, Coastal NLP, University of Copenhagen, Denmark
+* [Danae Sanchez Villegas](https://danaesavi.github.io/) (PhD student, 2019-23; Research Associate, 2023-24) $\rightarrow$ Research Associate, University of Copenhagen, Denmark
 * [Cass Zhao](https://casszhao.github.io/cass/) (Research Associate, 2021-23) $\rightarrow$ Lecturer, University of Sheffield
 * [Samuel Mensah](https://scholar.google.com/citations?user=tqChiOoAAAAJ&hl) (Research Associate, 2021-23) $\rightarrow$ Research Scientist, JP Morgan, UK
 * [Mali Jin](https://scholar.google.com/citations?user=Br8h1WIAAAAJ) (PhD student, 2019-23) $\rightarrow$ Research Associate, University of Sheffield
@@ -54,14 +54,14 @@ author_profile: true
 * Shakshi Sarma (Visiting PhD student from University of Tartu, Estonia, 2023)
 * [George Chrysostomou](https://scholar.google.com/citations?user=t3eShIkAAAAJ&hl) (PhD student, 2019-22) $\rightarrow$ Research Scientist, AstraZeneca, UK
 * Xiao Ao (MSc student - intern, 2021)
-* Marina Fomicheva (Research Associate, 2019-21) $\rightarrow$ Director of Research, context.ai, UK
+* Marina Fomicheva (Research Associate, 2019-21) $\rightarrow$ Director of Research, context.ai, UK $\rightarrow$ Lead Research Engineer, Epic Games
 * Hardy (PhD student, co-supervised with [Andreas Vlachos](https://andreasvlachos.github.io/), 2019-21)
 * Tulika Bose (Visiting PhD student from LORIA-INRIA, 2021) <!-- * [Atsuki Yamaguchi](https://gucci-j.github.io/about/) (Intern, 2020-21) -> Research Engineer, Hitachi, Japan -->
 * Areej Alokaili (PhD student, co-supervised with [Mark Stevenson](https://staffwww.dcs.shef.ac.uk/people/M.Stevenson/bio.html), 2018-21) $\rightarrow$ Assistant Professor, King Saud University, Saudi Arabia
-* [Ilias Chalkidis](https://iliaschalkidis.github.io/) (PhD student, co-supervised with [Ion Androutsopoulos](http://www2.aueb.gr/users/ion//), 2018-21) $\rightarrow$ Research Associate, Coastal NLP, University of Copenhagen, Denmark
-* [Fred Blain](https://fredblain.org/) (Research Associate, 2019-20) $\rightarrow$ Lecturer, University of Wolverhampton, UK
+* [Ilias Chalkidis](https://iliaschalkidis.github.io/) (PhD student, co-supervised with [Ion Androutsopoulos](http://www2.aueb.gr/users/ion//), 2018-21) $\rightarrow$ Research Associate, University of Copenhagen, Denmark $\rightarrow$ Assistant Professor,  University of Copenhagen, Denmark
+* [Fred Blain](https://fredblain.org/) (Research Associate, 2019-20) $\rightarrow$ Lecturer, University of Wolverhampton, UK $\rightarrow$ Assistant Professor, University of Tilburg, Netherlands
 * [Twin Karmakharm](https://www.twin.uk.com/) (Research Engineer, 2019)
-* [Antonis Maronikolakis](https://antmarakis.github.io/)  (Intern, 2019) $\rightarrow$ PhD student, Schütze Lab, LMU Munich, Germany
+* [Antonis Maronikolakis](https://antmarakis.github.io/)  (Intern, 2019) $\rightarrow$ PhD student, Schütze Lab, LMU Munich, Germany $\rightarrow$ Applied Scientist, Zalando
 
 ### Past Group Photos
 
