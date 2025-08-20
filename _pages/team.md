@@ -52,7 +52,7 @@ author_profile: true
 * [Mali Jin](https://scholar.google.com/citations?user=Br8h1WIAAAAJ) (PhD student, 2019-23) $\rightarrow$ Research Associate, University of Sheffield
 * [Yida Mu](https://scholar.google.com/citations?user=WuS2yawAAAAJ&hl=en) (PhD student, 2019-23) $\rightarrow$ Research Associate, University of Sheffield
 * Shakshi Sarma (Visiting PhD student from University of Tartu, Estonia, 2023)
-* [George Chrysostomou](https://scholar.google.com/citations?user=t3eShIkAAAAJ&hl) (PhD student, 2019-22) $\rightarrow$ Research Scientist, AstraZeneca, UK
+* [George Chrysostomou](https://scholar.google.com/citations?user=t3eShIkAAAAJ&hl) (PhD student, 2019-22) $\rightarrow$ Research Scientist, AstraZeneca, UK $\rightarrow$ Bloomberg, UK
 * Xiao Ao (MSc student - intern, 2021)
 * Marina Fomicheva (Research Associate, 2019-21) $\rightarrow$ Director of Research, context.ai, UK $\rightarrow$ Lead Research Engineer, Epic Games
 * Hardy (PhD student, co-supervised with [Andreas Vlachos](https://andreasvlachos.github.io/), 2019-21)
