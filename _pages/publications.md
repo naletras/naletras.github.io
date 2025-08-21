@@ -23,12 +23,20 @@ author_profile: true
 
 <!-- <a href="#Journal">Journal</a> <a href="#Conference">Conference</a> <a href="#Workshop">Workshop</a> <a href="#Thesis">Thesis</a> -->
 
-1. C. Meng, F. Tonolini, F. Mo, **N. Aletras**, E. Yilmaz and G. Kazai (2025). *Bridging the Gap: From Ad-hoc to Proactive Search in Conversations*. **SIGIR**\
+1. S. Lewis-Lim, X. Tan, Z. Zhao and **N. Aletras** (2025). *Analysing Chain of Thought Dynamics: Active Guidance or Unfaithful Post-hoc Rationalisation?*. **EMNLP**\
 	[[pdf]()]
+1. X. Tan, M. Valentino, M. Akhter, M. Liakata and **N. Aletras** (2025). *Enhancing Logical Reasoning in Language Models via Symbolically-Guided Monte Carlo Process Supervision*. **EMNLP**\
+	[[pdf](https://arxiv.org/pdf/2505.20415)]
+1. A. Hughes, N. Ma and **N. Aletras** (2025). *How Private are Language Models in Abstractive Summarization?*. **EMNLP**\
+	[[pdf](https://arxiv.org/pdf/2412.12040)]
+1. O. Chlapanis, D. Galanis, **N. Aletras** and I Androutsopoulos (2025). *GreekBarBench: A Challenging Benchmark for Free-Text Legal Reasoning and Citations*. **EMNLP Findings**\
+	[[pdf](https://arxiv.org/pdf/2505.17267)]
+1. C. Meng, F. Tonolini, F. Mo, **N. Aletras**, E. Yilmaz and G. Kazai (2025). *Bridging the Gap: From Ad-hoc to Proactive Search in Conversations*. **SIGIR**\
+	[[pdf](https://dl.acm.org/doi/pdf/10.1145/3726302.3729915)]
 1. M. Williams, G. Chrysostomou and **N. Aletras** (2025). *Self-calibration for Language Model Quantization and Pruning*. **NAACL**\
-	[[pdf](https://arxiv.org/pdf/2410.17170)]
+	[[pdf](https://aclanthology.org/2025.naacl-long.509.pdf)]
 1. M. Williams and **N. Aletras** (2025). *Vocabulary-level Memory Efficiency for Language Model Fine-tuning*. **Representation Learning for NLP Workshop (NAACL)**\
-	[[pdf](https://arxiv.org/pdf/2309.08708)]
+	[[pdf](https://aclanthology.org/2025.repl4nlp-1.14.pdf)]
 1. Y. Mu, M. Jin, X. Song and **N. Aletras** (2024). *Enhancing Data Quality through Simple De-duplication: Navigating Responsible Computational Social Science Research*. **EMNLP**\
 	[[pdf](https://aclanthology.org/2024.emnlp-main.694.pdf)]
 1. A. Yamaguchi, A. Villavicencio and **N. Aletras** (2024). *An Empirical Study on Cross-lingual Vocabulary Adaptation for Efficient Language Model Inference*. **EMNLP Findings**\
