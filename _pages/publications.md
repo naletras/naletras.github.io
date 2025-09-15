@@ -23,6 +23,8 @@ author_profile: true
 
 <!-- <a href="#Journal">Journal</a> <a href="#Conference">Conference</a> <a href="#Workshop">Workshop</a> <a href="#Thesis">Thesis</a> -->
 
+1. A. Yamaguchi, T. Morishita, A. Villavicencio and **N. Aletras** (2024). *Adapting Chat Language Models Using Only Target Unlabeled Language Data*. **TMLR**\
+	[[pdf](https://arxiv.org/pdf/2412.11704)]
 1. S. Lewis-Lim, X. Tan, Z. Zhao and **N. Aletras** (2025). *Analysing Chain of Thought Dynamics: Active Guidance or Unfaithful Post-hoc Rationalisation?*. **EMNLP**\
 	[[pdf]()]
 1. X. Tan, M. Valentino, M. Akhter, M. Liakata and **N. Aletras** (2025). *Enhancing Logical Reasoning in Language Models via Symbolically-Guided Monte Carlo Process Supervision*. **EMNLP**\
