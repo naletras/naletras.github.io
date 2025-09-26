@@ -9,6 +9,9 @@ author_profile: true
 
 {% include base_path %}
 
+* How Private are Language Models in Abstractive Summarization?, Invited talk at AI and the Law Conference organised by the Royal Society, London, UK (Sep 2025)
+* Language modelling for the sake of language modelling, Invited talk at the 3rd European Summer School on Artificial Intelligence, Bratislava, Slovakia (Jul 2025)
+* How Private are Language Models in Abstractive Summarization?, Invited talk at Doctrine as a Decision Aid: A Symposium at the Interface of Law, Research on Decision-making and Computer Science, Naples, Italy (Jun 2025)
 * Multimodal Analysis of Influencer Content, Competition and Markets Authority, UK (May 2024)
 * Language modelling for the sake of language modelling, Invited talk at University of Glasgow (May 2024)
 * Language modelling for the sake of language modelling, Invited talk at University of Cambridge (May 2024)
