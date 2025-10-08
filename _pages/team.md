@@ -44,6 +44,7 @@ author_profile: true
 
 ### Past Members and Visitors
 
+* Pietro Tropeano (Visiting PhD student from Copenhagen, 2025)
 * [Katerina Margatina](https://katerinamargatina.github.io/) (PhD student, 2019-24) $\rightarrow$ Applied Scientist, Amazon, USA
 * [Peter Vickers](https://petervickers.github.io/cv/) (PhD student, 2019-24, co-supervised with Loic Barrault) $\rightarrow$ Research Associate, Northeastern University, USA -> Research Scientist, Spotify
 * [Danae Sanchez Villegas](https://danaesavi.github.io/) (PhD student, 2019-23; Research Associate, 2023-24) $\rightarrow$ Research Associate, University of Copenhagen, Denmark
