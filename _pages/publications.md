@@ -23,6 +23,10 @@ author_profile: true
 
 <!-- <a href="#Journal">Journal</a> <a href="#Conference">Conference</a> <a href="#Workshop">Workshop</a> <a href="#Thesis">Thesis</a> -->
 
+1. H. Xue, N. S. Moosavi and **N. Aletras** (2025). *Deconstructing Attention: Investigating Design Principles for Effective Language Modeling*. **AACL**\
+	[[pdf](https://arxiv.org/pdf/2510.11602)]
+1. A. Alajrami, X. Tan and **N. Aletras** (2025). *Fine-Tuning on Noisy Instructions: Effects on Generalization and Performance*. **AACL**\
+	[[pdf](https://arxiv.org/pdf/2510.03528)]
 1. A. Yamaguchi, A. Villavicencio and **N. Aletras** (2025). *How Can We Effectively Expand the Vocabulary of LLMs with 0.01GB of Target Language Text?*. **CL**\
 	[[pdf](https://arxiv.org/pdf/2406.11477)]
 1. A. Yamaguchi, T. Morishita, A. Villavicencio and **N. Aletras** (2025). *Adapting Chat Language Models Using Only Target Unlabeled Language Data*. **TMLR**\
