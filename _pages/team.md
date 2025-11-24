@@ -23,7 +23,6 @@ author_profile: true
 
 ### PhD Students
 
-* [Ahmed Alajrami](https://aajrami.github.io/)
 * Mingzi Cao
 * Anthony Hughes (co-supervised w/ Ning Ma)
 * [Constantinos Karouzos](https://ckarouzos.github.io/)
@@ -44,6 +43,7 @@ author_profile: true
 
 ### Past Members and Visitors
 
+* [Ahmed Alajrami](https://aajrami.github.io/) (PhD student, 2021-25) $\rightarrow$ Research Scientist, Samsung Research, UK
 * Pietro Tropeano (Visiting PhD student from Copenhagen, 2025)
 * [Katerina Margatina](https://katerinamargatina.github.io/) (PhD student, 2019-24) $\rightarrow$ Applied Scientist, Amazon, USA
 * [Peter Vickers](https://petervickers.github.io/cv/) (PhD student, 2019-24, co-supervised with Loic Barrault) $\rightarrow$ Research Associate, Northeastern University, USA -> Research Scientist, Spotify
