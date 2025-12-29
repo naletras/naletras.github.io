@@ -47,7 +47,7 @@ author_profile: true
 * [Ahmed Alajrami](https://aajrami.github.io/) (PhD student, 2021-25) $\rightarrow$ Research Scientist, Samsung Research, UK
 * Pietro Tropeano (Visiting PhD student from Copenhagen, 2025)
 * [Katerina Margatina](https://katerinamargatina.github.io/) (PhD student, 2019-24) $\rightarrow$ Applied Scientist, Amazon, USA
-* [Peter Vickers](https://petervickers.github.io/cv/) (PhD student, 2019-24, co-supervised with Loic Barrault) $\rightarrow$ Research Associate, Northeastern University, USA -> Research Scientist, Spotify
+* [Peter Vickers](https://petervickers.github.io/cv/) (PhD student, 2019-24, co-supervised with Loic Barrault) $\rightarrow$ Research Associate, Northeastern University, USA $\rightarrow$ Research Scientist, Spotify
 * [Danae Sanchez Villegas](https://danaesavi.github.io/) (PhD student, 2019-23; Research Associate, 2023-24) $\rightarrow$ Research Associate, University of Copenhagen, Denmark
 * [Cass Zhao](https://casszhao.github.io/cass/) (Research Associate, 2021-23) $\rightarrow$ Lecturer, University of Sheffield
 * [Samuel Mensah](https://scholar.google.com/citations?user=tqChiOoAAAAJ&hl) (Research Associate, 2021-23) $\rightarrow$ Research Scientist, JP Morgan, UK
