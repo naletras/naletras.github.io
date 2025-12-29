@@ -32,7 +32,6 @@ author_profile: true
 * Vynska Permandi
 * Yanyi Pu
 * [Miles Williams](https://github.com/mlsw)
-* [Huiyin Xue](https://twitter.com/HuiyinXue)
 * [Atsuki Yamaguchi](https://gucci-j.github.io/about/)
 
 
@@ -44,6 +43,7 @@ author_profile: true
 
 ### Past Members and Visitors
 
+* [Huiyin Xue](https://huiyinxue.github.io/) (PhD student, 2021-25) $\rightarrow$ Research Associate, UKP Lab, Technical University of Darmstadt, Germany
 * [Ahmed Alajrami](https://aajrami.github.io/) (PhD student, 2021-25) $\rightarrow$ Research Scientist, Samsung Research, UK
 * Pietro Tropeano (Visiting PhD student from Copenhagen, 2025)
 * [Katerina Margatina](https://katerinamargatina.github.io/) (PhD student, 2019-24) $\rightarrow$ Applied Scientist, Amazon, USA
