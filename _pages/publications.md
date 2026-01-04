@@ -23,6 +23,10 @@ author_profile: true
 
 <!-- <a href="#Journal">Journal</a> <a href="#Conference">Conference</a> <a href="#Workshop">Workshop</a> <a href="#Thesis">Thesis</a> -->
 
+1. M. Williams, G. Chrysostomou, V. Jeronymo and **N. Aletras** (2026). *JointCal: Efficient and Effective Domain-adapted Compression*. **EACL**\
+	[[pdf]()]
+1. A. Hughes, V. Duddu, N. Asokan, **N. Aletras** and N. Ma (2026). *PATCH: Mitigating PII Leakage in Language Models with Privacy-Aware Targeted Circuit PatcHing*. **EACL Findings**\
+	[[pdf](https://arxiv.org/pdf/2510.07452)]
 1. H. Xue, N. S. Moosavi and **N. Aletras** (2025). *Deconstructing Attention: Investigating Design Principles for Effective Language Modeling*. **AACL**\
 	[[pdf](https://arxiv.org/pdf/2510.11602)]
 1. A. Alajrami, X. Tan and **N. Aletras** (2025). *Fine-Tuning on Noisy Instructions: Effects on Generalization and Performance*. **AACL**\
@@ -30,15 +34,15 @@ author_profile: true
 1. A. Yamaguchi, A. Villavicencio and **N. Aletras** (2025). *How Can We Effectively Expand the Vocabulary of LLMs with 0.01GB of Target Language Text?*. **CL**\
 	[[pdf](https://arxiv.org/pdf/2406.11477)]
 1. A. Yamaguchi, T. Morishita, A. Villavicencio and **N. Aletras** (2025). *Adapting Chat Language Models Using Only Target Unlabeled Language Data*. **TMLR**\
-	[[pdf](https://arxiv.org/pdf/2412.11704)]
+	[[pdf](https://openreview.net/pdf?id=6IdoIKowfe)]
 1. S. Lewis-Lim, X. Tan, Z. Zhao and **N. Aletras** (2025). *Analysing Chain of Thought Dynamics: Active Guidance or Unfaithful Post-hoc Rationalisation?*. **EMNLP**\
-	[[pdf]()]
+	[[pdf](https://aclanthology.org/2025.emnlp-main.1516.pdf)]
 1. X. Tan, M. Valentino, M. Akhter, M. Liakata and **N. Aletras** (2025). *Enhancing Logical Reasoning in Language Models via Symbolically-Guided Monte Carlo Process Supervision*. **EMNLP**\
-	[[pdf](https://arxiv.org/pdf/2505.20415)]
-1. A. Hughes, N. Ma and **N. Aletras** (2025). *How Private are Language Models in Abstractive Summarization?*. **EMNLP**\
-	[[pdf](https://arxiv.org/pdf/2412.12040)]
+	[[pdf](https://aclanthology.org/2025.emnlp-main.1624.pdf)]
+1. A. Hughes, **N. Aletras** and N. Ma (2025). *How Private are Language Models in Abstractive Summarization?*. **EMNLP**\
+	[[pdf](https://aclanthology.org/2025.emnlp-main.1531.pdf)]
 1. O. Chlapanis, D. Galanis, **N. Aletras** and I Androutsopoulos (2025). *GreekBarBench: A Challenging Benchmark for Free-Text Legal Reasoning and Citations*. **EMNLP Findings**\
-	[[pdf](https://arxiv.org/pdf/2505.17267)]
+	[[pdf](https://aclanthology.org/2025.findings-emnlp.1368.pdf)]
 1. C. Meng, F. Tonolini, F. Mo, **N. Aletras**, E. Yilmaz and G. Kazai (2025). *Bridging the Gap: From Ad-hoc to Proactive Search in Conversations*. **SIGIR**\
 	[[pdf](https://dl.acm.org/doi/pdf/10.1145/3726302.3729915)]
 1. M. Williams, G. Chrysostomou and **N. Aletras** (2025). *Self-calibration for Language Model Quantization and Pruning*. **NAACL**\
@@ -79,9 +83,9 @@ author_profile: true
 	[[pdf](https://aclanthology.org/2023.findings-emnlp.334.pdf)]
 1.  D. Sanchez Villegas, C. Goanta and **N. Aletras** (2023). *A Multimodal Analysis of Influencer Content on Twitter*. **AACL**\
    🏆 **Area Chair Award: Society and NLP**\
-	[[pdf](https://arxiv.org/pdf/2309.03064.pdf)]
+	[[pdf](https://aclanthology.org/2023.ijcnlp-main.15.pdf)]
 1.  P. Vickers, L. Barrault, E. Monti and **N. Aletras** (2023). *We Need to Talk About Classification Evaluation Metrics in NLP*. **AACL**\
-	[[pdf](https://arxiv.org/pdf/2401.03831.pdf)]
+	[[pdf](https://aclanthology.org/2023.ijcnlp-main.33.pdf)]
 1.  Z. Zhao and **N. Aletras** (2023). *Incorporating Attribution Importance for Improving Faithfulness Metrics*. **ACL**\
 	[[pdf](https://aclanthology.org/2023.acl-long.261.pdf)]
 1.  S. Mensah, K. Sun and **N. Aletras**  (2023). *Trading Syntax Trees for Wordpieces: Target-oriented Opinion Words Extraction with Wordpieces and Aspect Enhancement*. **ACL**\
