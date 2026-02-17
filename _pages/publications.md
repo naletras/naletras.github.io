@@ -23,7 +23,7 @@ author_profile: true
 
 <!-- <a href="#Journal">Journal</a> <a href="#Conference">Conference</a> <a href="#Workshop">Workshop</a> <a href="#Thesis">Thesis</a> -->
 
-1. M. Williams, G. Chrysostomou, V. Jeronymo and **N. Aletras** (2026). *JointCal: Efficient and Effective Domain-adapted Compression*. **EACL**\
+1. M. Williams, G. Chrysostomou, V. Jeronymo and **N. Aletras** (2026). *Compressing Language Models for Specialized Domains*. **EACL**\
 	[[pdf]()]
 1. A. Hughes, V. Duddu, N. Asokan, **N. Aletras** and N. Ma (2026). *PATCH: Mitigating PII Leakage in Language Models with Privacy-Aware Targeted Circuit PatcHing*. **EACL Findings**\
 	[[pdf](https://arxiv.org/pdf/2510.07452)]
@@ -159,43 +159,43 @@ author_profile: true
 1. A. Gajbhiye, M. Fomicheva, F. Alva-Manchego, F. Blain, A. Obamuyide, **N. Aletras** and L. Specia (2021). *Knowledge Distillation for Quality Estimation*. **ACL Findings**\
 	[[pdf](https://aclanthology.org/2021.findings-acl.452.pdf)]
 1. M. Jin and **N. Aletras** (2021). *Modeling the Severity of Complaints in Social Media*. **NAACL**\
-	[[pdf](https://www.aclweb.org/anthology/2021.naacl-main.180.pdf)]
+	[[pdf](https://aclanthology.org/2021.naacl-main.180.pdf)]
 1. I. Chalkidis, M. Fregadiotis, D. Tsarapatsanis, **N. Aletras**, I. Androutsopoulos and P. Malakatsiotis (2021). *Paragraph-level Rationale Extraction through Regularization: A case study on European Court of Human Rights Cases*. **NAACL**\
-	[[pdf](https://www.aclweb.org/anthology/2021.naacl-main.22.pdf)]
+	[[pdf](https://aclanthology.org/2021.naacl-main.22.pdf)]
 1. M. Fomicheva, S. Sun, L. Yankovskaya, F. Blain, F. Guzman, M. Fishel, **N. Aletras**, V. Chaudhary and L. Specia (2020). *Unsupervised Quality Estimation for Neural Machine Translation*. **TACL**\
 \[[pdf](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00330)\]
 1. M. Jin and **N. Aletras** (2020). *Complaint Identification in Social Media with Transformer Networks*. **COLING**\
-	[[pdf](https://www.aclweb.org/anthology/2020.coling-main.157.pdf)]
+	[[pdf](https://aclanthology.org/2020.coling-main.157.pdf)]
 1. I. Chalkidis, M. Fregadiotis, S. Kotitsas, P. Malakatsiotis, <strong>N. Aletras</strong> and I. Androutsopoulos (2020). *An Empirical Study on Large-Scale Multi-Label Text Classification including Few and Zero-Shot Labels*. **EMNLP**\
-	[[pdf](https://www.aclweb.org/anthology/2020.emnlp-main.607.pdf)]
+	[[pdf](https://aclanthology.org/2020.emnlp-main.607.pdf)]
 1. I. Chalkidis, M. Fregadiotis, P. Malakatsiotis, <strong>N. Aletras</strong> and I. Androutsopoulos (2020). *LEGAL-BERT: The Muppets straight out of Law School*. **EMNLP Findings**\
-	[[pdf](https://www.aclweb.org/anthology/2020.findings-emnlp.261.pdf)][[pre-trained models](https://huggingface.co/nlpaueb)]
+	[[pdf](https://aclanthology.org/2020.findings-emnlp.261.pdf)][[pre-trained models](https://huggingface.co/nlpaueb)]
 1. D. Sanchez Villegas, D. Preoţiuc-Pietro and <strong>N. Aletras</strong> (2020). *Point-of-Interest Type Inference from Social Media Text*. **AACL**\
-	[[pdf](https://www.aclweb.org/anthology/2020.aacl-main.80.pdf)]
+	[[pdf](https://aclanthology.org/2020.aacl-main.80.pdf)]
 1. A. Maronikolakis, D. Sanchez Villegas, D. Preoţiuc-Pietro and <strong>N. Aletras</strong> (2020). *Analyzing Political Parody in Social Media*. **ACL**\
-	[<a href="https://www.aclweb.org/anthology/2020.acl-main.403.pdf">pdf</a>][<a href="https://archive.org/details/parody_data_acl20">data</a>]
+	[<a href="https://aclanthology.org/2020.acl-main.403.pdf">pdf</a>][<a href="https://archive.org/details/parody_data_acl20">data</a>]
 1. A. Alokaili, <strong>N. Aletras</strong> and M. Stevenson (2020). *Automatic Generation of Topic Labels*. **SIGIR**\
 	[<a href="https://arxiv.org/ftp/arxiv/papers/2006/2006.00127.pdf">pdf</a>][<a href=" https://github.com/areejokaili/topic_labelling">data and code</a>]
 1. Y. Mu and **N. Aletras** (2020). *Identifying Twitter Users who Repost Unreliable News Sources with Linguistic Information*. **PeerJ Computer Science**\
 \[[pdf](https://peerj.com/articles/cs-325.pdf)\]
 1. F. Blain, <strong>N. Aletras</strong> and L. Specia (2020). *Quality In, Quality Out: Learning from Actual Mistakes*. **EAMT**\
-	[<a href="https://www.aclweb.org/anthology/2020.eamt-1.16.pdf">pdf</a>]
+	[<a href="https://aclanthology.org/2020.eamt-1.16.pdf">pdf</a>]
 1. T. Karmakharm, <strong>N. Aletras</strong> and K. Bontcheva (2019). *Journalist-in-the-Loop: Continuous Learning as a Service for Rumour Analysis*. **EMNLP** (demo)\
-	[<a href="https://www.aclweb.org/anthology/D19-3020.pdf">pdf</a>][<a href="https://tweetveracity.gate.ac.uk/">demo</a>]
+	[<a href="https://aclanthology.org/D19-3020.pdf">pdf</a>][<a href="https://tweetveracity.gate.ac.uk/">demo</a>]
 1. I. Chalkidis, I. Androutsopoulos and <strong>N. Aletras</strong> (2019). *Neural Legal Judgment Prediction in English*. **ACL**\
-	[<a href="https://www.aclweb.org/anthology/P19-1424">pdf</a>]
+	[<a href="https://aclanthology.org/P19-1424">pdf</a>]
 1. D. Preoţiuc-Pietro, M. Gaman and <strong>N. Aletras</strong> (2019). *Automatically  Identifying Complaints in Social Media*. **ACL**\
-	[<a href="https://www.aclweb.org/anthology/P19-1495">pdf</a>]
+	[<a href="https://aclanthology.org/P19-1495">pdf</a>]
 1. A. Alokaili, <strong>N. Aletras</strong> and M. Stevenson (2019). *Re-Ranking Words to Improve Interpretability of Automatically Generated Topics*. **IWCS**\
 	[<a href="https://arxiv.org/pdf/1903.12542.pdf">pdf</a>]
 1. I. Chalkidis, M. Fregadiotis, P. Malakatsiotis, <strong>N. Aletras</strong> and I. Androutsopoulos (2019). *Extreme Multi-Label Legal Text Classification: A case study in EU Legislation*. **Natural Legal Language Processing Workshop** (NAACL)\
-	[<a href="https://www.aclweb.org/anthology/W19-2209">pdf</a>]
+	[<a href="https://aclanthology.org/W19-2209">pdf</a>]
 1. A. Tsakalidis, <strong>N. Aletras</strong>, M. Liakata and A. Cristea (2018). *Nowcasting the Stance of Social Media Users in a Sudden Vote: The Case of the Greek Referendum*. **ACM CIKM**\
 	[<a href="https://arxiv.org/pdf/1808.08538.pdf">pdf</a>]
 1. <strong>N. Aletras</strong>,&nbsp; B. P. Chamberlain (2018). *Predicting Twitter User Socioeconomic Attributes with Network and Language Information* **ACM HyperText**\
 	[<a href="https://arxiv.org/pdf/1804.04095.pdf">pdf</a>]
 1. I. Soroduc, J.&nbsp;H.&nbsp;Lau,&nbsp;<strong>N. Aletras</strong>,&nbsp; T.&nbsp;Baldwin&nbsp;(2017). *Multimodal Topic Labelling*. **EACL**\
-	[<a href="http://aclweb.org/anthology/E/E17/E17-2111.pdf">pdf</a>]
+	[<a href="https://aclanthology.org/E17-2111.pdf">pdf</a>]
 1. <strong>N. Aletras</strong> and A. Mittal (2017). *Labeling Topics with Images using Neural Networks*. **ECIR**\
 	[<a href="https://arxiv.org/pdf/1608.00470v2.pdf">pdf</a>]
 1. **N. Aletras**, T. Baldwin, J. H. Lau and M. Stevenson (2017). *Evaluating Topic Representations for Exploring Document Collections*. **JASIST**\
