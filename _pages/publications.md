@@ -23,16 +23,22 @@ author_profile: true
 
 <!-- <a href="#Journal">Journal</a> <a href="#Conference">Conference</a> <a href="#Workshop">Workshop</a> <a href="#Thesis">Thesis</a> -->
 
+1. A. Yamaguchi, T. Morishita, A. Villavicencio and **N. Aletras** (2026). *Mitigating Catastrophic Forgetting in Target Language Adaptation of LLMs via Source-Shielded Updates*. **ACL**\
+	[[pdf](https://arxiv.org/pdf/2512.04844)]
+1. A. Yamaguchi, M. Mi and **N. Aletras** (2026). *Enhancing Linguistic Competence of Language Models through Pre-training with Language Learning Tasks*. **ACL**\
+	[[pdf](https://arxiv.org/pdf/2601.03448)]
+1. M. Cao, X. Tan, M. Akhter, M. Valentino, M. Liakata, X. Wang and **N. Aletras** (2026). *Fundamental Reasoning Paradigms Induce Out-of-Domain Generalization in Language Models*. **ACL Findings**\
+	[[pdf](https://arxiv.org/pdf/2602.08658)]
 1. M. Williams, G. Chrysostomou, V. Jeronymo and **N. Aletras** (2026). *Compressing Language Models for Specialized Domains*. **EACL**\
-	[[pdf]()]
+	[[pdf](https://aclanthology.org/2026.eacl-long.347.pdf)]
 1. A. Hughes, V. Duddu, N. Asokan, **N. Aletras** and N. Ma (2026). *PATCH: Mitigating PII Leakage in Language Models with Privacy-Aware Targeted Circuit PatcHing*. **EACL Findings**\
-	[[pdf](https://arxiv.org/pdf/2510.07452)]
+	[[pdf](https://aclanthology.org/2026.findings-eacl.271.pdf)]
 1. H. Xue, N. S. Moosavi and **N. Aletras** (2025). *Deconstructing Attention: Investigating Design Principles for Effective Language Modeling*. **AACL**\
-	[[pdf](https://arxiv.org/pdf/2510.11602)]
+	[[pdf](https://aclanthology.org/2025.ijcnlp-long.40.pdf)]
 1. A. Alajrami, X. Tan and **N. Aletras** (2025). *Fine-Tuning on Noisy Instructions: Effects on Generalization and Performance*. **AACL**\
-	[[pdf](https://arxiv.org/pdf/2510.03528)]
+	[[pdf](https://aclanthology.org/2025.ijcnlp-long.41.pdf)]
 1. A. Yamaguchi, A. Villavicencio and **N. Aletras** (2025). *How Can We Effectively Expand the Vocabulary of LLMs with 0.01GB of Target Language Text?*. **CL**\
-	[[pdf](https://arxiv.org/pdf/2406.11477)]
+	[[pdf](https://direct.mit.edu/coli/article-pdf/52/1/295/2567977/coli.a.581.pdf)]
 1. A. Yamaguchi, T. Morishita, A. Villavicencio and **N. Aletras** (2025). *Adapting Chat Language Models Using Only Target Unlabeled Language Data*. **TMLR**\
 	[[pdf](https://openreview.net/pdf?id=6IdoIKowfe)]
 1. S. Lewis-Lim, X. Tan, Z. Zhao and **N. Aletras** (2025). *Analysing Chain of Thought Dynamics: Active Guidance or Unfaithful Post-hoc Rationalisation?*. **EMNLP**\
