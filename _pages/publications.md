@@ -23,6 +23,8 @@ author_profile: true
 
 <!-- <a href="#Journal">Journal</a> <a href="#Conference">Conference</a> <a href="#Workshop">Workshop</a> <a href="#Thesis">Thesis</a> -->
 
+1. V. A. Permadi, X. Tan, N. Moosavi and **N. Aletras** (2026). *No Shortcuts to Culture: Indonesian Multi-hop Question Answering for Complex Cultural Understanding*. **TACL**\
+	[[pdf](https://arxiv.org/pdf/2602.03709)]
 1. A. Yamaguchi, T. Morishita, A. Villavicencio and **N. Aletras** (2026). *Mitigating Catastrophic Forgetting in Target Language Adaptation of LLMs via Source-Shielded Updates*. **ACL**\
 	[[pdf](https://arxiv.org/pdf/2512.04844)]
 1. A. Yamaguchi, M. Mi and **N. Aletras** (2026). *Enhancing Linguistic Competence of Language Models through Pre-training with Language Learning Tasks*. **ACL**\
