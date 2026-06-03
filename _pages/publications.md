@@ -24,7 +24,7 @@ author_profile: true
 <!-- <a href="#Journal">Journal</a> <a href="#Conference">Conference</a> <a href="#Workshop">Workshop</a> <a href="#Thesis">Thesis</a> -->
 
 1. T. Liu, C. Qian, M. Cief, Y. He, D. Dan, **N. Aletras** and G. Kazai (2026). *On Effectiveness and Efficiency of Agentic Tool-calling and RL Training*. **ICML**\
-	[[pdf]()]
+	[[pdf](https://arxiv.org/pdf/2606.00135)]
 1. V. A. Permadi, X. Tan, N. Moosavi and **N. Aletras** (2026). *No Shortcuts to Culture: Indonesian Multi-hop Question Answering for Complex Cultural Understanding*. **TACL**\
 	[[pdf](https://arxiv.org/pdf/2602.03709)]
 1. A. Yamaguchi, T. Morishita, A. Villavicencio and **N. Aletras** (2026). *Mitigating Catastrophic Forgetting in Target Language Adaptation of LLMs via Source-Shielded Updates*. **ACL**\
