@@ -23,8 +23,7 @@ author_profile: true
 
 <!-- <a href="#Journal">Journal</a> <a href="#Conference">Conference</a> <a href="#Workshop">Workshop</a> <a href="#Thesis">Thesis</a> -->
 
-1. Y. Peng, D. Zhang, X. Wang and **N. Aletras** (2026). *StateBridge: Training-free Hidden-state Alignment for Latent Communication in LLM Multi-Agent Systems
-I*. **COLM**\
+1. Y. Peng, D. Zhang, X. Wang and **N. Aletras** (2026). *StateBridge: Training-free Hidden-state Alignment for Latent Communication in LLM Multi-Agent Systems*. **COLM**\
 	[[pdf]()]
 1. D. Sanchez Villegas, S. Lewis-Lim, **N. Aletras** and D. Elliott (2026). *Reasoning Dynamics and the Limits of Monitoring Modality Reliance in Vision-Language Models*. **COLM**\
 	[[pdf](https://arxiv.org/pdf/2604.14888)]
