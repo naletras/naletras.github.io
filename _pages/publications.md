@@ -36,7 +36,7 @@ author_profile: true
 1. X. Tan, M. Valentino, M. Akhter, Y. Zhou, M. Liakata and **N. Aletras** (2026). *Compliance versus Sensibility: On the Reasoning Controllability in Large Language Models*. **EMNLP Findings**\
 	[[pdf](https://arxiv.org/pdf/2604.27251)]
 1. Y. Peng, D. Zhang, X. Wang and **N. Aletras** (2026). *StateBridge: Training-free Hidden-state Alignment for Latent Communication in LLM Multi-Agent Systems*. **COLM**\
-	[[pdf]()]
+	[[pdf](https://arxiv.org/pdf/2608.13317)]
 1. D. Sanchez Villegas, S. Lewis-Lim, **N. Aletras** and D. Elliott (2026). *Reasoning Dynamics and the Limits of Monitoring Modality Reliance in Vision-Language Models*. **COLM**\
 	[[pdf](https://arxiv.org/pdf/2604.14888)]
 1. T. Liu, C. Qian, M. Cief, Y. He, D. Dan, **N. Aletras** and G. Kazai (2026). *On Effectiveness and Efficiency of Agentic Tool-calling and RL Training*. **ICML**\
