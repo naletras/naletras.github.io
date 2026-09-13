@@ -23,10 +23,14 @@ author_profile: true
 
 <!-- <a href="#Journal">Journal</a> <a href="#Conference">Conference</a> <a href="#Workshop">Workshop</a> <a href="#Thesis">Thesis</a> -->
 
+1.  Y. Peng, D. Zhang, X. Wang and **N. Aletras** (2026). *BusMA: A Bus Communication Substrate for Multi-Agent Systems*. **AACL**\
+	[[pdf]()]
+1.  S. Lewis-Lim, X. Tan, Z. Zhao and **N. Aletras** (2026). *Think When Unsure: Leveraging Model Confidence to Decide When to Use Chain-of-Thought*. **AACL Findings**\
+	[[pdf](https://arxiv.org/pdf/2510.21007)]
 1.  H. Xue, A. Yamaguchi and **N. Aletras** (2026). *MultiHashFormer: Hash-based Generative Language Models*. **EMNLP**\
 	[[pdf](https://arxiv.org/pdf/2606.28057)]
 1.  S. Kumar, A. Yamaguchi and **N. Aletras** (2026). *When Tokenizers Fail: Byte-Level Chunking for Zero-Shot Transfer to Low-Resource Languages*. **EMNLP**\
-	[[pdf]()]
+	[[pdf](https://arxiv.org/pdf/2608.27658)]
 1.  C. Karouzos, X. Tan and **N. Aletras** (2026). *An Empirical Study on Preference Tuning Generalization and Diversity Under Domain Shift*. **EMNLP**\
 	[[pdf](https://arxiv.org/pdf/2601.05882)]
 1. Y. Pu, D. A. Gonzalez-Salzberg, Z. Yuan and **N. Aletras** (2026). *How Much is a Human Right Worth? ECtHR-NPD: A Benchmark for Predicting Non-Pecuniary Damage Awards*. **EMNLP**\
@@ -39,6 +43,8 @@ author_profile: true
 	[[pdf](https://arxiv.org/pdf/2608.13317)]
 1. D. Sanchez Villegas, S. Lewis-Lim, **N. Aletras** and D. Elliott (2026). *Reasoning Dynamics and the Limits of Monitoring Modality Reliance in Vision-Language Models*. **COLM**\
 	[[pdf](https://arxiv.org/pdf/2604.14888)]
+1. X. Deng, M. Cao, **N. Aletras**, X. Wang and M. Stevenson (2026). *Evaluating and Improving Evidence-Grounded Fact-Checking in LLMs via Multi-Round Evidence Ablation*. **CIKM**\
+	[[pdf](https://arxiv.org/pdf/2609.08943)]
 1. T. Liu, C. Qian, M. Cief, Y. He, D. Dan, **N. Aletras** and G. Kazai (2026). *On Effectiveness and Efficiency of Agentic Tool-calling and RL Training*. **ICML**\
 	[[pdf](https://arxiv.org/pdf/2606.00135)]
 1. V. A. Permadi, X. Tan, N. Moosavi and **N. Aletras** (2026). *No Shortcuts to Culture: Indonesian Multi-hop Question Answering for Complex Cultural Understanding*. **TACL**\
