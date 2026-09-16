@@ -81,6 +81,8 @@ author_profile: true
 	[[pdf](https://aclanthology.org/2025.naacl-long.509.pdf)]
 1. M. Williams and **N. Aletras** (2025). *Vocabulary-level Memory Efficiency for Language Model Fine-tuning*. **Representation Learning for NLP Workshop (NAACL)**\
 	[[pdf](https://aclanthology.org/2025.repl4nlp-1.14.pdf)]
+1. J. Fang, Y. Peng, X. Zhang, Y. Wang, X. Yi, G. Zhang, Y. Xu, B. Wu, S. Liu, Z. Li, Z. Ren, **N. Aletras**, X. Wang, H. Zhou and Z. Meng (2025). *A comprehensive survey of self-evolving ai agents: A new paradigm bridging foundation models and lifelong agentic systems*. **arxiv**\
+	[[pdf](https://arxiv.org/pdf/2508.07407)]
 1. Y. Mu, M. Jin, X. Song and **N. Aletras** (2024). *Enhancing Data Quality through Simple De-duplication: Navigating Responsible Computational Social Science Research*. **EMNLP**\
 	[[pdf](https://aclanthology.org/2024.emnlp-main.694.pdf)]
 1. A. Yamaguchi, A. Villavicencio and **N. Aletras** (2024). *An Empirical Study on Cross-lingual Vocabulary Adaptation for Efficient Language Model Inference*. **EMNLP Findings**\
