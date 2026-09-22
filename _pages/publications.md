@@ -34,11 +34,13 @@ author_profile: true
 1.  C. Karouzos, X. Tan and **N. Aletras** (2026). *An Empirical Study on Preference Tuning Generalization and Diversity Under Domain Shift*. **EMNLP**\
 	[[pdf](https://arxiv.org/pdf/2601.05882)]
 1. Y. Pu, D. A. Gonzalez-Salzberg, Z. Yuan and **N. Aletras** (2026). *How Much is a Human Right Worth? ECtHR-NPD: A Benchmark for Predicting Non-Pecuniary Damage Awards*. **EMNLP**\
-	[[pdf]()]
+	[[pdf](https://arxiv.org/pdf/2609.18908)]
 1. M. Cao, X. Wang and **N. Aletras** (2026). *Optimal Transport Depth Up-Scaling*. **EMNLP Findings**\
 	[[pdf](https://arxiv.org/pdf/2508.08011)]
 1. X. Tan, M. Valentino, M. Akhter, Y. Zhou, M. Liakata and **N. Aletras** (2026). *Compliance versus Sensibility: On the Reasoning Controllability in Large Language Models*. **EMNLP Findings**\
 	[[pdf](https://arxiv.org/pdf/2604.27251)]
+1. P. Tropeano, M. Maistro, T. Ruotsalo, C. Lioma and **N. Aletras** (2026). *Improving Efficiency of Ternary Large Language Models through Pruning*. **ClimateNLP Workshop (EMNLP)**\
+	[[pdf]()]
 1. Y. Peng, D. Zhang, X. Wang and **N. Aletras** (2026). *StateBridge: Training-free Hidden-state Alignment for Latent Communication in LLM Multi-Agent Systems*. **COLM**\
 	[[pdf](https://arxiv.org/pdf/2608.13317)]
 1. D. Sanchez Villegas, S. Lewis-Lim, **N. Aletras** and D. Elliott (2026). *Reasoning Dynamics and the Limits of Monitoring Modality Reliance in Vision-Language Models*. **COLM**\
