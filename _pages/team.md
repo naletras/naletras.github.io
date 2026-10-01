@@ -20,10 +20,13 @@ author_profile: true
 ### Research Staff
 
 * [Xingwei Tan](https://scholar.google.com/citations?user=GAUKDsYAAAAJ&hl=en)
+* [Atsuki Yamaguchi](https://gucci-j.github.io/about/)
 
 ### PhD Students
 
 * Mingzi Cao
+* [Jo-Ku Cheng](https://chengruogu0915.github.io/) (co-supervised w/ Marco Valentino)
+* Uswatun Hasanah 
 * Anthony Hughes (co-supervised w/ Ning Ma)
 * [Constantinos Karouzos](https://ckarouzos.github.io/)
 * Sam Lewis-Lim
@@ -31,8 +34,8 @@ author_profile: true
 * Yanwen Peng
 * Vynska Permandi
 * Yanyi Pu
-* [Miles Williams](https://github.com/mlsw)
-* [Atsuki Yamaguchi](https://gucci-j.github.io/about/)
+* Xinjin Qi
+
 
 
 
@@ -43,6 +46,7 @@ author_profile: true
 
 ### Past Members and Visitors
 
+* [Miles Williams](https://scholar.google.com/citations?user=c_374bAAAAAJ&hl=en) (PhD student, 2022-26) $\rightarrow$ Research Scientist, Samsung AI Center, UK
 * [Huiyin Xue](https://huiyinxue.github.io/) (PhD student, 2021-25) $\rightarrow$ Research Associate, UKP Lab, Technical University of Darmstadt, Germany
 * [Ahmed Alajrami](https://aajrami.github.io/) (PhD student, 2021-25) $\rightarrow$ Research Scientist, Samsung Research, UK
 * Pietro Tropeano (Visiting PhD student from Copenhagen, 2025)
