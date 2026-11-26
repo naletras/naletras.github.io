@@ -23,7 +23,7 @@ author_profile: true
 
 <!-- <a href="#Journal">Journal</a> <a href="#Conference">Conference</a> <a href="#Workshop">Workshop</a> <a href="#Thesis">Thesis</a> -->
 
-1.  D. Tsarapatsanis and **N. Aletras** (2026). *BusMA: A Bus Communication Substrate for Multi-Agent Systems*. **EACL Findings**\
+1.  D. Tsarapatsanis and **N. Aletras** (2026). *Prediction, Behaviorism and Explanation in Legal NLP: Some Deflationary Thoughts*. **EACL Findings**\
 	[[pdf](http://naletras.github.io/files/2027_EACL.pdf)]
 1.  Y. Peng, D. Zhang, X. Wang and **N. Aletras** (2026). *BusMA: A Bus Communication Substrate for Multi-Agent Systems*. **AACL**\
 	[[pdf](https://aclanthology.org/2026.aacl-long.31.pdf)]
