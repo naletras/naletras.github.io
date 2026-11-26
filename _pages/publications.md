@@ -24,7 +24,7 @@ author_profile: true
 <!-- <a href="#Journal">Journal</a> <a href="#Conference">Conference</a> <a href="#Workshop">Workshop</a> <a href="#Thesis">Thesis</a> -->
 
 1.  D. Tsarapatsanis and **N. Aletras** (2026). *BusMA: A Bus Communication Substrate for Multi-Agent Systems*. **EACL Findings**\
-	[[pdf](files/2027_EACL.pdf)]
+	[[pdf](http://naletras.github.io/files/2027_EACL.pdf)]
 1.  Y. Peng, D. Zhang, X. Wang and **N. Aletras** (2026). *BusMA: A Bus Communication Substrate for Multi-Agent Systems*. **AACL**\
 	[[pdf](https://aclanthology.org/2026.aacl-long.31.pdf)]
 1.  S. Lewis-Lim, X. Tan, Z. Zhao and **N. Aletras** (2026). *Think When Unsure: Leveraging Model Confidence to Decide When to Use Chain-of-Thought*. **AACL Findings**\
